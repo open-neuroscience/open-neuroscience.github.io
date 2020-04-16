@@ -1,0 +1,15 @@
+---
+title: BrainBrowser
+authors: ['André Maia Chagas']
+layout: post
+categories: ['Data analysis']
+tags: ['Data analysis']
+
+---
+
+
+<a style="text-indent:0;letter-spacing:normal;font-variant:normal;text-align:left;font-style:normal;font-weight:normal;line-height:22.39999961853px;color:#0c5390;text-transform:none;font-size:14px;white-space:normal;text-decoration:none;font-family:Helvetica, Arial, Tahoma, sans-serif;word-spacing:0;" href="https://brainbrowser.cbrain.mcgill.ca/" target="_blank">BrainBrowser</a> <span style="text-indent:0;letter-spacing:normal;font-variant:normal;text-align:left;font-style:normal;display:inline !important;font-weight:normal;float:none;line-height:22.39999961853px;color:#333333;text-transform:none;font-size:14px;white-space:normal;font-family:Helvetica, Arial, Tahoma, sans-serif;word-spacing:0;">is a collection of open source, web-based 3D data visualization tools, mainly for neuroimaging studies. It is built using open technologies such as WebGL and HTML5. It allows exploration of cortical surface models (MNI and Wavefront OBJ, as well as FreeSurfer ASCII surface format) and volumetric MINC data. This project is currently maintained by </span><a style="text-indent:0;letter-spacing:normal;font-variant:normal;text-align:left;font-style:normal;font-weight:normal;line-height:22.39999961853px;color:#0c5390;text-transform:none;font-size:14px;white-space:normal;text-decoration:none;font-family:Helvetica, Arial, Tahoma, sans-serif;word-spacing:0;" href="http://www.tareksherif.ca/" target="_blank"><span class="il">Tarek</span> Sherif</a><span style="text-indent:0;letter-spacing:normal;font-variant:normal;text-align:left;font-style:normal;display:inline !important;font-weight:normal;float:none;line-height:22.39999961853px;color:#333333;text-transform:none;font-size:14px;white-space:normal;font-family:Helvetica, Arial, Tahoma, sans-serif;word-spacing:0;"> at McGill University, and the source code is available on <a href="https://github.com/aces/brainbrowser" target="_blank">GitHub</a></span> (text provided by Tarek).
+
+&nbsp;<figure id="attachment_740" style="width: 300px" class="wp-caption aligncenter">
+
+[<img class="size-medium wp-image-740" src="https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/macacc.png?resize=300%2C199" alt="From https://brainbrowser.cbrain.mcgill.ca/" width="300" height="199" srcset="https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/macacc.png?w=1199 1199w, https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/macacc.png?resize=300%2C200 300w, https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/macacc.png?resize=768%2C512 768w, https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/macacc.png?resize=1024%2C682 1024w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />](https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/macacc.png)<figcaption class="wp-caption-text">From https://brainbrowser.cbrain.mcgill.ca/</figcaption></figure>
