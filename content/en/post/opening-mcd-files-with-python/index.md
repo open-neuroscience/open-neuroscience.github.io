@@ -3,6 +3,8 @@ title: Opening MCD files with python
 authors: ['André Maia Chagas']
 layout: post
 
+categories: ['Learning']
+tags: ['Learning']
 ---
 This is a small piece of python code that converts *.mcd files  (electrophysiology data as recorded from the multichannelsystems rig, using their MCRack software) into python.
 

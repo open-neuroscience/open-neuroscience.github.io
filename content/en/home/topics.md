@@ -27,16 +27,73 @@ subtitle = ""
   #  tag = "*"
   
   [[content.filter_button]]
+    name = "All"
+    tag = "*"
+  [[content.filter_button]]
     name = "Benchtop"
     tag = "Benchtop"
   
   [[content.filter_button]]
     name = "Behaviour"
     tag = "Behaviour"
+  [[content.filter_button]]
+    name = "Computers"
+    tag = "Computers"
+  [[content.filter_button]]
+    name = "Hardware"
+    tag = "Hardware"
+  [[content.filter_button]]
+    name = "Software"
+    tag = "Software"
+  [[content.filter_button]]
+    name = "Computer Clusters"
+    tag = "Computer clusters"
+  [[content.filter_button]]
+    name = "Data Analysis"
+    tag = "Data analysis"
+  [[content.filter_button]]
+    name = "Data Repositories"
+    tag = "Database"
+  [[content.filter_button]]
+    name = "Animal electrophysiology"
+    tag = "Animal ephys"
+  [[content.filter_button]]
+    name = "Human electrophysiology"
+    tag = "Human ephys"
+  [[content.filter_button]]
+    name = "Prosthetics"
+    tag = "Prosthetics"
+  [[content.filter_button]]
+    name = "Microscopes"
+    tag = "Microscope"
+  [[content.filter_button]]
+    name = "Microscopes software"
+    tag = "Microscopes software"
+    
+  [[content.filter_button]]
+    name = "Simulations"
+    tag = "Simulation"
+  [[content.filter_button]]
+    name = "Tutorials and learning portals"
+    tag = "Learning"
+  [[content.filter_button]]
+    name = "Backlog"
+    tag = "Topic"
+  [[content.filter_button]]
+    name = "Optogenetics"
+    tag = "Optogenetics"    
+  [[content.filter_button]]
+    name = "Electric Stimulation"
+    tag = "Electric"
+    
+  [[content.filter_button]]
+    name = "Other"
+    tag = "Other"
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "3"
 
   # Toggle between the various page layout types.
   #   1 = List
