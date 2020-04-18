@@ -12,22 +12,3 @@ Hard to believe, but there are actually open source projects for data sharing an
 
 
 Another information source on wikipedia: [Neuroscience databases](http://en.wikipedia.org/wiki/List_of_neuroscience_databases)
-
-
-
-<section class="blog">
-  <div class="container">
-    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-
-      {% for page in site.pages %}
-        {% for category in page.categories %}
-          {% if category == "Database" %}
-            {% include card_page.html %}
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-
-
-    </div>
-  </div>
-</section>
