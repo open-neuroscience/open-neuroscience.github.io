@@ -11,6 +11,4 @@ tags: ['Data analysis']
 
 &nbsp;
 
-<img class="aligncenter" src="https://i0.wp.com/nipy.org/nibabel/_static/nipy-logo-bg-138x120.png?resize=138%2C120" alt="" width="138" height="120" data-recalc-dims="1" />
-
-http://nipy.org/nibabel/_static/nipy-logo-bg-138&#215;120.png
+![](https://nipy.org/nibabel/_static/nipy-logo-bg-138x120.png)
