@@ -18,7 +18,7 @@ role: Team member
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio
+bio: I continuously find myself mesmerized by the complexity of life. I finished my Biology Degree at University of Buenos Aires in 2015 and moved to the United States in order to continue my studies at University of Massachusetts Amherst. After obtaining my MSc, I continued doing neuroscience at MIT. I am currently doing a PhD in Neuroscience at Tufts University.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -31,12 +31,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/NeuroMLA
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=PnTVdPAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/open-neuroscience
+  link: https://github.com/matiasandina
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
