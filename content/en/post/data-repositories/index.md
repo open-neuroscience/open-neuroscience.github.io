@@ -10,7 +10,7 @@ In here are some examples of tools that can be used to share/store data collecte
 
 [FigShare](http://figshare.com/about): Free repository that allows storage of any sort of files (data, code, schematics) and gives each of them a digital object identifier (also keeping track to any changes made), which makes them citable. Also the website has tools to share the data.<figure id="attachment_1270" style="width: 167px" class="wp-caption aligncenter">
 
-<img src="https://i1.wp.com/openeuroscience.com/wp-content/uploads/2014/07/full-logo.png?resize=167%2C52" width="167" height="52" data-recalc-dims="1" /><figcaption class="wp-caption-text">figshare.com</figcaption></figure>
+![](https://upload.wikimedia.org/wikipedia/commons/d/df/Figshare_logo.svg)
 
 &nbsp;
 
