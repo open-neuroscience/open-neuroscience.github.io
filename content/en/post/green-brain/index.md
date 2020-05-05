@@ -4,7 +4,7 @@ authors: ['André Maia Chagas']
 layout: post
 categories: ['Simulation']
 tags: ['Simulation']
-
+date: 2020-05-05
 ---
 
 [The Green Brain project](http://greenbrain.group.shef.ac.uk/) wants to create an artificial _Apis mellifera_ brain and implement said brain into a robot, that will be able to fly and and behave just like a honey bee!

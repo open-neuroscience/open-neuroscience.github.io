@@ -4,7 +4,7 @@ authors: ['André Maia Chagas']
 layout: post
 categories: ['Software']
 tags: ['Software']
-
+date: 2020-05-05
 ---
 Linux is an open source operating system and it is the major OS used in servers and supercomputers.  [Ubuntu](http://www.ubuntu.com), one of the best known distributions has been gaining space in the personal computing scene, now days already being factory [shipped](http://www.omgubuntu.co.uk/2012/05/ubuntu-to-ship-on-5-of-all-pcs-sold-next-year) by major manufacturers.
 

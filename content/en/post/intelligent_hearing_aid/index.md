@@ -4,7 +4,7 @@ authors: ['André Maia Chagas']
 layout: post
 categories: ['Prosthetics']
 tags: ['Prosthetics']
-
+date: 2020-05-05
 ---
 Ojoshi at instructables.com has posted a manual on how to build this arduino based [hearing aid system](http://www.instructables.com/id/Intelligent-Hearing-Aid/?ALLSTEPS).
 

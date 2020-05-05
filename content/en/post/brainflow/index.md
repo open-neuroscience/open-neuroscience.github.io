@@ -1,14 +1,16 @@
 ---
-title: 'Data Acquisition and Signal Processing'
-author: Andrey1994
+title: 'Brainflow'
+author: ['Andrey1994','André Maia Chagas']
 layout: post
-categories: ['Software']
-tags: ['Software']
-
+categories: ['Software','Human Ephys']
+tags: ['Software','Human Ephys']
+date: 2020-05-05
 ---
-**Brainflow**
 
-[BrainFlow](https://github.com/Andrey1994/brainflow) is a library which provides two APIs:
+
+[BrainFlow](https://brainflow.ai/) BrainFlow is a library intended to obtain, parse and analyze EEG, EMG, ECG and other kinds of data from biosensors, it provides two APIs:
+
+
 
 * Data Acquisition API to obtain data from BCI boards
 * Signal Processing API which is completely independent and can be used without Data Acquisition API

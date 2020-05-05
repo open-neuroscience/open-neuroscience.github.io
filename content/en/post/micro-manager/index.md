@@ -3,7 +3,7 @@ title: Micro-Manager
 authors: ['André Maia Chagas']
 categories: ['Microscopes software']
 tags: ['Microscopes software']
-
+date: 2020-05-05
 ---
 
 

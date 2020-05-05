@@ -5,21 +5,34 @@ layout: post
 
 categories: ['Data analysis']
 tags: ['Data analysis']
+date: 2020-05-05
 ---
-[NiPy](http://nipy.org/) is an effort to make brain imaging research easier and more clear. This is implemented by providing a series of software that deal with file IO, analysis, and interfaces & pipelines.
 
-The software present up to now (18/10/2014)
+[NiPy](https://nipy.org/) is an effort to make brain imaging research easier and more clear. This is implemented by providing a series of software that deal with file IO, analysis, and interfaces & pipelines.
 
-[nipy](http://nipy.org/nipy/stable/index.html)
+The software present up to now (05/05/2020)
 
-[nipype](http://nipy.org/nipype/)
+[nipype](https://nipy.org/packages/nipype/index.html)
 
-[nitime](http://nipy.org/nitime/)
+[diPy](https://nipy.org/packages/dipy/index.html)
 
-[NiBabel](http://openeuroscience.wordpress.com/software/data-analysis-and-visualization/nipy/nibabel/ "NiBabel")
+[mindboggle](https://nipy.org/packages/mindboggle/index.html)   
 
-[dipy](http://nipy.org/dipy/)
+[NiBabel](https://nipy.org/packages/nibabel/index.html)
 
-[pbrain](https://github.com/nipy/pbrain)
+[scitran SDM](https://nipy.org/packages/sdm/index.html)
 
-&nbsp;
+[nipy](https://nipy.org/packages/nipy/index.html)
+
+[nitime](https://nipy.org/packages/nitime/index.html)
+
+[popeye](https://nipy.org/packages/popeye/index.html)
+
+[niLearn](https://nipy.org/packages/nilearn/index.html)
+
+[PyMVPA](https://nipy.org/packages/pymvpa/index.html)
+
+[MNE](https://nipy.org/packages/mne/index.html)
+
+[niwidgets](https://nipy.org/packages/niwidgets/index.html)
+

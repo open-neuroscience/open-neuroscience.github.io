@@ -5,6 +5,7 @@ authors: ['André Maia Chagas']
 layout: post
 categories: ['Benchtop']
 tags: ['Benchtop']
+date: 2020-05-05
 ---
 
 [GogoFuge](https://diybio.org/2012/06/12/gogofuge/) is a good example of the power of opensource designs. IT was based on the idea of the DremelFuge and altered to be a tabletop centrifuge with vortex capability. It was created by [Keegan Cooke](fablabatschool.org/profile/KeeganCooke)
