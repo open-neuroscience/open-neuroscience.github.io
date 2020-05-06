@@ -31,11 +31,6 @@ jobs:
       with:
         hugo-version: 'latest'
         extended: true
-    # Runs test to see how to get git user
-    - name: Run a multi-line script
-      run: |
-        git config --list
-        echo test, and deploy your project
 
     # build the website
     - name: Build
@@ -66,5 +61,5 @@ jobs:
     # Runs a single command using the runners shell
     - name: Run a one-line script
       run: echo Hello, world!
-
+    
     
