@@ -31,7 +31,12 @@ jobs:
       with:
         hugo-version: 'latest'
         extended: true
-    
+    # Runs test to see how to get git user
+    - name: Run a multi-line script
+      run: |
+        echo git user.name
+        echo test, and deploy your project
+
     # build the website
     - name: Build
       run: hugo
@@ -40,6 +45,7 @@ jobs:
       #with:
         #  github_token: ${{ secrets.GITHUB_TOKEN }}
         #  publish_dir: ./public 
+      
       run: |
         cd ./public
         #using my personal information for now, need to figure out how to do this for each user later
@@ -61,8 +67,4 @@ jobs:
     - name: Run a one-line script
       run: echo Hello, world!
 
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project
+    
