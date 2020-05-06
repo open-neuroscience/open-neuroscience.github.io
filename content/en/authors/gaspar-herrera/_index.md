@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Dr. Benjamin Paffhausen
+name: Gaspar Herrera
 
 # Username (this should match the folder name)
 authors:
-- Benjamin Paffhausen
+- Gaspar Herrera
 
 # Is this the primary user of the site?
 superuser: true
