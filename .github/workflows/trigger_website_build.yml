@@ -42,9 +42,19 @@ jobs:
         #  publish_dir: ./public 
       run: |
         cd ./public
+        #using my personal information for now, need to figure out how to do this for each user later
+        git config --local user.name 'amchagas'
+        git config --local user.email 'andremaia.chagas@gmail.com'
+        
         git add .
-        git commit -m "deploying website"
-        git push
+        git commit -am "deploying website"
+    
+    #push changes
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+          git push
         
             
     # Runs a single command using the runners shell
