@@ -4,14 +4,9 @@ author: JJ Ballesteros
 layout: post
 categories: ['Behaviour']
 tags: ['Behaviour']
-
+date: 2020-05-06
 ---
 
-
-
-![](https://photos.google.com/share/AF1QipMxpXqxGWiVl98sFRuE5d2wyF7pcO_i23qoHJxjQryp-zRBaBtiwzllZpUM55V4wg/photo/AF1QipNxO-Oprgxr0ZqXD5d_xa9bAcE9DPH41ruR1mbG?key=aU5WVnBFN19RbDc0WUw3T2Z3UVVNZTlybTBsMDdB)
-
-[<img class="aligncenter size-medium wp-image-1393" src="https://i0.wp.com/openeuroscience.com/wp-content/uploads/2017/08/IMG_26072017_122944_HDR.jpg?resize=296%2C300" alt="" width="296" height="300" srcset="https://i0.wp.com/openeuroscience.com/wp-content/uploads/2017/08/IMG_26072017_122944_HDR.jpg?resize=296%2C300 296w, https://i0.wp.com/openeuroscience.com/wp-content/uploads/2017/08/IMG_26072017_122944_HDR.jpg?w=593 593w" sizes="(max-width: 296px) 100vw, 296px" data-recalc-dims="1" />](https://photos.google.com/share/AF1QipMxpXqxGWiVl98sFRuE5d2wyF7pcO_i23qoHJxjQryp-zRBaBtiwzllZpUM55V4wg/photo/AF1QipNxO-Oprgxr0ZqXD5d_xa9bAcE9DPH41ruR1mbG?key=aU5WVnBFN19RbDc0WUw3T2Z3UVVNZTlybTBsMDdB)
 
 The **motivation** to start this project arises when we started to include a new behavioral paradigm in the lab, an alternation T-mace with return arms (like the one in Wood e_t al._ 2000). We wanted a clean performance, as well as a clean video record, so we consider necessary to interfere neither with the animal attention (mice, how they are!) nor the camera’s field of view. I decided then to give a try to the new hobby I was getting into, “Do-It-Yourself” (DIY) stuff.
 
@@ -26,7 +21,12 @@ Well perhaps it is a bit more. **So far, the project can**:
 
 To achieve it, I decided for very **simple approach**. A couple of cheap infrared emitters are continuously read by an UNO R3 board. Breaking any of the beams triggers the signal to open the corresponding solenoid valve, connected to the fluid tank. That lets the liquid flow by gravity for around 75 milliseconds, resulting in a single drop at the tip of the licking port.
 
-<img class="aligncenter size-medium wp-image-1395" src="https://i0.wp.com/openeuroscience.com/wp-content/uploads/2017/08/IMG_26072017_123026_HDR.jpg?resize=300%2C250" alt="" width="300" height="250" srcset="https://i0.wp.com/openeuroscience.com/wp-content/uploads/2017/08/IMG_26072017_123026_HDR.jpg?resize=300%2C250 300w, https://i0.wp.com/openeuroscience.com/wp-content/uploads/2017/08/IMG_26072017_123026_HDR.jpg?w=720 720w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />
+<div align="center">
+
+![](./featured2.jpg)
+
+</div>
+
 
 There is a delay after each detection, to avoid repetitive delivery if animals don’t leave the area. A couple LEDs mounted in the bare-board (out of animal sight) light up when the process is triggered, one for each side. They also work as indicators for the ‘Waiting for selection’ mode, when they are continuously on, meanwhile no option is choose or the ‘return to waiting mode action’ is pressed.
 
@@ -54,7 +54,6 @@ And that’s all, **it’s simple**. The most important thing: it **works**. The
 
 Feel free to access the [Github](https://github.com/jjballesteros/Arduino-AutoReward) page or the [Arduino forum post](http://forum.arduino.cc/index.php?topic=476643.0) to obtain the **code**, check for the circuit **sketch**, and see some **pictures**.
 
-Also check this [link for a video](https://photos.app.goo.gl/inLCLgfL1IqyNhQP2) of a mice test
 
 PD: If someone is scandalized by the code, I am getting better on it, it is not my main strength. Please, improve it! Of course, I have in mind many possible upgrades such as a screen, a SD card port, to change the Keypad for a wireless interface (tactile?) … Did someone say smartphone plus Bluetooth? Going fancy, a barcode reader to easily introduce subjects’ data… And here is where I relay in the open-access idea, I offer it and hopefully someone implement any of the ideas. If so, remember to share!
 
@@ -62,6 +61,6 @@ Jesús J. Ballesteros
 
 Contact me:
 
-Twitter: https://twitter.com/jjballesterosc
+[Twitter](https://twitter.com/jjballesterosc)
 
-ResearchGate: https://www.researchgate.net/profile/J\_J\_Ballesteros
+[ResearchGate](https://www.researchgate.net/profile/J_J_Ballesteros)

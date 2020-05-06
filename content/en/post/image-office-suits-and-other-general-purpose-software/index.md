@@ -5,6 +5,7 @@ layout: post
 categories: ['Software']
 tags: ['Software']
 date: 2020-05-05
+
 ---
 If you are using Linux, changes are that this page is not that useful for you, since most of these programs come installed by default. For you who are not yet into linux, most of these programs have Windows/Mac versions:
 

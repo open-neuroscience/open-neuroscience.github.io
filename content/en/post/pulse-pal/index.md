@@ -4,7 +4,7 @@ author: JSanders
 layout: post
 categories: ['Optogenetics']
 tags: ['Optogenetics']
-
+date: 2020-05-06
 ---
 
 
@@ -12,4 +12,4 @@ tags: ['Optogenetics']
 
 Be sure to check the [paper](http://journal.frontiersin.org/article/10.3389/fneng.2014.00043/abstract) about it and their [wiki page.](https://sites.google.com/site/pulsepalwiki/home)<figure id="attachment_1012" style="width: 300px" class="wp-caption aligncenter">
 
-[<img class="size-medium wp-image-1012" src="https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/02/pulsepal_home.png?resize=300%2C275" alt="from: https://sites.google.com/site/pulsepalwiki/home" width="300" height="275" srcset="https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/02/pulsepal_home.png?w=600 600w, https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/02/pulsepal_home.png?resize=300%2C275 300w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />](https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/02/pulsepal_home.png)<figcaption class="wp-caption-text">from: https://sites.google.com/site/pulsepalwiki/home</figcaption></figure>
+
