@@ -34,7 +34,7 @@ jobs:
     # Runs test to see how to get git user
     - name: Run a multi-line script
       run: |
-        echo git user.name
+        git user.name
         echo test, and deploy your project
 
     # build the website
