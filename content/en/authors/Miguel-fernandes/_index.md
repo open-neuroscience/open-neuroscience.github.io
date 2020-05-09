@@ -13,11 +13,13 @@ role: Team member
 
 # Organizations/Affiliations
 #organizations:
-#- name: Stanford University
-#  url: ""
+#- name: Max Planck of Neurobiology
+#url:"https://www.neuro.mpg.de/baier/visiontoaction"
 
 # Short bio (displayed in user profile at end of posts)
-#bio
+bio: I believe that knowledge and education can empower people and will lead to a significant improvement in our world. I was born in Portugal and currently live in Munich, Germany.
+As a Neuroscientist I am using several methods, including high-resolution behavioral tracking, neuronal imaging, molecular and machine learning approaches to study behavioral choice in zebrafish larvae. I love teaching and to work in a team to solve complex questions. I am also a strong supporter of open source tools, accessible to people around the world to tackle their own challenges.
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -27,12 +29,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:openneuroscience@gmail.com".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/NeuroMLA
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: twitter
+  icon_pack: fab
+link: https://twitter.com/amgfernandes
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=K8jP3tUAAAAJ&hl=de
+
 - icon: github
   icon_pack: fab
   link: https://github.com/open-neuroscience
@@ -50,4 +53,3 @@ email: ""
 user_groups:
 - Team
 ---
-
