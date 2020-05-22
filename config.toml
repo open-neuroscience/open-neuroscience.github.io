@@ -9,7 +9,7 @@ title = "Open Neuroscience"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://open-neuroscience.com/staging"
+baseurl = "https://open-neuroscience.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.

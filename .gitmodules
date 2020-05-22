@@ -3,5 +3,5 @@
 	url = https://github.com/gcushen/hugo-academic.git
 [submodule "public"]
 	path = public
-	url = https://github.com/open-neuroscience/staging
+	url = https://github.com/open-neuroscience/open-neuroscience.github.io.git
 	branch = master

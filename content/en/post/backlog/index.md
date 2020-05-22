@@ -7,7 +7,7 @@ categories: ['Topic']
 tags: ['Topic']
 ---
 
-Bellow is a list of interesting projects related to science and research, that we didn&#8217;t have time to curate yet. Feel free to browse through them and make comments and suggestions!
+Below is a list of interesting projects related to science and research, that we didn&#8217;t have time to curate yet. Feel free to browse through them and make comments and suggestions!
 
 <http://wiki.cogain.org/index.php/Eye_Trackers> Low &#8211; cost\_eye\_tracking
 
