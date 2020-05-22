@@ -56,6 +56,10 @@ create_body <- function(title, image, description, authors, website, video, post
                          post_author,
                          sep="\n")
   } else {
+    
+    # short cut is {{< youtube w7Ft2ymGmfc >}}
+    # emb_video <- paste("{{< youtube")
+    
     description <- paste(description, 
                          "## Project Author(s)",
                          authors,
@@ -136,7 +140,7 @@ original_columns <- names(target)
 target$tags <- parse_tags(target)
 # do big changes
 post_df <- target %>% 
-  filter(posted == FALSE) %>%
+  filter(is.na(posted)) %>%
   mutate(         
     # make filename
     filename = gsub(x = `Project Title` , pattern = " ", replacement = "_"),
