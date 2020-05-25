@@ -31,4 +31,11 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-        ls
+        rm -rf ./public/
+        echo RF END
+        hugo
+        echo HUGO END
+        git commit -ma "update public" 
+        echo COMMIT END
+        git subtree push --prefix  public origin gh-pages
+        echo PUSH END
