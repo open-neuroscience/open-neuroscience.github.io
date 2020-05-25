@@ -20,7 +20,7 @@ jobs:
       - name: move to public
         run: cd public
       - name: commit public
-      	run: git commit -am "update public folder"
+        run: git commit -am "update public folder"
       - name: push public
-      	run: git push  
+        run: git push  
       
