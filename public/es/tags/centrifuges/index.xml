@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>centrifuges | Open Neuroscience</title>
+    <link>https://open-neuroscience.com/es/tags/centrifuges/</link>
+      <atom:link href="https://open-neuroscience.com/es/tags/centrifuges/index.xml" rel="self" type="application/rss+xml" />
+    <description>centrifuges</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language>
+    <image>
+      <url>https://open-neuroscience.com/images/icon_hu98f7bdece981985d79e430785ac9bc37_26395_512x512_fill_lanczos_center_2.png</url>
+      <title>centrifuges</title>
+      <link>https://open-neuroscience.com/es/tags/centrifuges/</link>
+    </image>
+    
+    <item>
+      <title>DremelFuge</title>
+      <link>https://open-neuroscience.com/es/post/dremelfuge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/es/post/dremelfuge/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.thingiverse.com/thing:1483&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DremelFuge&lt;/a&gt; is a very simple and clever centrifuge, buit perhaps not the safest one (be careful if you end up using it!).&lt;/p&gt;
+&lt;p&gt;It takes advantage of 3d printing technology to print an adaptor that goes on to a Dremel (a precision tool that has really high rotation rates). It was created by 
+&lt;a href=&#34;https://www.thingiverse.com/cathalgarvey/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cathal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.thingiverse.com/renders/ff/74/4c/b2/c4/2009-12-30-023824_display_large_preview_featured.jpg&#34; alt=&#34;3d printed dremel attachment&#34; title=&#34;DremelFuge&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GogoFuge</title>
+      <link>https://open-neuroscience.com/es/post/gogofuge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/es/post/gogofuge/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://diybio.org/2012/06/12/gogofuge/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GogoFuge&lt;/a&gt; is a good example of the power of opensource designs. IT was based on the idea of the DremelFuge and altered to be a tabletop centrifuge with vortex capability. It was created by 
+&lt;a href=&#34;fablabatschool.org/profile/KeeganCooke&#34;&gt;Keegan Cooke&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;474&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/Qcl04sqXqY4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenFuge</title>
+      <link>https://open-neuroscience.com/es/post/openfudge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/es/post/openfudge/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.thingiverse.com/thing:151406&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenFuge&lt;/a&gt; describes all the materials and gives step by step instructions to the assembly of a centrifuge that is able to deliver 6000 G’s of force and to rotate at 9000 RPM, while being able to hold 4 eppendorf tubes. Developed by 
+&lt;a href=&#34;https://www.thingiverse.com/CopabX/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CopabX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.thingiverse.com/renders/a6/78/ad/86/8a/IMG_20130525_163428_preview_featured.jpg&#34; alt=&#34;open source centrifuge&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

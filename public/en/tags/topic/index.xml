@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topic | Open Neuroscience</title>
+    <link>https://open-neuroscience.com/en/tags/topic/</link>
+      <atom:link href="https://open-neuroscience.com/en/tags/topic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Topic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://open-neuroscience.com/images/icon_hu98f7bdece981985d79e430785ac9bc37_26395_512x512_fill_lanczos_center_2.png</url>
+      <title>Topic</title>
+      <link>https://open-neuroscience.com/en/tags/topic/</link>
+    </image>
+    
+    <item>
+      <title>Backlog</title>
+      <link>https://open-neuroscience.com/en/post/backlog/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/backlog/</guid>
+      <description>&lt;p&gt;Below is a list of interesting projects related to science and research, that we didn’t have time to curate yet. Feel free to browse through them and make comments and suggestions!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wiki.cogain.org/index.php/Eye_Trackers&#34;&gt;http://wiki.cogain.org/index.php/Eye_Trackers&lt;/a&gt; Low – cost_eye_tracking&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://openscienceframework.org/project/4znZP/wiki/home&#34;&gt;http://openscienceframework.org/project/4znZP/wiki/home&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nitrc.org/&#34;&gt;http://www.nitrc.org/&lt;/a&gt; page that gathers info on neuroimaging tools and methods&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://home.gna.org/veusz/&#34;&gt;http://home.gna.org/veusz/&lt;/a&gt; – scientific plotting package&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://opencitations.net/about/&#34;&gt;http://opencitations.net/about/&lt;/a&gt; – effort to make citations publicly available and as easy to use as weblinks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://erkutlu.blogspot.com.es/2012/12/eeg-and-arduino-do-it-yourself-eeg-ekg.html&#34;&gt;http://erkutlu.blogspot.com.es/2012/12/eeg-and-arduino-do-it-yourself-eeg-ekg.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wired.com/wiredscience/2011/03/diy-cellphone-microscope&#34;&gt;http://www.wired.com/wiredscience/2011/03/diy-cellphone-microscope&lt;/a&gt; cellphone into microscope spectrometer&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ncbi.nlm.nih.gov/geo/&#34;&gt;http://www.ncbi.nlm.nih.gov/geo/&lt;/a&gt; gene expression omnibus database&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00024/abstract&#34;&gt;http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00024/abstract&lt;/a&gt; – Broccoli software for fast fMRI analyses&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0086733&#34;&gt;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0086733&lt;/a&gt; – smartphone brain scanner&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://paper.li/IbrahimMalick/1320890343&#34;&gt;http://paper.li/IbrahimMalick/1320890343&lt;/a&gt;  open source by ibrahim malick&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.theguardian.com/public-leaders-network/2014/apr/15/big-data-open-data-transform-government?CMP=twt_gu&#34;&gt;http://www.theguardian.com/public-leaders-network/2014/apr/15/big-data-open-data-transform-government?CMP=twt_gu&lt;/a&gt; big data&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://code.google.com/p/arduino-v-neusci/&#34;&gt;https://code.google.com/p/arduino-v-neusci/&lt;/a&gt; example on how to use arduino for visual neuroscience&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://boinc.berkeley.edu/&#34;&gt;http://boinc.berkeley.edu/&lt;/a&gt;  – the same idea from seth but generalized&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://pybossa.com/&#34;&gt;http://pybossa.com/&lt;/a&gt; the same idea from boinc (above) but sharing cognition&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.acq4.org/&#34;&gt;http://www.acq4.org/&lt;/a&gt; neurophysiology and data analysis systems&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://about.gitlab.com/about/&#34;&gt;https://about.gitlab.com/about/&lt;/a&gt; – version control system for projects&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://leaflabs.com/willow&#34;&gt;http://leaflabs.com/willow&lt;/a&gt; – neuroscience 1000 channels array&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://scalablephysiology.org/&#34;&gt;http://scalablephysiology.org/&lt;/a&gt; the page dedicated to willow&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://heywhatsthebigidea.net/projects/pi-vision-a-raspberry-pi-camera-controller/&#34;&gt;http://heywhatsthebigidea.net/projects/pi-vision-a-raspberry-pi-camera-controller/&lt;/a&gt; – pivision&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://libre3d.com/category/687/Test-Equipment/listings/717/Open-Source-Water-Testing-Platform.html&#34;&gt;https://libre3d.com/category/687/Test-Equipment/listings/717/Open-Source-Water-Testing-Platform.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.peekvision.org/&#34;&gt;http://www.peekvision.org/&lt;/a&gt; – ophtamology exams with smartphones&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.gpugrid.net/&#34;&gt;http://www.gpugrid.net/&lt;/a&gt; distributed computing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.iorodeo.com/consulting&#34;&gt;http://www.iorodeo.com/consulting&lt;/a&gt; open source hardware company&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hackaday.com/2015/01/06/3d-printing-circuits-gets-rid-of-the-box-altogether/&#34;&gt;http://hackaday.com/2015/01/06/3d-printing-circuits-gets-rid-of-the-box-altogether/&lt;/a&gt;  3d print plastic and electronics together&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://synbiota.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://synbiota.com/ &lt;/a&gt; electronic lab notebook&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://biojs.net/&#34;&gt;http://biojs.net/&lt;/a&gt; biological data visualization tool&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://open-access.net/de_en/homepage/&#34;&gt;http://open-access.net/de_en/homepage/&lt;/a&gt; portal that gathers information on open access&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ohwr.org/&#34;&gt;http://www.ohwr.org/&lt;/a&gt; open hardware repository&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://schoolofdata.org/&#34;&gt;http://schoolofdata.org/&lt;/a&gt; – training citizens and the civil society to use data&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.openingscience.org/&#34;&gt;http://www.openingscience.org/&lt;/a&gt; – an umbrella t open scholarly data to a multitude of stakeholders&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mozillascience.org/&#34;&gt;http://mozillascience.org/&lt;/a&gt; – branch of the mozilla foundation dedicated to making science more transparent and reproducible&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://woodenhaptics.org/&#34;&gt;http://woodenhaptics.org/&lt;/a&gt; open source haptics device&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ss-9iXRUeGc&#34;&gt;https://www.youtube.com/watch?v=Ss-9iXRUeGc&lt;/a&gt; Pneuflex actuators&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/openspinmicroscopy/&#34;&gt;https://sites.google.com/site/openspinmicroscopy/&lt;/a&gt; Openspin microscope&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openspim.org/Welcome_to_the_OpenSPIM_Wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://openspim.org/Welcome_to_the_OpenSPIM_Wiki&lt;/a&gt; openspin microscope&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://journal.frontiersin.org/Journal/10.3389/fneng.2014.00043/abstract&#34;&gt;http://journal.frontiersin.org/Journal/10.3389/fneng.2014.00043/abstract&lt;/a&gt; signal generator&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hackaday.io/project/1395-open-source-science-tricorder&#34;&gt;http://hackaday.io/project/1395-open-source-science-tricorder&lt;/a&gt; arduino based gagdet with lots of sensors&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://plot.ly/feed/&#34;&gt;https://plot.ly/feed/&lt;/a&gt; plots and data online&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://littledevices.org/&#34;&gt;http://littledevices.org/&lt;/a&gt; small portable devices for health related tests/exams and etc&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gnu.io/&#34;&gt;https://gnu.io/&lt;/a&gt; social interaction&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://thinklab.com/how_it_works&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://thinklab.com/how_it_works&lt;/a&gt; online platform for science project management&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://makezine.com/2015/03/19/ikea-farming-flat-pack-hen-house-worm-bin-beehive/&#34;&gt;http://makezine.com/2015/03/19/ikea-farming-flat-pack-hen-house-worm-bin-beehive/&lt;/a&gt; urban farming and beehives&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indiegogo.com/projects/aker-print-your-urban-farm--2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.indiegogo.com/projects/aker-print-your-urban-farm–2&lt;/a&gt; fundrasing for the project above&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://shuttleworthfoundation.org/applications/&#34;&gt;https://shuttleworthfoundation.org/applications/&lt;/a&gt; foundation for social transforming ideas&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://credit.casrai.org/about-us/&#34;&gt;http://credit.casrai.org/about-us/&lt;/a&gt; changing the way scientific contributions are measured/displayed&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://journal.frontiersin.org/article/10.3389/fneng.2015.00001/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w15-2015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://journal.frontiersin.org/article/10.3389/fneng.2015.00001/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w15-2015&lt;/a&gt; system for light stimulation and data recording for optogenetics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arcturus.io/&#34;&gt;https://arcturus.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://cmictig.cs.ucl.ac.uk/wiki/index.php/Main_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://cmictig.cs.ucl.ac.uk/wiki/index.php/Main_Page &lt;/a&gt; brain imaging software suite&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://openhatch.org/wiki/Open_Science_Projects_and_Organizations#Neuroscience_2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openhatch.org/wiki/Open_Science_Projects_and_Organizations#Neuroscience_2  &lt;/a&gt; Open science projects for neurosciences&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://openpump.org/&#34;&gt;http://openpump.org/&lt;/a&gt; open source syringe pump&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://fab.cba.mit.edu/classes/4.140/people/wildebeest/projects/final/index.html&#34;&gt;http://fab.cba.mit.edu/classes/4.140/people/wildebeest/projects/final/index.html&lt;/a&gt; another open source pump&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://guides.teklalabs.org/c/Science_Lab_Equipment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://guides.teklalabs.org/c/Science_Lab_Equipment&lt;/a&gt; tekla labs&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/05/oer-impact-map-open-university/&#34;&gt;http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/05/oer-impact-map-open-university/&lt;/a&gt; open lectures and their impact&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.graphicsmagick.org/index.html&#34;&gt;http://www.graphicsmagick.org/index.html&lt;/a&gt; image processing library&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.kinectotherapy.in/&#34;&gt;http://www.kinectotherapy.in/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.oshwa.org/&#34;&gt;http://www.oshwa.org/&lt;/a&gt; open source hardware association page&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.peerageofscience.org/how-it-works/&#34;&gt;https://www.peerageofscience.org/how-it-works/&lt;/a&gt; peerage of science&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.linux-usb-daq.co.uk/&#34;&gt;http://www.linux-usb-daq.co.uk/&lt;/a&gt; general IO boards for linux&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pubpeer.com/&#34;&gt;https://pubpeer.com/&lt;/a&gt; post review of papers&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://opensource.com/business/15/8/open-source-products-four-rules?utm_content=buffer7c7ae&amp;amp;utm_medium=social&amp;amp;utm_source=facebook.com&amp;amp;utm_campaign=buffer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://opensource.com/business/15/8/open-source-products-four-rules?utm_content=buffer7c7ae&amp;amp;utm_medium=social&amp;amp;utm_source=facebook.com&amp;amp;utm_campaign=buffer&lt;/a&gt; Open source for products&lt;/p&gt;
+&lt;p&gt;[http://journal.frontiersin.org/article/10.3389/fnins.2015.00206/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w33-2015 spinnaker. millisecond](&lt;a href=&#34;http://journal.frontiersin.org/article/10.3389/fnins.2015.00206/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w33-2015&#34;&gt;http://journal.frontiersin.org/article/10.3389/fnins.2015.00206/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w33-2015&lt;/a&gt; spinnaker. millisecond) range modelling&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wiki.openscienceschool.com/wiki/Tools/DI-Lambda&#34;&gt;http://wiki.openscienceschool.com/wiki/Tools/DI-Lambda&lt;/a&gt; do it yourself spectrophotometer&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://thurj.org/research/2011/01/432/&#34;&gt;http://thurj.org/research/2011/01/432/&lt;/a&gt; automated head fixed prep for rats&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://journal.frontiersin.org/article/10.3389/fninf.2015.00004/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w17-2015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://journal.frontiersin.org/article/10.3389/fninf.2015.00004/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w17-2015&lt;/a&gt; map reduce, scalable data analysis for ephys&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.elsevier.com/connect/the-changing-face-of-journal-metrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.elsevier.com/connect/the-changing-face-of-journal-metrics&lt;/a&gt; the changing face of journal metrics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.johnstowers.co.nz/blog/2014/05/27/flymad/&#34;&gt;http://www.johnstowers.co.nz/blog/2014/05/27/flymad/&lt;/a&gt; fly brain altering device&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jupyter.org/&#34;&gt;https://jupyter.org/&lt;/a&gt; open source notebook for over 40 programming languages&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/neurorighter/&#34;&gt;https://sites.google.com/site/neurorighter/&lt;/a&gt; closed loop recording and stimulation ephys&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.kitware.com/opensource/opensource.html&#34;&gt;http://www.kitware.com/opensource/opensource.html&lt;/a&gt; several open source software suites/libraries&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasp-stats.org/&#34;&gt;https://jasp-stats.org/&lt;/a&gt; a fresh way to do statistics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.brain-map.org/&#34;&gt;http://www.brain-map.org/&lt;/a&gt; allen institute page with data, tools and maps&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.circuitlab.com/&#34;&gt;https://www.circuitlab.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.123dapp.com/circuits&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.123dapp.com/circuits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://madresistor.org/box0/&#34;&gt;https://madresistor.org/box0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenodo.org/&#34;&gt;https://zenodo.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ipfs.io/&#34;&gt;https://ipfs.io/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;wp-embedded-content&#34; data-secret=&#34;nea1VBynr1&#34;&gt;
+  &lt;p&gt;
+    &lt;a href=&#34;https://techcrunch.com/2016/06/19/the-next-wave-in-software-is-open-adoption-software/&#34;&gt;The next wave in software is open adoption software&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4933559/pdf/1604.pdf&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4933559/pdf/1604.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.rs-online.com/designspark/the-teaching-lab-of-tomorrow?cm_mmc=DE-EM-_-DSN_20160822-_-DM3300-_-TTB_URL2&amp;amp;cid=DM3300&amp;amp;bid=53290840&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rs-online.com/designspark/the-teaching-lab-of-tomorrow?cm_mmc=DE-EM-_-DSN_20160822-_-DM3300-_-TTB_URL2&amp;amp;cid=DM3300&amp;amp;bid=53290840&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2016/06/28/technology/amazon-unveils-online-education-service-for-teachers.html?_r=5%C2%AEister=google&#34;&gt;http://www.nytimes.com/2016/06/28/technology/amazon-unveils-online-education-service-for-teachers.html?_r=5®ister=google&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hackster.io/arduino&#34;&gt;https://www.hackster.io/arduino&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://brainwaves.io/wp/&#34;&gt;http://brainwaves.io/wp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mkme.org/&#34;&gt;http://www.mkme.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outernet.is/&#34;&gt;https://outernet.is/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hackaday.io/project/16024-openwheel-parametric-osh-wheelstyrestracks&#34;&gt;https://hackaday.io/project/16024-openwheel-parametric-osh-wheelstyrestracks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166735#sec016&#34;&gt;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166735#sec016&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hackaday.io/project/18643-open-source-freakin-scanning-electron-microscope&#34;&gt;https://hackaday.io/project/18643-open-source-freakin-scanning-electron-microscope&lt;/a&gt;  open source electron microscope&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://jn.physiology.org/content/116/2/252.long&#34;&gt;http://jn.physiology.org/content/116/2/252.long&lt;/a&gt; Open notebooks on ephys&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.instructables.com/id/Laser-Scanning-Microscope/&#34;&gt;http://www.instructables.com/id/Laser-Scanning-Microscope/&lt;/a&gt; make a laser scanning microscope&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/maxritter/DIY-Thermocam&#34;&gt;https://github.com/maxritter/DIY-Thermocam&lt;/a&gt; DIY thermal camera&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://neuinfo.org/about/organization&#34;&gt;https://neuinfo.org/about/organization&lt;/a&gt; neuroscience information framework&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://publishing.aip.org/publishing/journal-highlights/how-3-d-print-your-own-sonic-tractor-beam&#34;&gt;https://publishing.aip.org/publishing/journal-highlights/how-3-d-print-your-own-sonic-tractor-beam&lt;/a&gt; DIY sonic tractor beam&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.upb.edu/en/contenido/mini-spectrometer-3d-printable-model&#34;&gt;http://www.upb.edu/en/contenido/mini-spectrometer-3d-printable-model&lt;/a&gt; DIY spectrometer&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857158/pdf/ac5b04153.pdf&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857158/pdf/ac5b04153.pdf&lt;/a&gt; lab on a drone&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://oceanographyforeveryone.com/&#34;&gt;http://oceanographyforeveryone.com/&lt;/a&gt; page hosting hardware projects related to oceanography&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://makingscience.withgoogle.com/science-journal?lang=en&#34;&gt;https://makingscience.withgoogle.com/science-journal?lang=en&lt;/a&gt; google app for data collection using mobile phone sensors&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://3d.si.edu/browser&#34;&gt;http://3d.si.edu/browser&lt;/a&gt; smithsonian museum repository of scanned objects&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nasa3d.arc.nasa.gov/models&#34;&gt;https://nasa3d.arc.nasa.gov/models&lt;/a&gt; nasa models for 3d p nting&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.qtiplot.com/&#34;&gt;http://www.qtiplot.com/&lt;/a&gt; – Data analysis and visualization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/BigCorvus/Physio&#34;&gt;https://github.com/BigCorvus/Physio&lt;/a&gt; hacked medical device&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mousetube.pasteur.fr/&#34;&gt;https://mousetube.pasteur.fr/&lt;/a&gt; mouse vocalization database&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.thinkering.de/cms/&#34;&gt;http://www.thinkering.de/cms/&lt;/a&gt; blog on tinkering with science tool examples&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wosmic.org/&#34;&gt;http://wosmic.org/&lt;/a&gt; open source microscope&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

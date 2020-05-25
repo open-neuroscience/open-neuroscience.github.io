@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Neuroscience</title>
+    <link>https://open-neuroscience.com/en/authors/benjamin-paffhausen/</link>
+      <atom:link href="https://open-neuroscience.com/en/authors/benjamin-paffhausen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Neuroscience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://open-neuroscience.com/en/authors/benjamin-paffhausen/avatar_hu7aa5539c2500762fedd94c6da123a7eb_36321_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Open Neuroscience</title>
+      <link>https://open-neuroscience.com/en/authors/benjamin-paffhausen/</link>
+    </image>
+    
+  </channel>
+</rss>

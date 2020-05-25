@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animal ephys | Open Neuroscience</title>
+    <link>https://open-neuroscience.com/en/categories/animal-ephys/</link>
+      <atom:link href="https://open-neuroscience.com/en/categories/animal-ephys/index.xml" rel="self" type="application/rss+xml" />
+    <description>Animal ephys</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://open-neuroscience.com/images/icon_hu98f7bdece981985d79e430785ac9bc37_26395_512x512_fill_lanczos_center_2.png</url>
+      <title>Animal ephys</title>
+      <link>https://open-neuroscience.com/en/categories/animal-ephys/</link>
+    </image>
+    
+    <item>
+      <title>Backyard Brains</title>
+      <link>https://open-neuroscience.com/en/post/backyard_brains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/backyard_brains/</guid>
+      <description>&lt;p&gt;Backyard brains started out producing low cost, portable, electrophysiology systems to bring neuroscience to classrooms and help promote it. “Backyard brains wants to be for neuroscience, what the telescope is for astronomers” – meaning that the idea is that with a couple of hundred dollars anyone can get one of these recording systems and start doing experiments, like amateur astronomers can buy telescopes and start observing the cosmos.&lt;/p&gt;
+&lt;iframe width=&#34;790&#34; height=&#34;444&#34; src=&#34;https://www.youtube.com/embed/-mKen7tCDCs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Ephys</title>
+      <link>https://open-neuroscience.com/en/post/open-ephys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open-ephys/</guid>
+      <description>&lt;p&gt;Open Ephys is a great initiative to create a suite that encompasses hardware for LFP and spiking recording, optogenetics combined with custom written software for microstimulation, environmental stimuli, extracellular recording and optogen. perturbations. Their ultimate goal is to create a system optimized for tetrodes and optogenetics where one is able to record and analyse data in real-time. On the 
+&lt;a href=&#34;http://www.open-ephys.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project’s website&lt;/a&gt; one can download plans on how to build the devices and estimate on part cost (which is much, much lower than commercially available systems out there).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

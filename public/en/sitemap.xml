@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/courses/example/example1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/courses/example/example1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/courses/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/courses/example/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/courses/example/example2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/courses/example/example2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/talk/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/talk/example/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/authors/admin/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/3d_slicer/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/animal-electrophysiology/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/animal-electrophysiology/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/authors/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/benchtop/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/tags/benchtop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/tags/benchtop/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/benchtop/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/categories/benchtop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/categories/benchtop/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/craniobot/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/data-analysis/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/data-analysis/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/electric/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/electric/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/electric-stimulation/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/electric-stimulation/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/hardware/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/hardware/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/labmaker/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/microscope/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/microscope/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/microscopes/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/microscopes/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/microscopy/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/software/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/software/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/uc2/</loc>
+    <lastmod>2020-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/colaboratory/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/computational-neuroscience/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/computational-neuroscience/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/suite2p/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/authors/andre-maia-chagas/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/authors/andre-maia-chagas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/authors/andre-maia-chagas/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/autoreward2/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/backlog/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/behaviour/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/tags/behaviour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/tags/behaviour/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/behaviour/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/categories/behaviour/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/categories/behaviour/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/computer-clusters/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/computer-clusters/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/computer_cluster/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/computers/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/computers/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/learning/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/learning/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/openflexure/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/openfuge/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/optogenetics/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/optogenetics/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/psychophysics-toolboxes/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/pulse-pal/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/python-numpy-scipy-matplotlib/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/red-pitaya/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/school_of_data/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/spike-gadgets/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/topic/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/topic/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/brainflow/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/database/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/database/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/fingertip_laser_sensor/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/genome-rnai/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/gogofuge/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/green-brain/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/human-ephys/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/human-ephys/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/image-office-suits-and-other-general-purpose-software/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/intelligent_hearing_aid/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/ipipet/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/lab-management-software/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/micro-manager/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/microscopes-software/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/microscopes-software/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/neuromorpho/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/neurotinker/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/nibabel/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/nipy/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/nose-poke-device-for-rats-using-arduino-and-3d-printed-parts/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/ome-open-microscopy-environment/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/linux-distributions/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/prosthetics/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/prosthetics/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/simulation/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/simulation/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/courses/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/slides/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/slides/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/slides/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/slides/example/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/super_releaser/</loc>
+    <lastmod>2016-03-21T10:00:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/5_dollar_pcr/</loc>
+    <lastmod>2015-06-09T09:53:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/open-bionics/</loc>
+    <lastmod>2015-01-31T22:56:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/prosthetics-and-robotics/</loc>
+    <lastmod>2015-01-31T22:08:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/authors/agustin-solano/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/authors/agustin-solano/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/authors/agustin-solano/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/authors/benjamin-paffhausen/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/authors/gaspar-herrera/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/authors/jj-balesteros/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/authors/matias-andina/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/authors/matias-andina/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/authors/matias-andina/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/authors/miguel-fernandes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/10_smartphone_microscope/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/addgene/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/allen-brain-map/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/animal-ephys/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/animal-ephys/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/attys/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/backyard_brains/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/bb_led_matrix/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/big-neuron/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/blinkeschild/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/boinc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/bpm_biosignal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/brain_map/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/brainbrowser/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/computer-vision-and-motion-tracking-software/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/crowd-funding/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/data-repositories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/diy_pcr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/dremelfuge/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/fiji/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/other-interesting-projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/neuroelectro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/bio_amp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/open_bci/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/open_eeg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/open-ephys/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/open_exg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/open-lab-notebooks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/open_pcr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/open-science-framework/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/open-source-brain/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/openspritzer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/openstage/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/other/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/other/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/parallela/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/publication_types/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/publication/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://open-neuroscience.com/es/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://open-neuroscience.com/en/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/pyspace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/python-for-neuroscience-frontiers-collection/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/signal-generators/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/simulation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/skinnerbox_rpi_python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/stereo_microscope/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/syringe_pump1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/takktile/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/tdcs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/tensor-flow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/the-visible-human-project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/the_yale_open_hand_project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/tutorials/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/vision-egg/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/tags/visual/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/categories/visual/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/webportals/</loc>
+  </url>
+  
+  <url>
+    <loc>https://open-neuroscience.com/en/post/youtube_as_a_resource_for_open_science_hardware/</loc>
+  </url>
+  
+</urlset>

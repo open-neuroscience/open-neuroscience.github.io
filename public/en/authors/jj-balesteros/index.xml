@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Neuroscience</title>
+    <link>https://open-neuroscience.com/en/authors/jj-balesteros/</link>
+      <atom:link href="https://open-neuroscience.com/en/authors/jj-balesteros/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Neuroscience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://open-neuroscience.com/en/authors/jj-balesteros/avatar_hu01d3eb51a94fae239f5be9e0bef07652_318763_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Open Neuroscience</title>
+      <link>https://open-neuroscience.com/en/authors/jj-balesteros/</link>
+    </image>
+    
+  </channel>
+</rss>

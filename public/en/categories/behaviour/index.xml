@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Behaviour | Open Neuroscience</title>
+    <link>https://open-neuroscience.com/en/categories/behaviour/</link>
+      <atom:link href="https://open-neuroscience.com/en/categories/behaviour/index.xml" rel="self" type="application/rss+xml" />
+    <description>Behaviour</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://open-neuroscience.com/images/icon_hu98f7bdece981985d79e430785ac9bc37_26395_512x512_fill_lanczos_center_2.png</url>
+      <title>Behaviour</title>
+      <link>https://open-neuroscience.com/en/categories/behaviour/</link>
+    </image>
+    
+    <item>
+      <title>Autoreward 2</title>
+      <link>https://open-neuroscience.com/en/post/autoreward2/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/autoreward2/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;motivation&lt;/strong&gt; to start this project arises when we started to include a new behavioral paradigm in the lab, an alternation T-mace with return arms (like the one in Wood e_t al._ 2000). We wanted a clean performance, as well as a clean video record, so we consider necessary to interfere neither with the animal attention (mice, how they are!) nor the camera’s field of view. I decided then to give a try to the new hobby I was getting into, “Do-It-Yourself” (DIY) stuff.&lt;/p&gt;
+&lt;p&gt;In my head, it was pictured very simple. At the end of the day, I just needed a) something to detect the animal passing by, b) something to deliver a drop of water and c) something to make it happen in a coordinated way. And that’s what Autoreward2 is, no more, no less.&lt;/p&gt;
+&lt;p&gt;Well perhaps it is a bit more. &lt;strong&gt;So far, the project can&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Detect&lt;/strong&gt; when the animal reaches the end of any of the two arms.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deliver&lt;/strong&gt; a small drop of fluid through the corresponding licking port (easy to make it happen in the opposite, if wanted).&lt;/li&gt;
+&lt;li&gt;Give visual cues to the experimenter, indicating which arm has been reached.&lt;/li&gt;
+&lt;li&gt;Allow to &lt;strong&gt;select&lt;/strong&gt; different modes of working for different working protocols: ‘Waiting for selection’, ‘Habituation’, ‘Training’, ‘Experimental’ and “Filling and cleaning” modes (and is ready to include more!).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To achieve it, I decided for very &lt;strong&gt;simple approach&lt;/strong&gt;. A couple of cheap infrared emitters are continuously read by an UNO R3 board. Breaking any of the beams triggers the signal to open the corresponding solenoid valve, connected to the fluid tank. That lets the liquid flow by gravity for around 75 milliseconds, resulting in a single drop at the tip of the licking port.&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./featured2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;There is a delay after each detection, to avoid repetitive delivery if animals don’t leave the area. A couple LEDs mounted in the bare-board (out of animal sight) light up when the process is triggered, one for each side. They also work as indicators for the ‘Waiting for selection’ mode, when they are continuously on, meanwhile no option is choose or the ‘return to waiting mode action’ is pressed.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The selection&lt;/strong&gt; is made through a 4×4 membrane keypad. Right now, only options 1 to 4 are programmed, making up to 12 more programs available! When any section is made, the in-built LED blinks the corresponding times and the system is ready to work. At any moment, pressing any key makes the system reset to the waiting mode. As easy as that.&lt;/p&gt;
+&lt;p&gt;Everything is &lt;strong&gt;powered&lt;/strong&gt; by a regular 9V wall adapter, giving 3.3V to the LEDs and Infrared detectors, and 9V to the solenoids. Of course, it is possible to use a 9V batterie to power it. To avoid damage coming from the solenoid discharges, the circuit is protected by a couple of diodes at this level.&lt;/p&gt;
+&lt;p&gt;And that’s all, &lt;strong&gt;it’s simple&lt;/strong&gt;. The most important thing: it &lt;strong&gt;works&lt;/strong&gt;. The other most important thing: it costs around &lt;strong&gt;80€&lt;/strong&gt;. Here is the to-buy list (or equivalent):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Elegoo UNO R3 (I found them for &lt;strong&gt;10€&lt;/strong&gt;, with USB cable)&lt;/li&gt;
+&lt;li&gt;BreadBoard + Acrylic base (&lt;strong&gt;7€&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;9V 1A Wall power supply (&lt;strong&gt;9€&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;2x InfraRed beams, 5mm (&lt;strong&gt;15€&lt;/strong&gt; both, the 3mm ones are even cheaper)&lt;/li&gt;
+&lt;li&gt;2x Mini-Solenoid valves (&lt;strong&gt;10€&lt;/strong&gt; both)&lt;/li&gt;
+&lt;li&gt;2x red LEDs&lt;/li&gt;
+&lt;li&gt;4x 1 KΩ resistors&lt;/li&gt;
+&lt;li&gt;2x TIP120 Transistors&lt;/li&gt;
+&lt;li&gt;2x 1N4001 diodes&lt;/li&gt;
+&lt;li&gt;Wiring (set of jumpers for less than &lt;strong&gt;10€&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;‘Velcro’ to attach the acrylic base where the boards are mounted.&lt;/li&gt;
+&lt;li&gt;Plastic tubing and laboratory sample tubes, modified with turning siringe tips to attach/deattach the tubing easily.&lt;/li&gt;
+&lt;li&gt;2x or 4x weak magnets to fix the tubes to the walls.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Feel free to access the 
+&lt;a href=&#34;https://github.com/jjballesteros/Arduino-AutoReward&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; page or the 
+&lt;a href=&#34;http://forum.arduino.cc/index.php?topic=476643.0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arduino forum post&lt;/a&gt; to obtain the &lt;strong&gt;code&lt;/strong&gt;, check for the circuit &lt;strong&gt;sketch&lt;/strong&gt;, and see some &lt;strong&gt;pictures&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;PD: If someone is scandalized by the code, I am getting better on it, it is not my main strength. Please, improve it! Of course, I have in mind many possible upgrades such as a screen, a SD card port, to change the Keypad for a wireless interface (tactile?) … Did someone say smartphone plus Bluetooth? Going fancy, a barcode reader to easily introduce subjects’ data… And here is where I relay in the open-access idea, I offer it and hopefully someone implement any of the ideas. If so, remember to share!&lt;/p&gt;
+&lt;p&gt;Jesús J. Ballesteros&lt;/p&gt;
+&lt;p&gt;Contact me:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://twitter.com/jjballesterosc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.researchgate.net/profile/J_J_Ballesteros&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ResearchGate&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skinner Box with RPi&#43;Python</title>
+      <link>https://open-neuroscience.com/en/post/skinnerbox_rpi_python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/skinnerbox_rpi_python/</guid>
+      <description>&lt;p&gt;This project was developed by 
+&lt;a href=&#34;http://www.kscottz.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katherine Scott&lt;/a&gt; to be presented at the PyCon 2014. She developed a skinner box for her pet rats using a raspberry pi and some 3D printed parts. The setup contain a food dispenser, a buzzer, levers, a camera to observe the animals and it is hooked in a way that everything can be controlled over the internet!&lt;/p&gt;
+&lt;p&gt;You can find the files for 3D parts 
+&lt;a href=&#34;http://www.thingiverse.com/thing:296335&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and a better description of the project 
+&lt;a href=&#34;http://www.kscottz.com/open-skinner-box-pycon-2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kscottz.com/wp-content/uploads/2014/04/IMG_20140409_014715.jpg?resize=800%2C592&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;592&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;iframe width=&#34;790&#34; height=&#34;444&#34; src=&#34;https://www.youtube.com/embed/grMfIoDgn9M&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/grMfIoDgn9M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Neuroscience</title>
+    <link>https://open-neuroscience.com/en/authors/andre-maia-chagas/</link>
+      <atom:link href="https://open-neuroscience.com/en/authors/andre-maia-chagas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Neuroscience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://open-neuroscience.com/en/authors/andre-maia-chagas/avatar_huf96846f355b91e33f33b3e88ba26eca5_14876_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Open Neuroscience</title>
+      <link>https://open-neuroscience.com/en/authors/andre-maia-chagas/</link>
+    </image>
+    
+    <item>
+      <title>Backlog</title>
+      <link>https://open-neuroscience.com/en/post/backlog/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/backlog/</guid>
+      <description>&lt;p&gt;Below is a list of interesting projects related to science and research, that we didn’t have time to curate yet. Feel free to browse through them and make comments and suggestions!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wiki.cogain.org/index.php/Eye_Trackers&#34;&gt;http://wiki.cogain.org/index.php/Eye_Trackers&lt;/a&gt; Low – cost_eye_tracking&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://openscienceframework.org/project/4znZP/wiki/home&#34;&gt;http://openscienceframework.org/project/4znZP/wiki/home&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nitrc.org/&#34;&gt;http://www.nitrc.org/&lt;/a&gt; page that gathers info on neuroimaging tools and methods&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://home.gna.org/veusz/&#34;&gt;http://home.gna.org/veusz/&lt;/a&gt; – scientific plotting package&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://opencitations.net/about/&#34;&gt;http://opencitations.net/about/&lt;/a&gt; – effort to make citations publicly available and as easy to use as weblinks.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://erkutlu.blogspot.com.es/2012/12/eeg-and-arduino-do-it-yourself-eeg-ekg.html&#34;&gt;http://erkutlu.blogspot.com.es/2012/12/eeg-and-arduino-do-it-yourself-eeg-ekg.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.wired.com/wiredscience/2011/03/diy-cellphone-microscope&#34;&gt;http://www.wired.com/wiredscience/2011/03/diy-cellphone-microscope&lt;/a&gt; cellphone into microscope spectrometer&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ncbi.nlm.nih.gov/geo/&#34;&gt;http://www.ncbi.nlm.nih.gov/geo/&lt;/a&gt; gene expression omnibus database&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00024/abstract&#34;&gt;http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00024/abstract&lt;/a&gt; – Broccoli software for fast fMRI analyses&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0086733&#34;&gt;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0086733&lt;/a&gt; – smartphone brain scanner&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://paper.li/IbrahimMalick/1320890343&#34;&gt;http://paper.li/IbrahimMalick/1320890343&lt;/a&gt;  open source by ibrahim malick&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.theguardian.com/public-leaders-network/2014/apr/15/big-data-open-data-transform-government?CMP=twt_gu&#34;&gt;http://www.theguardian.com/public-leaders-network/2014/apr/15/big-data-open-data-transform-government?CMP=twt_gu&lt;/a&gt; big data&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://code.google.com/p/arduino-v-neusci/&#34;&gt;https://code.google.com/p/arduino-v-neusci/&lt;/a&gt; example on how to use arduino for visual neuroscience&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://boinc.berkeley.edu/&#34;&gt;http://boinc.berkeley.edu/&lt;/a&gt;  – the same idea from seth but generalized&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://pybossa.com/&#34;&gt;http://pybossa.com/&lt;/a&gt; the same idea from boinc (above) but sharing cognition&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.acq4.org/&#34;&gt;http://www.acq4.org/&lt;/a&gt; neurophysiology and data analysis systems&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://about.gitlab.com/about/&#34;&gt;https://about.gitlab.com/about/&lt;/a&gt; – version control system for projects&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://leaflabs.com/willow&#34;&gt;http://leaflabs.com/willow&lt;/a&gt; – neuroscience 1000 channels array&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://scalablephysiology.org/&#34;&gt;http://scalablephysiology.org/&lt;/a&gt; the page dedicated to willow&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://heywhatsthebigidea.net/projects/pi-vision-a-raspberry-pi-camera-controller/&#34;&gt;http://heywhatsthebigidea.net/projects/pi-vision-a-raspberry-pi-camera-controller/&lt;/a&gt; – pivision&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://libre3d.com/category/687/Test-Equipment/listings/717/Open-Source-Water-Testing-Platform.html&#34;&gt;https://libre3d.com/category/687/Test-Equipment/listings/717/Open-Source-Water-Testing-Platform.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.peekvision.org/&#34;&gt;http://www.peekvision.org/&lt;/a&gt; – ophtamology exams with smartphones&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.gpugrid.net/&#34;&gt;http://www.gpugrid.net/&lt;/a&gt; distributed computing&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.iorodeo.com/consulting&#34;&gt;http://www.iorodeo.com/consulting&lt;/a&gt; open source hardware company&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hackaday.com/2015/01/06/3d-printing-circuits-gets-rid-of-the-box-altogether/&#34;&gt;http://hackaday.com/2015/01/06/3d-printing-circuits-gets-rid-of-the-box-altogether/&lt;/a&gt;  3d print plastic and electronics together&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://synbiota.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://synbiota.com/ &lt;/a&gt; electronic lab notebook&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://biojs.net/&#34;&gt;http://biojs.net/&lt;/a&gt; biological data visualization tool&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://open-access.net/de_en/homepage/&#34;&gt;http://open-access.net/de_en/homepage/&lt;/a&gt; portal that gathers information on open access&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ohwr.org/&#34;&gt;http://www.ohwr.org/&lt;/a&gt; open hardware repository&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://schoolofdata.org/&#34;&gt;http://schoolofdata.org/&lt;/a&gt; – training citizens and the civil society to use data&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.openingscience.org/&#34;&gt;http://www.openingscience.org/&lt;/a&gt; – an umbrella t open scholarly data to a multitude of stakeholders&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://mozillascience.org/&#34;&gt;http://mozillascience.org/&lt;/a&gt; – branch of the mozilla foundation dedicated to making science more transparent and reproducible&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://woodenhaptics.org/&#34;&gt;http://woodenhaptics.org/&lt;/a&gt; open source haptics device&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=Ss-9iXRUeGc&#34;&gt;https://www.youtube.com/watch?v=Ss-9iXRUeGc&lt;/a&gt; Pneuflex actuators&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/openspinmicroscopy/&#34;&gt;https://sites.google.com/site/openspinmicroscopy/&lt;/a&gt; Openspin microscope&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openspim.org/Welcome_to_the_OpenSPIM_Wiki&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://openspim.org/Welcome_to_the_OpenSPIM_Wiki&lt;/a&gt; openspin microscope&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://journal.frontiersin.org/Journal/10.3389/fneng.2014.00043/abstract&#34;&gt;http://journal.frontiersin.org/Journal/10.3389/fneng.2014.00043/abstract&lt;/a&gt; signal generator&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://hackaday.io/project/1395-open-source-science-tricorder&#34;&gt;http://hackaday.io/project/1395-open-source-science-tricorder&lt;/a&gt; arduino based gagdet with lots of sensors&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://plot.ly/feed/&#34;&gt;https://plot.ly/feed/&lt;/a&gt; plots and data online&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://littledevices.org/&#34;&gt;http://littledevices.org/&lt;/a&gt; small portable devices for health related tests/exams and etc&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://gnu.io/&#34;&gt;https://gnu.io/&lt;/a&gt; social interaction&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://thinklab.com/how_it_works&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://thinklab.com/how_it_works&lt;/a&gt; online platform for science project management&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://makezine.com/2015/03/19/ikea-farming-flat-pack-hen-house-worm-bin-beehive/&#34;&gt;http://makezine.com/2015/03/19/ikea-farming-flat-pack-hen-house-worm-bin-beehive/&lt;/a&gt; urban farming and beehives&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.indiegogo.com/projects/aker-print-your-urban-farm--2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.indiegogo.com/projects/aker-print-your-urban-farm–2&lt;/a&gt; fundrasing for the project above&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://shuttleworthfoundation.org/applications/&#34;&gt;https://shuttleworthfoundation.org/applications/&lt;/a&gt; foundation for social transforming ideas&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://credit.casrai.org/about-us/&#34;&gt;http://credit.casrai.org/about-us/&lt;/a&gt; changing the way scientific contributions are measured/displayed&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://journal.frontiersin.org/article/10.3389/fneng.2015.00001/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w15-2015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://journal.frontiersin.org/article/10.3389/fneng.2015.00001/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w15-2015&lt;/a&gt; system for light stimulation and data recording for optogenetics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arcturus.io/&#34;&gt;https://arcturus.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://cmictig.cs.ucl.ac.uk/wiki/index.php/Main_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://cmictig.cs.ucl.ac.uk/wiki/index.php/Main_Page &lt;/a&gt; brain imaging software suite&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://openhatch.org/wiki/Open_Science_Projects_and_Organizations#Neuroscience_2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://openhatch.org/wiki/Open_Science_Projects_and_Organizations#Neuroscience_2  &lt;/a&gt; Open science projects for neurosciences&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://openpump.org/&#34;&gt;http://openpump.org/&lt;/a&gt; open source syringe pump&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://fab.cba.mit.edu/classes/4.140/people/wildebeest/projects/final/index.html&#34;&gt;http://fab.cba.mit.edu/classes/4.140/people/wildebeest/projects/final/index.html&lt;/a&gt; another open source pump&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://guides.teklalabs.org/c/Science_Lab_Equipment&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://guides.teklalabs.org/c/Science_Lab_Equipment&lt;/a&gt; tekla labs&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/05/oer-impact-map-open-university/&#34;&gt;http://blogs.lse.ac.uk/impactofsocialsciences/2014/08/05/oer-impact-map-open-university/&lt;/a&gt; open lectures and their impact&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.graphicsmagick.org/index.html&#34;&gt;http://www.graphicsmagick.org/index.html&lt;/a&gt; image processing library&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.kinectotherapy.in/&#34;&gt;http://www.kinectotherapy.in/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.oshwa.org/&#34;&gt;http://www.oshwa.org/&lt;/a&gt; open source hardware association page&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.peerageofscience.org/how-it-works/&#34;&gt;https://www.peerageofscience.org/how-it-works/&lt;/a&gt; peerage of science&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.linux-usb-daq.co.uk/&#34;&gt;http://www.linux-usb-daq.co.uk/&lt;/a&gt; general IO boards for linux&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://pubpeer.com/&#34;&gt;https://pubpeer.com/&lt;/a&gt; post review of papers&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://opensource.com/business/15/8/open-source-products-four-rules?utm_content=buffer7c7ae&amp;amp;utm_medium=social&amp;amp;utm_source=facebook.com&amp;amp;utm_campaign=buffer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://opensource.com/business/15/8/open-source-products-four-rules?utm_content=buffer7c7ae&amp;amp;utm_medium=social&amp;amp;utm_source=facebook.com&amp;amp;utm_campaign=buffer&lt;/a&gt; Open source for products&lt;/p&gt;
+&lt;p&gt;[http://journal.frontiersin.org/article/10.3389/fnins.2015.00206/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w33-2015 spinnaker. millisecond](&lt;a href=&#34;http://journal.frontiersin.org/article/10.3389/fnins.2015.00206/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w33-2015&#34;&gt;http://journal.frontiersin.org/article/10.3389/fnins.2015.00206/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w33-2015&lt;/a&gt; spinnaker. millisecond) range modelling&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wiki.openscienceschool.com/wiki/Tools/DI-Lambda&#34;&gt;http://wiki.openscienceschool.com/wiki/Tools/DI-Lambda&lt;/a&gt; do it yourself spectrophotometer&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://thurj.org/research/2011/01/432/&#34;&gt;http://thurj.org/research/2011/01/432/&lt;/a&gt; automated head fixed prep for rats&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://journal.frontiersin.org/article/10.3389/fninf.2015.00004/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w17-2015&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://journal.frontiersin.org/article/10.3389/fninf.2015.00004/full?utm_source=newsletter&amp;amp;utm_medium=email&amp;amp;utm_campaign=Neuroscience-w17-2015&lt;/a&gt; map reduce, scalable data analysis for ephys&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.elsevier.com/connect/the-changing-face-of-journal-metrics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.elsevier.com/connect/the-changing-face-of-journal-metrics&lt;/a&gt; the changing face of journal metrics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.johnstowers.co.nz/blog/2014/05/27/flymad/&#34;&gt;http://www.johnstowers.co.nz/blog/2014/05/27/flymad/&lt;/a&gt; fly brain altering device&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jupyter.org/&#34;&gt;https://jupyter.org/&lt;/a&gt; open source notebook for over 40 programming languages&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/site/neurorighter/&#34;&gt;https://sites.google.com/site/neurorighter/&lt;/a&gt; closed loop recording and stimulation ephys&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.kitware.com/opensource/opensource.html&#34;&gt;http://www.kitware.com/opensource/opensource.html&lt;/a&gt; several open source software suites/libraries&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://jasp-stats.org/&#34;&gt;https://jasp-stats.org/&lt;/a&gt; a fresh way to do statistics&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.brain-map.org/&#34;&gt;http://www.brain-map.org/&lt;/a&gt; allen institute page with data, tools and maps&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.circuitlab.com/&#34;&gt;https://www.circuitlab.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.123dapp.com/circuits&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.123dapp.com/circuits&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://madresistor.org/box0/&#34;&gt;https://madresistor.org/box0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://zenodo.org/&#34;&gt;https://zenodo.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ipfs.io/&#34;&gt;https://ipfs.io/&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;wp-embedded-content&#34; data-secret=&#34;nea1VBynr1&#34;&gt;
+  &lt;p&gt;
+    &lt;a href=&#34;https://techcrunch.com/2016/06/19/the-next-wave-in-software-is-open-adoption-software/&#34;&gt;The next wave in software is open adoption software&lt;/a&gt;
+  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4933559/pdf/1604.pdf&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4933559/pdf/1604.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.rs-online.com/designspark/the-teaching-lab-of-tomorrow?cm_mmc=DE-EM-_-DSN_20160822-_-DM3300-_-TTB_URL2&amp;amp;cid=DM3300&amp;amp;bid=53290840&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.rs-online.com/designspark/the-teaching-lab-of-tomorrow?cm_mmc=DE-EM-_-DSN_20160822-_-DM3300-_-TTB_URL2&amp;amp;cid=DM3300&amp;amp;bid=53290840&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.nytimes.com/2016/06/28/technology/amazon-unveils-online-education-service-for-teachers.html?_r=5%C2%AEister=google&#34;&gt;http://www.nytimes.com/2016/06/28/technology/amazon-unveils-online-education-service-for-teachers.html?_r=5®ister=google&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hackster.io/arduino&#34;&gt;https://www.hackster.io/arduino&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://brainwaves.io/wp/&#34;&gt;http://brainwaves.io/wp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.mkme.org/&#34;&gt;http://www.mkme.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://outernet.is/&#34;&gt;https://outernet.is/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hackaday.io/project/16024-openwheel-parametric-osh-wheelstyrestracks&#34;&gt;https://hackaday.io/project/16024-openwheel-parametric-osh-wheelstyrestracks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166735#sec016&#34;&gt;http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0166735#sec016&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hackaday.io/project/18643-open-source-freakin-scanning-electron-microscope&#34;&gt;https://hackaday.io/project/18643-open-source-freakin-scanning-electron-microscope&lt;/a&gt;  open source electron microscope&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://jn.physiology.org/content/116/2/252.long&#34;&gt;http://jn.physiology.org/content/116/2/252.long&lt;/a&gt; Open notebooks on ephys&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.instructables.com/id/Laser-Scanning-Microscope/&#34;&gt;http://www.instructables.com/id/Laser-Scanning-Microscope/&lt;/a&gt; make a laser scanning microscope&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/maxritter/DIY-Thermocam&#34;&gt;https://github.com/maxritter/DIY-Thermocam&lt;/a&gt; DIY thermal camera&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://neuinfo.org/about/organization&#34;&gt;https://neuinfo.org/about/organization&lt;/a&gt; neuroscience information framework&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://publishing.aip.org/publishing/journal-highlights/how-3-d-print-your-own-sonic-tractor-beam&#34;&gt;https://publishing.aip.org/publishing/journal-highlights/how-3-d-print-your-own-sonic-tractor-beam&lt;/a&gt; DIY sonic tractor beam&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.upb.edu/en/contenido/mini-spectrometer-3d-printable-model&#34;&gt;http://www.upb.edu/en/contenido/mini-spectrometer-3d-printable-model&lt;/a&gt; DIY spectrometer&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857158/pdf/ac5b04153.pdf&#34;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4857158/pdf/ac5b04153.pdf&lt;/a&gt; lab on a drone&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://oceanographyforeveryone.com/&#34;&gt;http://oceanographyforeveryone.com/&lt;/a&gt; page hosting hardware projects related to oceanography&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://makingscience.withgoogle.com/science-journal?lang=en&#34;&gt;https://makingscience.withgoogle.com/science-journal?lang=en&lt;/a&gt; google app for data collection using mobile phone sensors&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://3d.si.edu/browser&#34;&gt;http://3d.si.edu/browser&lt;/a&gt; smithsonian museum repository of scanned objects&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nasa3d.arc.nasa.gov/models&#34;&gt;https://nasa3d.arc.nasa.gov/models&lt;/a&gt; nasa models for 3d p nting&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.qtiplot.com/&#34;&gt;http://www.qtiplot.com/&lt;/a&gt; – Data analysis and visualization&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/BigCorvus/Physio&#34;&gt;https://github.com/BigCorvus/Physio&lt;/a&gt; hacked medical device&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://mousetube.pasteur.fr/&#34;&gt;https://mousetube.pasteur.fr/&lt;/a&gt; mouse vocalization database&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.thinkering.de/cms/&#34;&gt;http://www.thinkering.de/cms/&lt;/a&gt; blog on tinkering with science tool examples&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://wosmic.org/&#34;&gt;http://wosmic.org/&lt;/a&gt; open source microscope&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computer clusters</title>
+      <link>https://open-neuroscience.com/en/post/computer_cluster/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/computer_cluster/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;Here are two projects that use card sized computers as the basic units for computing clusters:&lt;/p&gt;
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;A 
+&lt;a href=&#34;http://www.southampton.ac.uk/~sjc/raspberrypi/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;64 node cluster&lt;/a&gt;, build using pi’s and lego, built at the University of Southampton.&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.linux.com/training-tutorials/building-compute-cluster-beaglebone-black/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BeagleBone Black cluster&lt;/a&gt; by 
+&lt;a href=&#34;https://www.linux.com/author/mazdacardinal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dan Ricart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenFlexure</title>
+      <link>https://open-neuroscience.com/en/post/openflexure/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/openflexure/</guid>
+      <description>&lt;p&gt;OpenFlexure is a 3D printed flexure translation stage, developed by a group at the Bath University. The stage is capable of sub-micron-scale motion, with very small drift over time. Which makes it quite good, among other things, for time-lapse protocols that need to be done over days/weeks time, and under space restricted areas, such as fume hoods. A paper describing it in detail can be found 
+&lt;a href=&#34;http://arxiv.org/abs/1509.05394&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Adding a camera and servo motors, turns the stage into an automated microscope. More details about the project can be found 
+&lt;a href=&#34;https://openflexure.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenFuge</title>
+      <link>https://open-neuroscience.com/en/post/openfuge/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/openfuge/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.thingiverse.com/thing:151406&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenFuge&lt;/a&gt; describes all the materials and gives step by step instructions to the assembly of a centrifuge that is able to deliver 6000 G’s of force and to rotate at 9000 RPM, while being able to hold 4 eppendorf tubes. Developed by 
+&lt;a href=&#34;https://www.thingiverse.com/CopabX/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CopabX&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Psychophysics toolboxes</title>
+      <link>https://open-neuroscience.com/en/post/psychophysics-toolboxes/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/psychophysics-toolboxes/</guid>
+      <description>&lt;br&gt;
+&lt;p&gt;Roughly put, 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Psychophysics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;psychophysics&lt;/a&gt; studies the relationships of physical stimuli and their respective elicited sensations and perception. Psyhophysics also relates to the techniques used to probe these relationships and the toolboxes here presented are mainly dealing with these techniques.&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/smathot/osdoc/3.2/themes/cogsci/static/img/banner.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://osdoc.cogsci.nl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; OpenSesame&lt;/a&gt; is a graphical opensource experiment builder. It has drag and drop features as well as customization possibilities, via python scripting and custom plugins. here is a 
+&lt;a href=&#34;http://link.springer.com/article/10.3758%2Fs13428-011-0168-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; to a paper describing the software&lt;figure style=&#34;width: 853px&#34; class=&#34;wp-caption alignnone&#34;&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://psychtoolbox.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Psychtoolbox&lt;/a&gt;, or PTB, is a free versatile toolbox to be used mainly in visual experiments, it is able to deliver visual and auditory stimuli and to receive subject input. It has a big quantity of active users (15,000 as stated on their 
+&lt;a href=&#34;http://psychtoolbox.org/forum/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;) what should make the life of the beginner user somehow easier (they have a 
+&lt;a href=&#34;https://psychtoolbox.discourse.group/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;forum page&lt;/a&gt;) The latest version (PTB-3 as this page was written) is able to run under MATLAB (version 7.X) and Octave (version 3.2.X) in any of the three main operational systems out there (Mac, Windows and Linux).  A paper describing the toolbox can be found 
+&lt;a href=&#34;http://color.psych.upenn.edu/brainard/papers/Psychtoolbox.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;br&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./psychopyLogoOnline.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.psychopy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PsychoPy&lt;/a&gt; is also a free toolbox that can be used to deliver visual and auditory stimuli and receive inputs from subjects, on top of keyboard, mouse and button boxes, it also supports serial and parallel ports and compiled drivers (allowing interface with pretty much any hardware installed in your computer). It is written in Python, and it can be used with Windows, Mac or Linux. Two papers describing the toolbox can be found 
+&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0165027006005772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and 
+&lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/neuro.11.010.2008/full&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python, NumPy, SciPy &amp; Matplotlib</title>
+      <link>https://open-neuroscience.com/en/post/python-numpy-scipy-matplotlib/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/python-numpy-scipy-matplotlib/</guid>
+      <description>&lt;p&gt;Python is a free programming language that is widely used, most of the software developed for Linux is written in Python. It contains several libraries that cover a lot of problem domains, from asynchronous processing to zip files. Also it is available for most platforms. More information can be found at the language 
+&lt;a href=&#34;http://www.python.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official page.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;More specifically to scientific computation, the 
+&lt;a href=&#34;http://www.numpy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NumPy&lt;/a&gt; project brings n-dimension array objects, random number capabilities, fourier transforms and many other useful tools.&lt;/p&gt;
+&lt;p&gt;Boosting NumPy capabilities is 
+&lt;a href=&#34;http://www.scipy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SciPy&lt;/a&gt;, which is another Python library that adds signal processing, optimization and statistical tools to Python.&lt;/p&gt;
+&lt;p&gt;After all the calculations are done, they can be plotted also using python and another useful library: 
+&lt;a href=&#34;http://matplotlib.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matplotlib.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Red Pitaya</title>
+      <link>https://open-neuroscience.com/en/post/red-pitaya/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/red-pitaya/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.redpitaya.com/?skip_intro=yes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Red Pitaya&lt;/a&gt; is an computer+FPGA that has digital input and outputs and really fast analog inputs and outputs. It allows connection over ethernet and programming of custom routines. The system is powerful enough to have application in mostly all branches of neuroscience labs: oscilloscopes, signal generators and even a candidate for recording systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spike Gadgets</title>
+      <link>https://open-neuroscience.com/en/post/spike-gadgets/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/spike-gadgets/</guid>
+      <description>&lt;p&gt;A brief description of their current software (09.Sep.2016) is provided by one of their founders, Mattias Karlsson:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;a href=&#34;http://www.spikegadgets.com/software/statescript.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;State Script:&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Do you need to control lasers for optogenetics, stimulators, or other TTL-based devices with precise, temporally defined patterns? Do you need to monitor beam breaks, lever presses, or other digital events in real time to define behavioral tasks?  You could program an Arduino, but that’s a lot of work. Or, you can use StateScript, which allows users with minimal programming experience define complex input/output relationships for the most demanding hardware control experiments.&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;This open-source project now runs on two available hardware platforms, the MBED LPC1768 micro controller board ($50) and the SpikeGadgets electrophysiology and behavioral control system.  More hardware support in is the works. A software interface, which is part of the Trodes open-source eletrophysiology suite (&lt;a href=&#34;http://www.spikegadgets.com/software/trodes.html&#34; target=&#34;_blank&#34;&gt;&lt;a href=&#34;http://www.spikegadgets.com/software/trodes.html&#34;&gt;http://www.spikegadgets.com/software/trodes.html&lt;/a&gt;&lt;/a&gt;), allows you to upload scripts and dynamically interact with variables and ports states.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;Anyone is welome to contribute. Here is the 
+&lt;a href=&#34;https://bitbucket.org/mkarlsso/statescript&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bitbucket repo.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+  &lt;div align=&#34;center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i2.wp.com/www.spikegadgets.com/images/statescript_screenshot_2.png?resize=800%2C571&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;
+&lt;a href=&#34;http://www.spikegadgets.com/software/trodes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Trodes:&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Trodes is a software suite with a focus on data acquisition for extracellular neural recordings.  It has a growing user base and welcomes contributors with open arms! It is built using the ever-popular and powerful Qt C++ framework. While it is specialized to be used with SpikeGadgets’ ephys hardware, it also has built-in support for the Intan demo system and Open-Ephys hardware.&lt;/p&gt;
+&lt;p&gt;It has some pretty impressive capabilities, including visualization of thousands of channels, spike viewing, online spike sorting, and low latency feedback control.  It has video processing, allowing position tracking that is synchronized to the recording, and integrates powerful environment control (lasers for optogenetics, levers, lights, pumps, etc.) with StateScript.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://i1.wp.com/www.spikegadgets.com/images/trodesscreenshot.png?resize=800%2C444&#34; alt=&#34;Trodes interface&#34;&gt;&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt; Trodes interface &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i1.wp.com/www.spikegadgets.com/images/trodes_screenshot_cameramod.png?resize=800%2C554&#34; alt=&#34;Trodes interface&#34;&gt;&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt; Trodes &lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fingertip laser sensor</title>
+      <link>https://open-neuroscience.com/en/post/fingertip_laser_sensor/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/fingertip_laser_sensor/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://toychest.ai.uni-bremen.de/wiki/projects:fingertip#fingertip_laser_sensor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The fingertip laser project&lt;/a&gt; makes use of the sensor used in an Avago ADNS-9500 laser mouse, to improve the capabilities of robotic hands, giving them the capability to detect distance, surface type and slippage of grasped objects. Very elegant hack of a mouse sensor!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://toychest.ai.uni-bremen.de/wiki/_media/projects:fingertip_on_hand.jpg?w=250&amp;amp;h=240&amp;amp;tok=a67363&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Genome RNAi</title>
+      <link>https://open-neuroscience.com/en/post/genome-rnai/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/genome-rnai/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.genomernai.org/Index&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GenomeRNAi  &lt;/a&gt; is a database containing phenotypes from RNA interference (RNAi) screens in Drosophila and Homo sapiens. In addition, the database provides an updated resource of RNAi reagents and their predicted quality.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GogoFuge</title>
+      <link>https://open-neuroscience.com/en/post/gogofuge/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/gogofuge/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://diybio.org/2012/06/12/gogofuge/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GogoFuge&lt;/a&gt; is a good example of the power of opensource designs. IT was based on the idea of the DremelFuge and altered to be a tabletop centrifuge with vortex capability. It was created by 
+&lt;a href=&#34;fablabatschool.org/profile/KeeganCooke&#34;&gt;Keegan Cooke&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;474&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/Qcl04sqXqY4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Green Brain</title>
+      <link>https://open-neuroscience.com/en/post/green-brain/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/green-brain/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://greenbrain.group.shef.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Green Brain project&lt;/a&gt; wants to create an artificial &lt;em&gt;Apis mellifera&lt;/em&gt; brain and implement said brain into a robot, that will be able to fly and and behave just like a honey bee!&lt;/p&gt;
+&lt;p&gt;The reasons for this project are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The bee brain has way less neurons than the brain of rodents (but still in the order of 10^6 neurons!), so understanding how this “simple” brain works could be a nice step towards understanding more complex brains.&lt;/li&gt;
+&lt;li&gt;The bee population has been declining and scientists are not exactly sure why.&lt;/li&gt;
+&lt;li&gt;Understanding bee behaviour and the organ that produces them might help solve the problem&lt;/li&gt;
+&lt;li&gt;Improvement of unmanned aerial vehicle control&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;http://greenbrain.group.shef.ac.uk/wp-content/uploads/2013/04/DSC_8958-1024x683.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image, Office suites, and other general purpose software</title>
+      <link>https://open-neuroscience.com/en/post/image-office-suits-and-other-general-purpose-software/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/image-office-suits-and-other-general-purpose-software/</guid>
+      <description>&lt;p&gt;If you are using Linux, changes are that this page is not that useful for you, since most of these programs come installed by default. For you who are not yet into linux, most of these programs have Windows/Mac versions:&lt;/p&gt;
+&lt;p&gt;Office suites (spreadsheet calculation, slide manufacturing , document writing):&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.openoffice.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Office&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.libreoffice.org/#0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Libre Office&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Image manipulation programs (vectorized images or photoshop style):&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://inkscape.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Inkscape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.gimp.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gimp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;3D modelling (to create animations, solids or even things that can be printed):&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://free-cad.sourceforge.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FreeCad&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.blender.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blender&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.openscad.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenScad&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent hearing aid</title>
+      <link>https://open-neuroscience.com/en/post/intelligent_hearing_aid/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/intelligent_hearing_aid/</guid>
+      <description>&lt;p&gt;Ojoshi at instructables.com has posted a manual on how to build this arduino based 
+&lt;a href=&#34;http://www.instructables.com/id/Intelligent-Hearing-Aid/?ALLSTEPS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hearing aid system&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;From his 
+&lt;a href=&#34;http://www.instructables.com/id/Intelligent-Hearing-Aid/?ALLSTEPS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;instructables page&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;it has tuning functionality that allows the wearer to tune the amplification to his or her needs. It has a conversational mode which recognizes voice input and amplifies it while reducing background noise. It saves all data to memory so that the device can be quickly powered up and ready to use. This device also has a very easy user interface to keep operation quick and simple.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;If you are going to try and build this, take maximum care and do it at your own risk!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;figure style=&#34;width: 703px&#34; class=&#34;wp-caption aligncenter&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i1.wp.com/cdn.instructables.com/F5D/JQVI/HOUFWUWY/F5DJQVIHOUFWUWY.LARGE.jpg?resize=703%2C937&#34; alt=&#34;&#34; width=&#34;703&#34; height=&#34;937&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;from: &lt;a href=&#34;http://cdn.instructables.com/F5D/JQVI/HOUFWUWY/F5DJQVIHOUFWUWY.LARGE.jpg&#34;&gt;http://cdn.instructables.com/F5D/JQVI/HOUFWUWY/F5DJQVIHOUFWUWY.LARGE.jpg&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>IPipet</title>
+      <link>https://open-neuroscience.com/en/post/ipipet/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/ipipet/</guid>
+      <description>&lt;p&gt;IPipet is a neat system to help you not to lose track of which wells you have already pipetted in or from. The idea is simple, you place a tablet running a link with your specific pipetting protocol under your source and destination plates. The tablet will illuminate the corresponding wells. After you pipette one sample, you press next on the tablet and the next sample will be illuminated. For more details watch the video (below) and visit the 
+&lt;a href=&#34;http://ipipet.teamerlich.org/usage&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project&amp;rsquo;s homepage.&lt;/a&gt; They even have a 
+&lt;a href=&#34;http://www.thingiverse.com/thing:339588&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3D printable adaptor&lt;/a&gt; to prevent the well plate from slipping on the tablet surface.&lt;/p&gt;
+&lt;br&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;iframe src=&#34;https://player.vimeo.com/video/90988265&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;a href=&#34;https://vimeo.com/90988265&#34;&gt;iPipet Demo&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/user26499168&#34;&gt;Team Erlich&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Lab management software</title>
+      <link>https://open-neuroscience.com/en/post/lab-management-software/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/lab-management-software/</guid>
+      <description>&lt;p&gt;Since organisation of ideas, stocks, and projects is a major concern (or at least should be) of labs and researchers, here is a small compilation of cost free sofware to help out:&lt;/p&gt;
+&lt;br&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./Quartzy.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.quartzy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quartzy&lt;/a&gt; is a free web based application (supported by life sciences related companies) it focuses on sharing protocols, tracking orders, manage lab inventory and shared quipment management.&lt;/p&gt;
+&lt;br&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./elabftw-logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.elabftw.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLabFTW&lt;/a&gt; is a management system created by Nicolas Carpi. It is opensource (which means each lab can customize it for special needs), free and it can be installed locally. Its 
+&lt;a href=&#34;https://demo.elabftw.net/login.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;online demo version&lt;/a&gt; focuses on experiment log, database (where drugs, chemicals, animal strains and etc can be logged) and team (where lab members can be listed).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Micro-Manager</title>
+      <link>https://open-neuroscience.com/en/post/micro-manager/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/micro-manager/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.micro-manager.org/wiki/Micro-Manager%20Project%20Overview&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Micro-Manager&lt;/a&gt; is an ImageJ plugin dedicated to the control of microscopes. Their intent is to have a “one fits all” software for the control of microscopes, stages, filters and cameras. A comprehensive list of supported devives can be found on &lt;a href=&#34;http://www.micro-manager.org/wiki/Device_Support&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;devices section&lt;/a&gt; of the &lt;a href=&#34;http://www.micro-manager.org/wiki/Micro-Manager&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project webpage.&lt;/a&gt; As the other projects listed on this website, the software is open source and freely distributed.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openeuroscience.wordpress.com/software/microscopy/micro-manager/&#34; title=&#34;Micro-Manager&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://i1.wp.com/www.micro-manager.org/skins/mmskin/mm_logo.gif?w=800&#34; alt=&#34;micro-manager logo&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neuromorpho</title>
+      <link>https://open-neuroscience.com/en/post/neuromorpho/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/neuromorpho/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://neuromorpho.org/index.jsp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroMorpho.Org&lt;/a&gt; is a centrally curated inventory of &lt;strong&gt;digitally reconstructed neurons&lt;/strong&gt; associated with peer-reviewed publications. It contains contributions from over 100 laboratories worldwide and is continuously updated as new morphological reconstructions are collected, published, and shared. (taken from neuromorpho.org)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://neuromorpho.org/images/BannerBG2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NeuroTinker</title>
+      <link>https://open-neuroscience.com/en/post/neurotinker/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/neurotinker/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://hackaday.io/project/3339-neurons-neurons-neurons&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroTinker project&lt;/a&gt; is all about hardware emulated neurons. The creators made them in a way that each hardware neuron has excitatory and inhibitory inputs and one output that can be split up to affect dowsntream neurons. They are also cheap enough so that one can build several of them and wire them together to see which properties will emerge in the system. Design files are available on the 
+&lt;a href=&#34;https://github.com/neurotinker&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project&amp;rsquo;s GitHub organization&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NiBabel</title>
+      <link>https://open-neuroscience.com/en/post/nibabel/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/nibabel/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://nipy.org/nibabel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NiBabel&lt;/a&gt; is a python package, under the NiPy project, that aims at unifying the process of opening different medical and neuroimaging file formats, including: 
+&lt;a href=&#34;http://www.grahamwideman.com/gw/brain/analyze/formatdoc.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ANALYZE&lt;/a&gt;,
+&lt;a href=&#34;http://www.nitrc.org/projects/gifti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GIFTI&lt;/a&gt;, 
+&lt;a href=&#34;http://nifti.nimh.nih.gov/nifti-1/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIfTI1&lt;/a&gt;, 
+&lt;a href=&#34;http://en.wikibooks.org/wiki/MINC/Reference/MINC2.0_File_Format_Reference&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MINC&lt;/a&gt;, 
+&lt;a href=&#34;http://surfer.nmr.mgh.harvard.edu/fswiki/FsTutorial/MghFormat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MGH&lt;/a&gt; and 
+&lt;a href=&#34;http://xmedcon.sourceforge.net/Docs/Ecat&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECAT&lt;/a&gt; as well as PAR/REC. The package is also able to read and write 
+&lt;a href=&#34;http://surfer.nmr.mgh.harvard.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freesurfer&lt;/a&gt; format.&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;https://nipy.org/nibabel/_static/nipy-logo-bg-138x120.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nipy</title>
+      <link>https://open-neuroscience.com/en/post/nipy/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/nipy/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NiPy&lt;/a&gt; is an effort to make brain imaging research easier and more clear. This is implemented by providing a series of software that deal with file IO, analysis, and interfaces &amp;amp; pipelines.&lt;/p&gt;
+&lt;p&gt;The software present up to now (05/05/2020)&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/nipype/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nipype&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/dipy/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;diPy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/mindboggle/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mindboggle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/nibabel/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NiBabel&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/sdm/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scitran SDM&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/nipy/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nipy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/nitime/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nitime&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/popeye/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;popeye&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/nilearn/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;niLearn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/pymvpa/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyMVPA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/mne/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MNE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://nipy.org/packages/niwidgets/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;niwidgets&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nose poke device for rats using arduino and 3d printed parts</title>
+      <link>https://open-neuroscience.com/en/post/nose-poke-device-for-rats-using-arduino-and-3d-printed-parts/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/nose-poke-device-for-rats-using-arduino-and-3d-printed-parts/</guid>
+      <description>&lt;p&gt;This is a small set of instructions on how to build a nose poke device for rats, using an arduino, some 3D printed parts and some off-the-shelf electronic components.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All the files necessary to reproduce this can be found 
+&lt;a href=&#34;https://github.com/amchagas/poke_device_arduino&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The description is still not very detailed, but if something is not clear, do not hesitate to make contact! &lt;a href=&#34;mailto:openeuroscience@gmail.com&#34;&gt;openeuroscience@gmail.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you ever use this informatíon, please cite it like this:&lt;/p&gt;
+&lt;div id=&#34;citecontent&#34;&gt;
+  Chagas, Andre Maia (2014): Nose poke device using 3d printed parts and Arduino. fig&lt;b&gt;share&lt;/b&gt;.&lt;br /&gt; &lt;a class=&#34;cite-doi&#34; href=&#34;http://dx.doi.org/10.6084/m9.figshare.1057762&#34;&gt;http://dx.doi.org/10.6084/m9.figshare.1057762&lt;/a&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Microscopy Environment</title>
+      <link>https://open-neuroscience.com/en/post/ome-open-microscopy-environment/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/ome-open-microscopy-environment/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;https://www.openmicroscopy.org/site&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Microscopy Environment&lt;/a&gt; is a collaborative project between several labs. They are developing file formats and software standards for light microscopy.&lt;/p&gt;
+&lt;p&gt;Within the project they have 
+&lt;a href=&#34;https://www.openmicroscopy.org/site/products/bio-formats&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIO-formats&lt;/a&gt;, a Java library for reading and writing data. It can be used in 
+&lt;a href=&#34;https://imagej.nih.gov/ij/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ImageJ&lt;/a&gt; (it comes pre-packaged in 
+&lt;a href=&#34;https://fiji.sc/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FIJI&lt;/a&gt; and matlab.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.openmicroscopy.org/site/products/omero&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OMERO&lt;/a&gt; is a client-server software for storage and data-analysis of microscopy images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Operating systems</title>
+      <link>https://open-neuroscience.com/en/post/linux-distributions/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/linux-distributions/</guid>
+      <description>&lt;p&gt;Linux is an open source operating system and it is the major OS used in servers and supercomputers.  
+&lt;a href=&#34;http://www.ubuntu.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ubuntu&lt;/a&gt;, one of the best known distributions has been gaining space in the personal computing scene, now days already being factory 
+&lt;a href=&#34;http://www.omgubuntu.co.uk/2012/05/ubuntu-to-ship-on-5-of-all-pcs-sold-next-year&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shipped&lt;/a&gt; by major manufacturers.&lt;/p&gt;
+&lt;p&gt;But how practical is to migrate to a Linux distribution? Well, very. If one passes beyond the hassle of backing up data and installing a new OS, there are many advantages that come with it. For starters these OSs are safer than any Microsoft or Apple OS. There is a large community of users sharing solutions to problems, bugs and so on (there hasn’t been to today a widespread of any 
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Linux_malware&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;malware through Linux systems&lt;/a&gt;). Being open source, the distributions are perfect for customization, something really useful for science labs.&lt;/p&gt;
+&lt;p&gt;A Small list of distributions that make a good starting point:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.debian.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Debian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://neuro.debian.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroDebian&lt;/a&gt; (Debian oriented to neuroscience)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;www.ubuntu.com&#34;&gt;Ubuntu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.linuxmint.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://en.opensuse.org/Main_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenSuse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://fedoraproject.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fedora&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.ros.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ROS&lt;/a&gt; –&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The robot operating system is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Super-Releaser</title>
+      <link>https://open-neuroscience.com/en/post/super_releaser/</link>
+      <pubDate>Mon, 21 Mar 2016 10:00:12 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/super_releaser/</guid>
+      <description>&lt;p&gt;Ever thought about making soft robots? The folks at 
+&lt;a href=&#34;http://superreleaser.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Super-Releaser&lt;/a&gt; have, and they are doing very cool projects! Some for 
+&lt;a href=&#34;http://superreleaser.com/project-profiles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;medical applications and some for research&lt;/a&gt; purposes. Check one of their cool robots below:&lt;/p&gt;
+&lt;div class=&#34;ytp-html5-clipboard&#34;&gt;
+  &lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5 Dollar PCR machine</title>
+      <link>https://open-neuroscience.com/en/post/5_dollar_pcr/</link>
+      <pubDate>Tue, 09 Jun 2015 09:53:14 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/5_dollar_pcr/</guid>
+      <description>&lt;p&gt;The 5 dollar PCR machine is a project from 
+&lt;a href=&#34;https://hackaday.io/dnhkng&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David Ng&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;he created a very interesting design for the PCR machine. Instead of using eppendorfs, he is using teflon tubes and three different heating elements, which allows for cheaper (he has a working PCR machine for 5 dollars!) and faster DNA amplifications.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hackaday.io/project/1864-5-dna-replicator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here you can find the project page, with nice description and instructions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Below is a video from David explaining the project:&lt;/p&gt;
+&lt;iframe width=&#34;790&#34; height=&#34;481&#34; src=&#34;https://www.youtube.com/embed/S9Fq5CGj9Kg&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open bionics</title>
+      <link>https://open-neuroscience.com/en/post/open-bionics/</link>
+      <pubDate>Sat, 31 Jan 2015 22:56:41 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open-bionics/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.openbionics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Open bionics project&lt;/a&gt; was inspired by the Yale open hand project, aiming to develop light, affordable, and modular robot hands and myoelectric prosthesis. Also they want to make them easy to replicate using off the shelf materials. On the video below taken from their website you can see the hands in action, either as a prosthesis, or attached to a small drone being operated remotely.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open prosthetics and robotics</title>
+      <link>https://open-neuroscience.com/en/post/prosthetics-and-robotics/</link>
+      <pubDate>Sat, 31 Jan 2015 22:08:16 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/prosthetics-and-robotics/</guid>
+      <description>&lt;p&gt;With the rise of low cost 3D printers, and other cheap manufacturing tools, the field of robotics and prosthetics has been gaining quite a few open source projects. Two very nice compilations can be found at 
+&lt;a href=&#34;//openrobothardware.org/&#34;&gt;openrobot hardware&lt;/a&gt; and at 
+&lt;a href=&#34;http://softroboticstoolkit.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soft robotics toolkit&lt;/a&gt;. Below are some related to neuroscience:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openeuroscience.com/hardware-projects/open-prosthetics-and-robotics/open-hand-project/&#34; title=&#34;Open Hand Project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The open hand project&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openeuroscience.com/hardware-projects/open-prosthetics-and-robotics/the-yale-open-hand-project/&#34; title=&#34;The Yale open hand project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Yale open hand project&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openeuroscience.com/hardware-projects/open-prosthetics-and-robotics/open-bionics/&#34; title=&#34;Open bionics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Openbionics&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openeuroscience.com/hardware-projects/open-prosthetics-and-robotics/fingertip-laser-sensor/&#34; title=&#34;Fingertip laser sensor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fingertip laser sensor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openeuroscience.com/hardware-projects/open-prosthetics-and-robotics/takktile/&#34; title=&#34;Takktile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;takktile&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>10$ smartphone microscope</title>
+      <link>https://open-neuroscience.com/en/post/10_smartphone_microscope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/10_smartphone_microscope/</guid>
+      <description>&lt;p&gt;This 
+&lt;a href=&#34;http://www.instructables.com/id/10-Smartphone-to-digital-microscope-conversion/%20how%20to%20use%20a%20smartphone%20for%20big%20amplifications&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;neat little project&lt;/a&gt; uses some plexi-glass, lens extracted from a laser pointer to harvest the power of smartphone cameras for some very big amplifications! Yoshinok manged to see cell plasmolysis and some other cool features with it.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i2.wp.com/www.instructables.com/files/deriv/FPD/UWFL/HMNNFTF0/FPDUWFLHMNNFTF0.MEDIUM.jpg?w=800&#34; alt=&#34;10 dollar microsc setup&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i2.wp.com/www.instructables.com/files/deriv/FX0/QLMO/HMMF5O43/FX0QLMOHMMF5O43.MEDIUM.jpg?w=800&#34; alt=&#34;Vegetal slice&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Addgene</title>
+      <link>https://open-neuroscience.com/en/post/addgene/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/addgene/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.addgene.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Addgene&lt;/a&gt; is a non-profit company that makes the share of plasmids easier by making a plasmid database and linking them to the papers where they were described. In this way they take on the job of maintaining plasmids and shipping them to requesting scientists.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://i0.wp.com/www.addgene.org/static/images/home/logo.png?resize=256%2C72&#34; alt=&#34;&#34; width=&#34;256&#34; height=&#34;72&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Allen Brain Map</title>
+      <link>https://open-neuroscience.com/en/post/allen-brain-map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/allen-brain-map/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.brain-map.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Brain Map&lt;/a&gt; is one of the initiatives of the 
+&lt;a href=&#34;http://www.alleninstitute.org/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allen Institute&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It is a data portal that encompasses different projects:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;the Allen Institute has created a set of large-scale programs to understand the fundamentals of the cortex. We will be focusing our understanding through simultaneous study of the brain’s  &lt;a href=&#34;http://alleninstitute.org/our-science/brain-science/research/&#34; target=&#34;_blank&#34;&gt;components, computation and cognition.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;the Allen Institute has produced a collection of open science resources that give users a powerful way to explore gene expression data, neural connections, single cell characterization and neuroanatomy. All of our resources are openly accessible via the Allen Brain Atlas data portal at &lt;a href=&#34;http://www.brain-map.org/&#34; target=&#34;_blank&#34;&gt;brain-map.org&lt;/a&gt;.&lt;figure id=&#34;attachment_1311&#34; style=&#34;width: 300px&#34; class=&#34;wp-caption alignnone&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;size-medium wp-image-1311&#34; src=&#34;https://i0.wp.com/openeuroscience.com/wp-content/uploads/2016/12/brain_atlas.png?resize=300%2C80&#34; alt=&#34;from: http://www.brain-map.org/overview/index.html&#34; width=&#34;300&#34; height=&#34;80&#34; srcset=&#34;https://i0.wp.com/openeuroscience.com/wp-content/uploads/2016/12/brain_atlas.png?resize=300%2C80 300w, https://i0.wp.com/openeuroscience.com/wp-content/uploads/2016/12/brain_atlas.png?resize=768%2C204 768w, https://i0.wp.com/openeuroscience.com/wp-content/uploads/2016/12/brain_atlas.png?w=800 800w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;from: &lt;a href=&#34;http://www.brain-map.org/overview/index.html&#34;&gt;http://www.brain-map.org/overview/index.html&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Attys</title>
+      <link>https://open-neuroscience.com/en/post/attys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/attys/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.attys.tech/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Attys&lt;/a&gt; is an wearable data acquisition device with a special focus on biomedical signals such as heart activity (ECG), muscle activity (EMG) and brain activity (EEG). It’s open firmware, open API and has open source applications on github in C++ and JAVA to encourage people to create their own custom versions for mobile devices, tablets and PC.&lt;/p&gt;
+&lt;p&gt;The story of the Attys started when Dr. Bernd Porr filmed numerous youTube clips to educate the public about the possibilities and limits of biosignal measurement (&lt;a href=&#34;http://biosignals.berndporr.me.uk&#34;&gt;http://biosignals.berndporr.me.uk&lt;/a&gt;) which are featured here: 
+&lt;a href=&#34;http://openeuroscience.com/hardware-projects/human-electrophysiology/bio-signal/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BPM link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The site has been very popular ever since and visitors have been asking if a ready made bio-amp could be made available. This year Dr. Porr then decided to make one. This was the birth of the Attys.&lt;/p&gt;
+&lt;p&gt;Attys is also a general educational tool to measure any physical quantity such as temperature, pressure or light intensity. It works with Google’s open source Science Journal and turns every Android phone or tablet into an electronic lab book / oscilloscope. Of course one can measure biosignals with it, too.&lt;/p&gt;
+&lt;p&gt;Vasso Georgiadou has been the main presenter for our biosignal channel. Here, she shows off the Attys:&lt;/p&gt;
+&lt;iframe width=&#34;790&#34; height=&#34;444&#34; src=&#34;https://www.youtube.com/embed/TG5cRvgFEDA&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Backyard Brains</title>
+      <link>https://open-neuroscience.com/en/post/backyard_brains/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/backyard_brains/</guid>
+      <description>&lt;p&gt;Backyard brains started out producing low cost, portable, electrophysiology systems to bring neuroscience to classrooms and help promote it. “Backyard brains wants to be for neuroscience, what the telescope is for astronomers” – meaning that the idea is that with a couple of hundred dollars anyone can get one of these recording systems and start doing experiments, like amateur astronomers can buy telescopes and start observing the cosmos.&lt;/p&gt;
+&lt;iframe width=&#34;790&#34; height=&#34;444&#34; src=&#34;https://www.youtube.com/embed/-mKen7tCDCs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BB LED Matrix</title>
+      <link>https://open-neuroscience.com/en/post/bb_led_matrix/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/bb_led_matrix/</guid>
+      <description>&lt;p&gt;This project uses a 32X32 LED array (1024 LEDs in total) and a beagle bone black board. 
+&lt;a href=&#34;https://bikerglen.com/projects/lighting/led-panel-1up/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The page describing the project&lt;/a&gt; has very nice explanations on how the whole system works (and LED displays in general).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bikerglen.com/projects/lighting/led-panel-1up/led-panel-1up-files/rgb-led-panel-introduction.jpg&#34; alt=&#34;led matrix with BB&#34; title=&#34;beaglebone driven led matrix&#34;&gt;&lt;/p&gt;
+&lt;p&gt;From this project, the creator 
+&lt;a href=&#34;https://twitter.com/bikerglen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Glen Akins&lt;/a&gt;, went on to construct a 3X2 matrix of 32X32 LEDS, or a total of 6144 RGB LEDs that have a 200Hz refresh rate! Check out the video below of the panel in action:&lt;/p&gt;
+&lt;iframe width=&#34;790&#34; height=&#34;444&#34; src=&#34;https://www.youtube.com/embed/LBeVMGOgWvY&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Big Neuron</title>
+      <link>https://open-neuroscience.com/en/post/big-neuron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/big-neuron/</guid>
+      <description>&lt;p&gt;Big Neuron wants to create a standard for the field of single neuron reconstruction. Because the data available comes from different structures, different organisms, using different collection and analyses algorithms and is in the range of petabytes (according to the project site), there is a strong need for standards that will allow this huge amount of data to be compared.&lt;/p&gt;
+&lt;p&gt;The project aims to develop a common platform and algorithms for data analysis to benchmark as many open source neuronal reconstruction models as possible.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://avatars1.githubusercontent.com/u/15747935?s=200&amp;amp;v=4&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;For more information visit their &lt;a href=&#34;https://github.com/BigNeuron&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blinkenschild</title>
+      <link>https://open-neuroscience.com/en/post/blinkeschild/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/blinkeschild/</guid>
+      <description>&lt;p&gt;Blinkenschild is actually a portable sign consisting of 960 RGB LEDs. The images/movies to be displayed are stored in a SD card in a Teensy3 board and controlled via bluetooth. Resolution is not as high as LCD monitors but the refresh rate is much higher:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;This is done in realtime and pixelvalues are recalculated before display.
+
+This is still too fast so i had to add 30 ms delay between the frames or we would not perceive it as a fluid animation but rather just blinking bright light.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;iframe width=&#34;790&#34; height=&#34;593&#34; src=&#34;https://www.youtube.com/embed/VX14pmky07Q&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Boinc</title>
+      <link>https://open-neuroscience.com/en/post/boinc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/boinc/</guid>
+      <description>&lt;p&gt;&lt;img class=&#34;alignnone&#34; src=&#34;https://i1.wp.com/boinc.berkeley.edu/logo/www_logo.gif?resize=164%2C73&#34; alt=&#34;&#34; width=&#34;164&#34; height=&#34;73&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Boinc is a platform for 
+&lt;a href=&#34;http://boinc.berkeley.edu/trac/wiki/VolunteerComputing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;volunteer computing.&lt;/a&gt; Briefly, volunteer computer is a system where computer processor&amp;rsquo;s idle time (those periods where your computer is on, but not being used for anything) is turned into calculation time via a custom written software.&lt;/p&gt;
+&lt;p&gt;This idea got a lot of attention with the 
+&lt;a href=&#34;http://setiathome.ssl.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;seti@home&lt;/a&gt; project, where the computers of volunteers were transformed into a sort of supercomputer to analyse radio telescope date.&lt;/p&gt;
+&lt;p&gt;The Boinc project provides a platform where different projects can be created and launched on the 
+&lt;a href=&#34;http://boinc.berkeley.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;platform&amp;rsquo;s website.&lt;/a&gt; Once online, volunteers can decide to which project they want to spare their computer cycles and help crushing numbers. Currently (11/12/14) the platform has about 229,396 active volunteers on 751,864 computers. with a 24-hour average of 8.024 PetaFLOPS. (not bad!)&lt;/p&gt;
+&lt;p&gt;Projects come from universities as well as private sector and range from medicine and mathematics to games.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BPM Biosignal</title>
+      <link>https://open-neuroscience.com/en/post/bpm_biosignal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/bpm_biosignal/</guid>
+      <description>&lt;p&gt;BPM Biosignal is a two stage amplifier created mainly for educational purposes.&lt;/p&gt;
+&lt;p&gt;Check their 
+&lt;a href=&#34;https://www.youtube.com/c/BPMbiosignals&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;YouTube Channel&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brain Map</title>
+      <link>https://open-neuroscience.com/en/post/brain_map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/brain_map/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2012/pmd68_mab448/pmd68_mab448/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BrainMap&lt;/a&gt; expands the accessible DIY projects for brain activity measurements.&lt;/p&gt;
+&lt;p&gt;This is the conclusion project of Patrick Dear and Mark Bunney Jr. at Cornell university where they used infrared leds to measure differences in blood flow at the scalp and map the motor cortex.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2012/pmd68_mab448/pmd68_mab448/array.jpg&#34; alt=&#34;brain map&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BrainBrowser</title>
+      <link>https://open-neuroscience.com/en/post/brainbrowser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/brainbrowser/</guid>
+      <description>&lt;p&gt;BrainBrowser is a collection of open source, web-based 3D data visualization tools, mainly for neuroimaging studies. It is built using open technologies such as WebGL and HTML5. It allows exploration of cortical surface models (MNI and Wavefront OBJ, as well as FreeSurfer ASCII surface format) and volumetric MINC data. This project is currently maintained by 
+&lt;a href=&#34;http://www.tareksherif.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tarek Sherif&lt;/a&gt; at McGill University, and the source code is available on 
+&lt;a href=&#34;https://github.com/aces/brainbrowser&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://brainbrowser.cbrain.mcgill.ca/img/macacc.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;You can find more info on the 
+&lt;a href=&#34;https://brainbrowser.cbrain.mcgill.ca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision and motion tracking software</title>
+      <link>https://open-neuroscience.com/en/post/computer-vision-and-motion-tracking-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/computer-vision-and-motion-tracking-software/</guid>
+      <description>&lt;p&gt;Motion tracking can be really useful in neurosciences, for automatic measurements of behaviour, among other things. Here you’ll find a small list of tracking softwares or libraries used to build such softwares:&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Complete softwares:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://ctrax.sourceforge.net/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ctrax&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;figure style=&#34;width: 128px&#34; class=&#34;wp-caption alignnone&#34;&gt;[&lt;img src=&#34;https://i0.wp.com/ctrax.sourceforge.net/images/ctrax-logo2b_128.png?resize=128%2C128&#34; alt=&#34;&#34; width=&#34;128&#34; height=&#34;128&#34; data-recalc-dims=&#34;1&#34; /&gt;](https://i0.wp.com/ctrax.sourceforge.net/images/ctrax-logo2b_128.png)&lt;figcaption class=&#34;wp-caption-text&#34;&gt;taken from: http://ctrax.sourceforge.net/index.html&lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ctrax is an open-source, freely available, machine vision program for estimating the positions and orientations of many walking flies, maintaining their individual identities over long periods of time. It was designed to allow high-throughput, quantitative analysis of behavior in freely moving flies.&lt;/ul&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The bio tracking project, designed for multiple object tracking, developed at Georgia tech:&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.bio-tracking.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;a href=&#34;http://www.bio-tracking.org/&#34;&gt;http://www.bio-tracking.org/&lt;/a&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Community Core Vision: Built with computer vision and machine sensing in mind, they mention multi touch applications as one of their focus on the website.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://ccv.nuigroup.com/&#34;&gt;http://ccv.nuigroup.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://derek.simkowiak.net/motion-tracking-with-python/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Motion Tracking using python&lt;/a&gt;: Independent developed software by Derek Simkowiak, in a project he ran a couple of years back with his daughter, to track Gerbills&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://personal.ee.surrey.ac.uk/Personal/Z.Kalal/tld.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tracking-Learning-Detection&lt;/a&gt;: Developed by 
+&lt;a href=&#34;http://personal.ee.surrey.ac.uk/Personal/Z.Kalal/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zdenek Kalal&lt;/a&gt; this software intends to track pretty much anything (object determination can be done via mouse) in real time and to learn features from the object as tracking goes on.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt; 
+&lt;a href=&#34;http://openvisionc.sourceforge.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Vision Control&lt;/a&gt;: Developed on top of OpenCV (see below) in Python, it is a general purpose tracking software with several applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SwisTrack: Developed at EPFL, it is also a tracking system for multiple objects&lt;figure id=&#34;attachment_744&#34; style=&#34;width: 300px&#34; class=&#34;wp-caption aligncenter&#34;&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/800px-swistrack4-ubuntu.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img class=&#34;size-medium wp-image-744&#34; src=&#34;https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/800px-swistrack4-ubuntu.png?resize=300%2C211&#34; alt=&#34;From http://en.wikibooks.org/wiki/Swistrack&#34; width=&#34;300&#34; height=&#34;211&#34; srcset=&#34;https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/800px-swistrack4-ubuntu.png?w=800 800w, https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/800px-swistrack4-ubuntu.png?resize=300%2C212 300w, https://i0.wp.com/openeuroscience.com/wp-content/uploads/2014/04/800px-swistrack4-ubuntu.png?resize=768%2C541 768w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;From &lt;a href=&#34;http://en.wikibooks.org/wiki/Swistrack&#34;&gt;http://en.wikibooks.org/wiki/Swistrack&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://infoscience.epfl.ch/record/85929&#34;&gt;http://infoscience.epfl.ch/record/85929&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://infoscience.epfl.ch/record/125704&#34;&gt;http://infoscience.epfl.ch/record/125704&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0042247&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tracking software for Drosophila&lt;/a&gt;, by Colomb &lt;em&gt;et al&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Computer vision/tracking libraries:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://opencv.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open CV&lt;/a&gt; is a library for machine learning and computer vision. It is written for different computer languages and different operational systems.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The library has more than 2500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms. These algorithms can be used to detect and recognize faces, identify objects, classify human actions in videos, track camera movements, track moving objects, extract 3D models of objects, produce 3D point clouds from stereo cameras, stitch images together to produce a high resolution image of an entire scene, find similar images from an image database, remove red eyes from images taken using flash, follow eye movements, recognize scenery and establish markers to overlay it with augmented reality, etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.simplecv.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simple CV&lt;/a&gt; is a framework that tries to simplify the development of software that require computer vision/machine learning, since a lot of researchers have the necessity of building on such concepts, but sometimes don’t have the time/training necessary to do so.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Crowd funding</title>
+      <link>https://open-neuroscience.com/en/post/crowd-funding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/crowd-funding/</guid>
+      <description>&lt;p&gt;As many other things that are being decentralized with the advent of the internet, so is research. One of the very things being decentralized is the funding source for research projects. This movement is called crowdfunding, and it is already present and strong for other areas, such as funding of technological, and social projects. They are organized via specialised websites that puts people needing funding with people who are willing to support it:&lt;/p&gt;
+&lt;p&gt;The idea is somewhat simple. Researchers make a video of what their project/research idea is and ask for a certain value to fund the project. If people find the idea interesting they make a donation via the website hosting that project.&lt;/p&gt;
+&lt;p&gt;There are normally two types of funding options, fixed, where the researchers only get the money pledged if the donations reach that value (or pass it, and if the minimum is not reached the money is returned to the pledgers), or variable where the researchers get to keep the money raised even if it didn’t reach the amount pledged for. In both cases the website keeps a percentage of the money raised in case the funding is successful.&lt;/p&gt;
+&lt;p&gt;Articles about it can be founded 
+&lt;a href=&#34;http://www.theguardian.com/higher-education-network/blog/2013/nov/11/science-research-funding-crowdfunding-excellence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and 
+&lt;a href=&#34;http://www.nyas.org/publications/EBriefings/Detail.aspx?cid=82c4e4b4-f200-49b3-b333-c41e1e2f46aa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Some crowdfunding sources are listed below:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.sciencestarter.de/&#34;&gt;http://www.sciencestarter.de/&lt;/a&gt; – Research crowdfunding portal based in germany&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://experiment.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.microryza.com/&lt;/a&gt; – Research crowdFunding portal based in the US. (update – this is now called experiment.com)&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.kickstarter.com/?ref=nav&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.kickstarter.com&lt;/a&gt; – A Crowdfunding portal that also works for science projects. Currently (as in 02.02.14) only for projects based on the US, Canada, UK, Australia and New Zealand.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.indiegogo.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.indiegogo.com&lt;/a&gt; Also a crowdfunding portal that has science related projects. Differently from kickstarter, they support projects from all over the world, except countries in the US OFAC sanctions list&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.crowdsupply.com/&#34;&gt;https://www.crowdsupply.com/&lt;/a&gt; is another crowdfunding portal, based in the US, that focus on product development.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.ulule.com/&#34;&gt;http://www.ulule.com/&lt;/a&gt; – A crowdfunding portal based in Europe. They have a nice post on 
+&lt;a href=&#34;http://blog.ulule.com/post/700805254/a-brief-history-of-crowdfunding?_ga=1.104969667.1799200825.1396358648&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;crowdfunding history&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.petridish.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.petridish.org&lt;/a&gt; Research crowdfunding portal, but it seems that they haven’t been taking new projects for a while (since February 2013)&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;&lt;a href=&#34;http://sciflies.org/about&#34;&gt;&lt;a href=&#34;http://www.sciflies.org&#34;&gt;www.sciflies.org&lt;/a&gt;&lt;/a&gt; – Research crowdfunding portal based in Florida, their differential is that all projects posted there have to be approved by an anonymous peer review process, currently done by the American Association for Advancement of science. And 100% of the money goes to the project, there are no administrative fees. It was not clear from the website if only US based projects are funded&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.rockethub.com/&#34;&gt;http://www.rockethub.com/&lt;/a&gt; – General crowdfunding portal, that has also a science division where everyone can start a project.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://scifundchallenge.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;scifundchallenge.org&lt;/a&gt; – Built and maintained by the 
+&lt;a href=&#34;http://opensciencefederation.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open science federation&lt;/a&gt;, this project has three main “departments”, all trying to bridge the gap in between science and the general public: Teach and encourage scientists to outreach, connect the public directly with scientists and science crowdfund.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data repositories</title>
+      <link>https://open-neuroscience.com/en/post/data-repositories/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/data-repositories/</guid>
+      <description>&lt;p&gt;In here are some examples of tools that can be used to share/store data collected. Published a paper and think that people would benefit from looking at the raw data? Want to make that data that has been stored for years useful? Here you’ll find some options on how to do it.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://figshare.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FigShare&lt;/a&gt;: Free repository that allows storage of any sort of files (data, code, schematics) and gives each of them a digital object identifier (also keeping track to any changes made), which makes them citable. Also the website has tools to share the data.&lt;figure id=&#34;attachment_1270&#34; style=&#34;width: 167px&#34; class=&#34;wp-caption aligncenter&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/d/df/Figshare_logo.svg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://datadryad.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dryad&lt;/a&gt;: Repository for data, works in a similar way to Figshare, but Dryad also has a data submission system integrated with a (growing) number of journals, so that paper submissions are synchronized with the data sharing.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DIY PCR</title>
+      <link>https://open-neuroscience.com/en/post/diy_pcr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/diy_pcr/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://hackaday.io/hacker/24043-katherina-baranova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katharina&lt;/a&gt; and 
+&lt;a href=&#34;https://hackaday.io/hacker/24028-alex-bondarekno&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alex&lt;/a&gt; are developing a classic PCR machine: 16 samples and a heated lid.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://hackaday.io/project/2548-open-source-thermal-cycler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You can find more details of their project here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here is a demo video:&lt;/p&gt;
+&lt;iframe width=&#34;500&#34; height=&#34;281&#34; src=&#34;https://www.youtube.com/embed/R7leQlkBKJw&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DremelFuge</title>
+      <link>https://open-neuroscience.com/en/post/dremelfuge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/dremelfuge/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.thingiverse.com/thing:1483&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DremelFuge&lt;/a&gt; is a very simple and clever centrifuge, buit perhaps not the safest one (be careful if you end up using it!).&lt;/p&gt;
+&lt;p&gt;It takes advantage of 3d printing technology to print an adaptor that goes on to a Dremel (a precision tool that has really high rotation rates). It was created by 
+&lt;a href=&#34;https://www.thingiverse.com/cathalgarvey/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cathal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.thingiverse.com/renders/ff/74/4c/b2/c4/2009-12-30-023824_display_large_preview_featured.jpg&#34; alt=&#34;3d printed dremel attachment&#34; title=&#34;DremelFuge&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fiji</title>
+      <link>https://open-neuroscience.com/en/post/fiji/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/fiji/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://fiji.sc/Fiji&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fiji&lt;/a&gt; is a distribution of ImageJ. The idea of the developers is to make the life of scientists easier by bundling ImageJ with nicely organised plugins and auto update function.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fiji compares to ImageJ as Ubuntu compares to Linux.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openeuroscience.wordpress.com/software/imagej/&#34; title=&#34;ImageJ&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt; &lt;img src=&#34;https://i1.wp.com/rsbweb.nih.gov/ij/images/imagej-logo.gif?w=800&#34; alt=&#34;imagej logo&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interesting projects</title>
+      <link>https://open-neuroscience.com/en/post/other-interesting-projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/other-interesting-projects/</guid>
+      <description>&lt;p&gt;It is great that there are other interesting projects out there that are also concerned with making science available to more people! Here is a short list of projects I came across. They are not necessarily focusing on open source, but worth getting to know anyhow:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://trendinafrica.org/who-are-we/our-mission/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TReND in Africa&lt;/a&gt;: Where TReND stands for Teaching and Research in Neuroscience for Development, is a initiative to stop the brain drain in sub-Saharan Africa. They are a non-profit organisation led by a small group of researchers that are training and teaching local African scientists. On top of that they also coordinate the collection of money and equipment donation to establish permanent research facilities on African universities.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/cbonsig/open-stent&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Stent project&lt;/a&gt;: Although more into medicine rather than neuroscience is the open stent project is developed by 
+&lt;a href=&#34;http://www.nitinol.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NDC&lt;/a&gt;. Their stent was first designed to aid customer interaction. It seems that when giving examples on design improvements, they would always bump into proprietary issues, therefore they developed their own design and made the blueprints available for everyone.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/GliaX/Stethoscope&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open source stethoscope:&lt;/a&gt; This is a 3D printed stethoscope, developed by Tarek Loubani, a doctor that works in Gaza and with a 3D printer and 5 dollars worth of materials (tubes, ear piece and plastic to be printed) he and his group were able to outperform the Littmann Cardiology 3, a market leader, that sells for over 20X the price of the printed one.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://hackteria.org/wiki/index.php/Main_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hackteria&lt;/a&gt; – Is a wiki page that collects several DIY projects related to Biology and Open Source Art Projects that use Biology, LifeSciences, Biotechnology. Among the projects listed are centrifuges, water baths, field microscopes.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.appropedia.org/Open-source_Lab&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Source Lab:&lt;/a&gt;   A project by Prof. Joshua Pearce of Michigan University. It advocates in favour of researchers building their own lab equipment using 3D printers and other “off the shelf” available items. Although the main focus of the lab are environmental problems, a lot of the solutions there stated can easily be harvested/modified for neuroscience purposes.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.cooking-hacks.com/documentation/tutorials/ehealth-biometric-sensor-platform-arduino-raspberry-pi-medical&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;e-Health sensor platform&lt;/a&gt;: A device created at the open source division of Libelium, called cooking hacks. It allows integration of several health related sensors (blood pressure, oxygen level, glucose level, muscle activity, airflow, galvanic response) into arduino and raspberry pi. Which can be used to make real time monitoring of patients and/or test subjects.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.bitalino.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bitalino&lt;/a&gt;: On the same lines as e-health (above), the Bitalino is a complete platform for measurements of biosignals, but this project is more focused on learning and prototyping. It also has free software for data visualization.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://littledevices.org/research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Little Devices&lt;/a&gt;: develops tools to improve health care and diagnostics. They are open source, and DIY.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://publiclab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Public lab&lt;/a&gt;: Involved with environmental issues, Public lab is a platform that empowers communities to measure environmental variables around them. This way hard data concerning water, air and soil pollution can be used to put pressure on governments.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://arxiv.org/abs/1606.01196&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open source Muon Detector:&lt;/a&gt; an undergraduate-level physics project that incorporates various aspects of machine- and electronics-shop technical development. The desktop muon detector is a self-contained apparatus that employs plastic scintillator as a detection medium and a silicon photomultiplier for light collection. These detectors can be used in conjunction with the provided software to make interesting physics measurements. The total cost of each counter is approximately $100.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NeuroElectro</title>
+      <link>https://open-neuroscience.com/en/post/neuroelectro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/neuroelectro/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://neuroelectro.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeuroElectro&lt;/a&gt; wants to extract information about neuron types, morphology, electrophysiology properties from papers, using text mining algorithms and gathers them in a database.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Our goal is to facilitate the discovery of 
+&lt;a href=&#34;http://neuroelectro.org/neuroelectro/neuron/clustering&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;neuron-to-neuron relationships&lt;/a&gt; and better understand the role of functional diversity across neuron types.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open BCI</title>
+      <link>https://open-neuroscience.com/en/post/bio_amp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/bio_amp/</guid>
+      <description>&lt;p&gt;BioAmp is a biopotential acquisition device (EEG, ECG, EMG, EOG, etc.) developed in the Prototyping Laboratory at the School of Engineering of the National University of Entre Rios (Argentina).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./bio_amp_frontal.jpg&#34; alt=&#34;Frontal view&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Main features:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;8 independent acquisition channels
+24 bits of resolution per channel
+2000 Hz is the maximum sampling frequency
+USB connection (power and data transmission)
+inputs for trigger signal
+designed under electrical safety standards for medical use (electrical insulation, touch-proof connectors, etc.)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;A very interesting feature of the BioAmp is the possibility of combining two amplifiers to double the number of recording channels. It is also possible to program each channel individually, offering the possibility of registering different types of signal simultaneously. For example, EEG, EOG, and EMG could be recorded during a sleep study, or EMG and ECG during a physical activity study, etc.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./bio_amp_back.jpg&#34; alt=&#34;Posterior view&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This project is currently in evolution and development, continually changes and updates are made to improve the product. Both the hardware source files (PCB and cabinet for 3D printing) and firmware are available in the project repository.&lt;/p&gt;
+&lt;p&gt;For more information on this project and other projects carried out in the Prototyping Laboratory, visit the laboratory website.&lt;/p&gt;
+&lt;iframe id=&#34;video-2209-1_youtube_iframe&#34; allowfullscreen=&#34;1&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; title=&#34;YouTube video player&#34; src=&#34;https://www.youtube.com/embed/F7R7IxtyfGw?controls=0&amp;amp;rel=0&amp;amp;disablekb=1&amp;amp;showinfo=0&amp;amp;modestbranding=0&amp;amp;html5=1&amp;amp;iv_load_policy=3&amp;amp;autoplay=0&amp;amp;end=0&amp;amp;loop=0&amp;amp;playsinline=0&amp;amp;start=0&amp;amp;nocookie=false&amp;amp;enablejsapi=1&amp;amp;origin=https%3A%2F%2Fopeneuroscience.com&amp;amp;widgetid=1&#34; width=&#34;829&#34; height=&#34;466.3125&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open BCI</title>
+      <link>https://open-neuroscience.com/en/post/open_bci/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open_bci/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://openbci.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenBCI&lt;/a&gt; is a complete open source EEG system that can be built either on top of an Arduino (8-bit system), or on top of chipKIT (32-bit system), which gives the system more local memory and allows for faster speeds.&lt;/p&gt;
+&lt;p&gt;All software code and hardware (including a model for a 3D printable headset) plans can be found freely available at their 
+&lt;a href=&#34;https://openbci.com/index.php/downloads&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;download section&lt;/a&gt; or at 
+&lt;a href=&#34;https://github.com/OpenBCI&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://openbci.com/images/headerlogofront2.png&#34; alt=&#34;OpenBCI&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open EEG</title>
+      <link>https://open-neuroscience.com/en/post/open_eeg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open_eeg/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://openeeg.sourceforge.net/doc/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The openEEG&lt;/a&gt; project aims at describing and putting manuals for building a two channel EEG system for about U$200.
+More on instructions on how to build one, can be found 
+&lt;a href=&#34;http://openeeg.sourceforge.net/doc/SimpleEEG/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The latest update on the page seems to be a bit old, but Olimex sells the necessary PCB boards and accessories to 
+&lt;a href=&#34;https://www.olimex.com/Products/EEG/OpenEEG/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;build the device&lt;/a&gt;. They also sell the 
+&lt;a href=&#34;https://www.olimex.com/Products/EEG/OpenEEG/EEG-SMT/open-source-hardware&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;openEEG completely assembled&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.olimex.com/Products/EEG/OpenEEG/EEG-SMT/images/EEG-SMT-01.jpg&#34; alt=&#34;Assembled Open EEG&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Ephys</title>
+      <link>https://open-neuroscience.com/en/post/open-ephys/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open-ephys/</guid>
+      <description>&lt;p&gt;Open Ephys is a great initiative to create a suite that encompasses hardware for LFP and spiking recording, optogenetics combined with custom written software for microstimulation, environmental stimuli, extracellular recording and optogen. perturbations. Their ultimate goal is to create a system optimized for tetrodes and optogenetics where one is able to record and analyse data in real-time. On the 
+&lt;a href=&#34;http://www.open-ephys.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project’s website&lt;/a&gt; one can download plans on how to build the devices and estimate on part cost (which is much, much lower than commercially available systems out there).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open ExG</title>
+      <link>https://open-neuroscience.com/en/post/open_exg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open_exg/</guid>
+      <description>&lt;p&gt;OpenHardwareExG: is a project that provides both open source hardware and software for the measurement and analysis of different types of biosignals&lt;/p&gt;
+&lt;p&gt;From the 
+&lt;a href=&#34;http://openelectronicslab.github.io/OpenHardwareExG/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project page&lt;/a&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;About the OpenHardwareExG project
+Project goals
+The main goal of the project is to build a device that allows the creation of electrophysiologic signal processing applications. In addition:
+
+    Hardware and software that we develop will have a free/open source license. We also prefer to use hardware and software that are free/open source.
+    We would like to keep the hardware &amp;quot;DIY compatible&amp;quot; (hand solderable, with parts that are readily available in small quantities, etc.)
+    For us, this is a hobby and learning project. It&#39;s important to keep it fun, and take the time to learn along the way.
+
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/OpenElectronicsLab/eeg-mouse-notes/master/images/OpenHardwareExG-rev1-in-case.800.jpg&#34; alt=&#34;ExG board&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open lab notebooks</title>
+      <link>https://open-neuroscience.com/en/post/open-lab-notebooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open-lab-notebooks/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://en.wikipedia.org/wiki/Open_notebook_science&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open notebooks&lt;/a&gt; are opening up science in the very first steps, making records of ideas, plans that didn’t work and protocols that failed available publicly. This allows others to avoid trailing the same dead end roads, saving time, money and human power. Some examples are listed below, but unfortunately there weren’t enough examples in the neuroscience field (until 22/01/14), so examples from all fields are listed:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://carlboettiger.info/lab-notebook.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carl Boettiger’s notebook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.jeremiahfaith.com/open_notebook_science/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jeremiah Faith’s notebook&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/michaelbarton&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Michael Barton’s github repository&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open PCR</title>
+      <link>https://open-neuroscience.com/en/post/open_pcr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open_pcr/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://openpcr.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open PCR&lt;/a&gt; is an open source PCR machine with heated lid and space for 12 samples&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://openpcr.org/assets/machine-34ba9a259de2ce130a96f9f6380cc9da.png&#34; alt=&#34;open thermocycler&#34; title=&#34;open PCR&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open science framework</title>
+      <link>https://open-neuroscience.com/en/post/open-science-framework/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open-science-framework/</guid>
+      <description>&lt;p&gt;From the 
+&lt;a href=&#34;http://openscienceframework.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open science framework&lt;/a&gt; webpage:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The Open Science Framework (OSF) is part network of research materials, part version control system, and part collaboration software. The purpose of the software is to support the scientist’s workflow and help increase the alignment between scientific values and scientific practices. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The project offers cloud space for uploading of project outline, materials, workflow, individual contributions and their extent to a specific project. All of that with the option of having all data publicly or privately available. The idea is to allow a more transparent and innovative system where people can see what is being done in “real-time”, contribute and even take up on ideas from other people so that the wheel doesn’t have to be reinvented, the system also allows for proper citation, so that the “wheel inventors” won’t go uncredited.&lt;/p&gt;
+&lt;p&gt;As an example of what can be done through the Open Science Framework, one can cite the 
+&lt;a href=&#34;http://openscienceframework.org/project/EZcUj/wiki/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Reproducibility Project&lt;/a&gt; which is a project that aims at checking the reproducibility of ~150 sample studies from cognitive and psychological sciences. Contributors are welcomed!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open source brain</title>
+      <link>https://open-neuroscience.com/en/post/open-source-brain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open-source-brain/</guid>
+      <description>&lt;p&gt;The 
+&lt;a href=&#34;http://www.opensourcebrain.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open source brain&lt;/a&gt; project is a database of computational models of neural systems.  From the website:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Open Source Brain&lt;/strong&gt; is a resource for sharing and collaboratively developing  &lt;a href=&#34;http://en.wikipedia.org/wiki/Computational_neuroscience&#34; target=&#34;_blank&#34;&gt;computational models of neural systems&lt;/a&gt;. (…)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;OSB will provide advanced facilities to analyse, visualise and transform models (…), and to connect researchers interested in models of specific neurons, brain regions and disease states.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenSpritzer</title>
+      <link>https://open-neuroscience.com/en/post/openspritzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/openspritzer/</guid>
+      <description>&lt;p&gt;A very neat picospritzer initially created by Joe (PI at 
+&lt;a href=&#34;http://raimondolab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Raimondo Lab&lt;/a&gt;) using basically a solenoid valve, microcontroller and a power source.&lt;/p&gt;
+&lt;p&gt;Was later further developed by 
+&lt;a href=&#34;https://chrisjforman.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris&lt;/a&gt; at the 
+&lt;a href=&#34;badenlab.org&#34;&gt;Baden Lab&lt;/a&gt;, and collaboratively published as 
+&lt;a href=&#34;https://www.nature.com/articles/s41598-017-02301-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a peer reviewed article&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://raimondolab.com/wp-content/uploads/2013/12/puffadder-picospritzer.jpg&#34; alt=&#34;openSpritzer&#34; title=&#34;first open spritzer&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Details on how to build it, can be found on the 
+&lt;a href=&#34;https://github.com/BadenLab/Openspritzer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;project&amp;rsquo;s Git repository&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenStage</title>
+      <link>https://open-neuroscience.com/en/post/openstage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/openstage/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0088977&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open stage&lt;/a&gt; is a low-cost motorised microscope stage capable of movement in the micrometer range. It features manual control via a control-pad, different movement velocities and pc communication through the serial port. The authors also state that due to its simplicity, the system could be used to drive micromanipulators and other devices&lt;figure style=&#34;width: 441px&#34; class=&#34;wp-caption alignnone&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0088977.g001&amp;representation=PNG_M&#34; alt=&#34;&#34; width=&#34;441&#34; height=&#34;600&#34; /&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;&lt;a href=&#34;http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0088977.g001&amp;amp;representation=PNG_M&#34;&gt;http://www.plosone.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pone.0088977.g001&amp;amp;representation=PNG_M&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parallela</title>
+      <link>https://open-neuroscience.com/en/post/parallela/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/parallela/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.parallella.org/Introduction/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parallela&lt;/a&gt;, an open source, open access card sized supercomputer, has the mission of bringing parallel computing to the masses by combining multiple RISC processors and very low power consumption. Produced by the 
+&lt;a href=&#34;http://www.adapteva.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Adapteva company&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://i1.wp.com/www.parallella.org/wp-content/uploads/ParallellaTopView31.png&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://i1.wp.com/www.parallella.org/wp-content/uploads/ParallellaTopView31.png?resize=800%2C509&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;509&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;Parallela board. Image from &lt;a href=&#34;http://www.parallella.org/wp-content/uploads/ParallellaTopView31.png&#34; rel=&#34;nofollow&#34;&gt;&lt;a href=&#34;http://www.parallella.org/wp-content/uploads/ParallellaTopView31.png&#34;&gt;http://www.parallella.org/wp-content/uploads/ParallellaTopView31.png&lt;/a&gt;&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PySpace</title>
+      <link>https://open-neuroscience.com/en/post/pyspace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/pyspace/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://pyspace.github.io/pyspace/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PySpace&lt;/a&gt; is a signal processing and classificiation environment for Python.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p class=&#34;western&#34; lang=&#34;de-DE&#34; align=&#34;justify&#34;&gt;
+  &lt;span style=&#34;font-size: large;&#34;&gt;&lt;span lang=&#34;en-US&#34;&gt;modular software for processing of large data streams that has been specifically designed to enable distributed execution and empirical evaluation of signal processing chains. Various signal processing algorithms (&amp;#8230;) are available within the software, from finite impulse response filters over data-dependent spatial filters (e.g. CSP, xDAWN) to established classifiers (e.g. SVM, LDA). pySPACE incorporates the concept of node and node chains of the Modular Toolkit for Data Processing (MDP) framework.&lt;/span&gt;&lt;/span&gt;
+&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p class=&#34;western&#34; lang=&#34;de-DE&#34; align=&#34;justify&#34;&gt;
+  A paper about PySpace can be found &lt;a href=&#34;http://journal.frontiersin.org/article/10.3389/fninf.2013.00040/full&#34;&gt;here.&lt;/a&gt;
+&lt;/p&gt;
+&lt;p class=&#34;western&#34; lang=&#34;de-DE&#34; align=&#34;justify&#34;&gt;
+  Here a talk from one of the creators:
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python for Neurosciences (Frontiers collection)</title>
+      <link>https://open-neuroscience.com/en/post/python-for-neuroscience-frontiers-collection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/python-for-neuroscience-frontiers-collection/</guid>
+      <description>&lt;p&gt;Frontiers has created not one but two nice collections about open source software for neurosciences written in Python.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://journal.frontiersin.org/researchtopic/8/python-in-neuroscience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here is collection 1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://journal.frontiersin.org/researchtopic/1591/python-in-neuroscience-ii&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Here is collection 2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In these collections the readers will find a lot of nice resources, ranging from stimulus generation, to data formatting and analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Signal Generators</title>
+      <link>https://open-neuroscience.com/en/post/signal-generators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/signal-generators/</guid>
+      <description>&lt;p&gt;Every lab needs a signal generator once in a while. They are useful to see if your acquisition program is working properly, to test why a certain piece of equipment is not working properly or to generate cues and targets at behavioural paradigms. Listed below are different generators, built using arduinos and other microcontrollers. They have different degrees of complexity and capabilities, so it would be wise to briefly look through them and see what fits you best!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.instructables.com/id/Arduino-Waveform-Generator/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The arduino waveform generator&lt;/a&gt; is a pretty straight forward project that is able to generate four different waveforms from 1Hz to 50kHz. Gain, frequency, modulation and waveform type are controlled by nobs.&lt;/p&gt;
+&lt;iframe width=&#34;800&#34; height=&#34;422&#34; src=&#34;https://www.youtube.com/embed/gz_gVKWFN8E&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.instructables.com/id/Atmel-Xmega-USBSerial-Arbitrary-Waveform-Generato/?ALLSTEPS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Atmel Xmega USB/Serial Arbitrary Waveform Generator&lt;/a&gt; runs using a boston android XMEGA evaluation board and is able to deliver square, sine, triangular and arbitrary waveforms in between 5Hz and 20kHz. This one is not a stand alone system, which means that to set a new waveform type, one would have to have the board connect to a computer at all times.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i1.wp.com/www.instructables.com/files/deriv/FWF/PWX4/G79D44SM/FWFPWX4G79D44SM.LARGE.jpg?w=800&#34; alt=&#34;arbitrary waveform generator&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://arduino.cc/en/Tutorial/DueSimpleWaveformGenerator&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Simple waveform generator&lt;/a&gt; seems to be the most straight forward of all projects, requiring only a potentiometer, a couple of resistors and push buttons. The trade off is that with the present sketch, waveforms of only up to 170Hz can be generated. It generates sawtooth, square, triangular and sine waveforms.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i0.wp.com/arduino.cc/en/uploads/Tutorial/DueSimpleWaveform_fritzing.png?w=800&#34; alt=&#34;arduino due waveform generator&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simulations</title>
+      <link>https://open-neuroscience.com/en/post/simulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/simulation/</guid>
+      <description>&lt;div id=&#34;pl-1067&#34;  class=&#34;panel-layout&#34; &gt;
+  &lt;div id=&#34;pg-1067-0&#34;  class=&#34;panel-grid panel-no-style&#34; &gt;
+    &lt;div id=&#34;pgc-1067-0-0&#34;  class=&#34;panel-grid-cell&#34; &gt;
+      &lt;div id=&#34;panel-1067-0-0-0&#34; class=&#34;so-panel widget widget_sow-editor panel-first-child panel-last-child&#34; data-index=&#34;0&#34; &gt;
+        &lt;div class=&#34;so-widget-sow-editor so-widget-sow-editor-base&#34;&gt;
+          &lt;div class=&#34;siteorigin-widget-tinymce textwidget&#34;&gt;
+            &lt;p&gt;
+              Ever thought about playing with a virtual worm? or interacting with a simulated bee brain? Sounds interesting no? These are just two projects that offer anyone the opportunity to play around with brain/neuronal simulations and models. Some of them are hardware based, and some completely software:
+            &lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;        &amp;lt;p&amp;gt;
+          &amp;lt;a href=&amp;quot;http://openeuroscience.com/open-source-simulations-and-models/open-worm/&amp;quot;&amp;gt;OpenWorm&amp;lt;/a&amp;gt;
+        &amp;lt;/p&amp;gt;
+
+        &amp;lt;p&amp;gt;
+          &amp;lt;a href=&amp;quot;http://openeuroscience.com/open-source-simulations-and-models/green-brain/&amp;quot;&amp;gt;GreenBrain&amp;lt;/a&amp;gt;
+        &amp;lt;/p&amp;gt;
+
+        &amp;lt;p&amp;gt;
+          &amp;lt;a href=&amp;quot;http://openeuroscience.com/open-source-simulations-and-models/neuronsneuronsneurons/&amp;quot;&amp;gt;Neurons,Neurons,Neurons&amp;lt;/a&amp;gt;
+        &amp;lt;/p&amp;gt;
+
+        &amp;lt;p&amp;gt;
+          &amp;lt;a href=&amp;quot;http://openeuroscience.com/open-source-simulations-and-models/big-neuron/&amp;quot;&amp;gt;Big Neuron&amp;lt;/a&amp;gt;
+        &amp;lt;/p&amp;gt;
+      &amp;lt;/div&amp;gt;
+    &amp;lt;/div&amp;gt;
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;section class=&#34;blog&#34;&gt;
+  &lt;div class=&#34;container&#34;&gt;
+    &lt;div class=&#34;post-list&#34; itemscope=&#34;&#34; itemtype=&#34;http://schema.org/Blog&#34;&gt;
+      {% for page in site.pages %}
+        {% for category in page.categories %}
+          {% if category == &#34;Simulation&#34; %}
+            {% include card_page.html %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+&lt;pre&gt;&lt;code&gt;&amp;lt;/div&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skinner Box with RPi&#43;Python</title>
+      <link>https://open-neuroscience.com/en/post/skinnerbox_rpi_python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/skinnerbox_rpi_python/</guid>
+      <description>&lt;p&gt;This project was developed by 
+&lt;a href=&#34;http://www.kscottz.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katherine Scott&lt;/a&gt; to be presented at the PyCon 2014. She developed a skinner box for her pet rats using a raspberry pi and some 3D printed parts. The setup contain a food dispenser, a buzzer, levers, a camera to observe the animals and it is hooked in a way that everything can be controlled over the internet!&lt;/p&gt;
+&lt;p&gt;You can find the files for 3D parts 
+&lt;a href=&#34;http://www.thingiverse.com/thing:296335&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and a better description of the project 
+&lt;a href=&#34;http://www.kscottz.com/open-skinner-box-pycon-2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kscottz.com/wp-content/uploads/2014/04/IMG_20140409_014715.jpg?resize=800%2C592&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;592&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;iframe width=&#34;790&#34; height=&#34;444&#34; src=&#34;https://www.youtube.com/embed/grMfIoDgn9M&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/grMfIoDgn9M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stereo microscope</title>
+      <link>https://open-neuroscience.com/en/post/stereo_microscope/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/stereo_microscope/</guid>
+      <description>&lt;p&gt;Although stereo microscopes are an essential piece of hardware in biology labs, sometimes we wish they had more features, like the possibility to record the magnified images with a camera, or have a better lighting system to enhance contrast on those small samples.&lt;/p&gt;
+&lt;p&gt;One person has taken those issues to heart and tackled them all in a very brilliant way. Below you’ll find links to 
+&lt;a href=&#34;http://www.tangentaudio.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Steve’s blog&lt;/a&gt;, where he describes, in a very detailed way, three projects to enhance the all familiar stereo microscope:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.tangentaudio.com/mechanical/microscope-camera-output/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Camera eye piece adaptor.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i1.wp.com/www2.tangentaudio.com/wp-content/uploads/2013/03/2013-03-09_13-05-59_742-1024x577.jpg?resize=800%2C451&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.tangentaudio.com/2013/03/aziz-light/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AZIZ – a ring lighting system.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i1.wp.com/www.tangentaudio.com/wp-content/uploads/2013/03/DSC_6828-modified-1024x680.jpg?resize=800%2C531&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.tangentaudio.com/2013/02/epic-builds-articulated-stereo-microscope-arm/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Articulated stereo microscope mount.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Some of them are not that easy to reproduce, but maybe be a good starting point for other DIY versions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Syringe Pump</title>
+      <link>https://open-neuroscience.com/en/post/syringe_pump1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/syringe_pump1/</guid>
+      <description>&lt;p&gt;From the 
+&lt;a href=&#34;http://www.mse.mtu.edu/~pearce/Index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pearce lab&lt;/a&gt;, this syringe pump was 
+&lt;a href=&#34;https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0107216&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;published in Plos One&lt;/a&gt; and is built using 3d printed parts, stepper motors and a raspberry pi, costing 5% or less than commercial available systems. Can be calibrated and customized for different applications.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0107216.g005&amp;amp;size=large&#34; alt=&#34;diy syringe pump&#34; title=&#34;syringe pump&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Takktile</title>
+      <link>https://open-neuroscience.com/en/post/takktile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/takktile/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.takktile.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Takktile&lt;/a&gt;, is a tactile sensor to be used on robotic applications. The developers want to make it move away from the closed walls of research institutions by making it open source and cheap. It is built based on MEMs barometers and can sense 1 gram loads as well as coping with hammer blows (see video from their website below).&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tDCS</title>
+      <link>https://open-neuroscience.com/en/post/tdcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/tdcs/</guid>
+      <description>&lt;p&gt;Although of simple complexity and using low currents, this tDCS machine is still to be considered a piece of equipment that could be dangerous both in the assembly and in the operation phases, so please inform yourself as best as you can before either of these steps! Also remember that the openeuroscience website cannot be held responsible for any injuries that might occur from improper use of this tool.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.instructables.com/id/Build-a-Human-Enhancement-Device-Basic-tDCS-Suppl/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DIY tDCS instructables&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.instructables.com/FAQ/VB7Q/HH2VTZ4E/FAQVB7QHH2VTZ4E.LARGE.jpg?auto=webp&amp;amp;frame=1&amp;amp;fit=bounds&#34; alt=&#34;tDCS in use&#34; title=&#34;tDCS in use&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tensor Flow</title>
+      <link>https://open-neuroscience.com/en/post/tensor-flow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/tensor-flow/</guid>
+      <description>&lt;p&gt;Google has packaged their deeplearning machine learning tools and made it open source. The project is called tensorflow, and is available 
+&lt;a href=&#34;http://www.tensorflow.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt; Some nice tutorials on the website, so that with a bit of patience, people can start to deep their toes into machine learning!&lt;/p&gt;
+&lt;p&gt;Be sure to check the video below for more details!&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Visible Human project</title>
+      <link>https://open-neuroscience.com/en/post/the-visible-human-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/the-visible-human-project/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.nlm.nih.gov/research/visible/visible_human.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Visible Human Project&lt;/a&gt; is a database of anatomical images (MR, CT and radiography) from male and female bodies. Information about the database is translated into a couple of different languages. Although an license needs to be signed and sent over to the NIH, the procedure seems to be straightforward and cost free.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Yale open hand project</title>
+      <link>https://open-neuroscience.com/en/post/the_yale_open_hand_project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/the_yale_open_hand_project/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.eng.yale.edu/grablab/openhand/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Yale open hand project&lt;/a&gt;, has a similar purpose of the open hand project, that is, to make prosthetic hands more widely available through the lowering of costs. They have a different design from the open hand project. Additionally the project wants to take advantage of the lowered costs to speed up the development cycle and provide, together with input from the user community, several different useful hand designs.&lt;figure id=&#34;attachment_986&#34; style=&#34;width: 300px&#34; class=&#34;wp-caption aligncenter&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img class=&#34;size-medium wp-image-986&#34; src=&#34;https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg?resize=300%2C225&#34; alt=&#34;http://www.eng.yale.edu/grablab/openhand/images/model_t.jpg&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg?w=800 800w, https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg?resize=300%2C225 300w, https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg?resize=768%2C576 768w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;From: &lt;a href=&#34;http://www.eng.yale.edu/grablab/openhand/images/model_t.jpg&#34;&gt;http://www.eng.yale.edu/grablab/openhand/images/model_t.jpg&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tutorials</title>
+      <link>https://open-neuroscience.com/en/post/tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/tutorials/</guid>
+      <description>&lt;p&gt;Here are some small tutorials I was able to create, to give neuroscience specific examples on how to use microcontrollers, or how to write a code for data analysis using python and so on. If you find any problems, bugs or if you have suggestions, requests or tutorials of your own, send an email to openeuroscience(at)gmail.com.&lt;/p&gt;
+&lt;p&gt;–
+&lt;a href=&#34;http://openeuroscience.wordpress.com/tutorials/human-psychophysics-using-arduino/&#34; title=&#34;Human psychophysics using Arduino&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Posner’s test using exogenous cues.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openeuroscience.wordpress.com/tutorials/opening-mcd-files-with-python/&#34; title=&#34;Opening MCD files with python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;-Using python to open *.MCD files.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openeuroscience.wordpress.com/tutorials/nose-poke-device-for-rats-using-arduino-and-3d-printed-parts/&#34; title=&#34;Nose poke device for rats using arduino and 3d printed parts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;-Nose poke device for training rats&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/deed.en_US&#34; rel=&#34;license&#34;&gt;&lt;img style=&#34;border-width:0;&#34; src=&#34;https://i2.wp.com/i.creativecommons.org/l/by-sa/3.0/88x31.png?w=800&#34; alt=&#34;Creative Commons License&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Open neuroscience is licensed under a &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/3.0/deed.en_US&#34; rel=&#34;license&#34;&gt;Creative Commons Attribution-ShareAlike 3.0 Unported License&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Vision Egg</title>
+      <link>https://open-neuroscience.com/en/post/vision-egg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/vision-egg/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://visionegg.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vision Egg&lt;/a&gt; is a Python library for generating visual stimuli.&lt;/p&gt;
+&lt;p&gt;In more detail, it is a high level interface in between Python and OpenGL, and can use inexpensive consumer grade graphics cards to generate precise visual stimuli. A paper with more details can be found here &lt;a href=&#34;http://journal.frontiersin.org/article/10.3389/neuro.11.004.2008/full&#34;&gt;http://journal.frontiersin.org/article/10.3389/neuro.11.004.2008/full&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Web portals</title>
+      <link>https://open-neuroscience.com/en/post/webportals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/webportals/</guid>
+      <description>&lt;p&gt;Here are some open learning sources, they go from sites that interactively teach one how to code, to efforts in publishing free college textbooks.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.khanacademy.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khan Academy&lt;/a&gt;: Is composed of a series of lectures and exercises on a wide range of topics from basic multiplication to linear algebra and information theory. A great place to learn those things you missed in high school.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openstaxcollege.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Openstax College:&lt;/a&gt; is an initiative that is producing free, downloadable college level textbooks initially in sociology, physics, biology and anatomy and Physiology.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.codecademy.com/#!/exercises/0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CodeAcademy:&lt;/a&gt; Teaches several programming languages, including python, javascript, etc. in an interactive manner. From the first lesson one is already writing meaningful code to solve exercises.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://software-carpentry.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Software Carpentry:&lt;/a&gt; Is a project that helps scientists to write better code and increase their productivity by teaching them basic computing skills, such as version control, database systems, code with proper documentation and so on. They offer bootcamps, so check their website to see if there are any near you!&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.code.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code.org:&lt;/a&gt; Aims to teach programming to everyone, by putting learning sources together, such as codeacademy, khanacademy and so on. Considering that mostly everything now days is run by a computer, this is a great idea.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.edx.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;edx.org&lt;/a&gt;: An initiative from Harvard and MIT to make their lectures (and from other universities) available free online, the nice thing is that they range from humanities to computer science, meaning that this is useful event if it is only for you to go a little bit depeer into that “old forgotten hobby/interest in something that is not neuroscience” you once had.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.coursera.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coursera&lt;/a&gt;: Aggregates online courses from several universities. It offers certificates for people who complete the courses.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.sparkfun.com/static/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sparkfun&lt;/a&gt; is a retail store that sells eletronic components for hobbyists and DIY enthusiasts. But they also keep a very useful 
+&lt;a href=&#34;https://learn.sparkfun.com/tutorials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorial section&lt;/a&gt; where one can find lessons on basic eletronics, installing arduino libraries, infrared communication, and designing PCB boards.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.openoptogenetics.org/index.php?title=Main_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenOptogenetics:&lt;/a&gt; is a wiki page designed to promote knowledge and know-how exchange for optogenetic applications.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://openwetware.org/wiki/Main_Page&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Open Wetware wiki&lt;/a&gt; is a page dedicated to gathering information and know-how in biology and biological engineering. They provide a place to organize your own information, store labnotebooks and collaborate with other individuals. There is an article released in Nature (2008) about 
+&lt;a href=&#34;http://www.nature.com/news/2008/080903/full/455022a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this project.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://arxiv.org/abs/1403.7439&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenPicoAmp&lt;/a&gt;: is an open source planar lipid bilayer amplifier designed to teach undergrad students about electro-chemical properties of membranes. A paper describing the project, together with bill of materials and more can be found 
+&lt;a href=&#34;http://arxiv.org/abs/1403.7439&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (for some reason this link did not open on Firefox. Try Chromium or Chrome instead). Also, a description on thingiverse can found 
+&lt;a href=&#34;http://www.thingiverse.com/thing:292678&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.pyroelectro.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PyroElectro&lt;/a&gt;: a page for electronics and robotics enthusiasts, they have 
+&lt;a href=&#34;http://www.pyroelectro.com/edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tutorials on several topics&lt;/a&gt;, such as modern electronics. microcontrollers and FPGA.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

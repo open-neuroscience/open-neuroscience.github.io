@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prosthetics | Open Neuroscience</title>
+    <link>https://open-neuroscience.com/en/categories/prosthetics/</link>
+      <atom:link href="https://open-neuroscience.com/en/categories/prosthetics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prosthetics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://open-neuroscience.com/images/icon_hu98f7bdece981985d79e430785ac9bc37_26395_512x512_fill_lanczos_center_2.png</url>
+      <title>Prosthetics</title>
+      <link>https://open-neuroscience.com/en/categories/prosthetics/</link>
+    </image>
+    
+    <item>
+      <title>Fingertip laser sensor</title>
+      <link>https://open-neuroscience.com/en/post/fingertip_laser_sensor/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/fingertip_laser_sensor/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://toychest.ai.uni-bremen.de/wiki/projects:fingertip#fingertip_laser_sensor&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The fingertip laser project&lt;/a&gt; makes use of the sensor used in an Avago ADNS-9500 laser mouse, to improve the capabilities of robotic hands, giving them the capability to detect distance, surface type and slippage of grasped objects. Very elegant hack of a mouse sensor!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://toychest.ai.uni-bremen.de/wiki/_media/projects:fingertip_on_hand.jpg?w=250&amp;amp;h=240&amp;amp;tok=a67363&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent hearing aid</title>
+      <link>https://open-neuroscience.com/en/post/intelligent_hearing_aid/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/intelligent_hearing_aid/</guid>
+      <description>&lt;p&gt;Ojoshi at instructables.com has posted a manual on how to build this arduino based 
+&lt;a href=&#34;http://www.instructables.com/id/Intelligent-Hearing-Aid/?ALLSTEPS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hearing aid system&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;From his 
+&lt;a href=&#34;http://www.instructables.com/id/Intelligent-Hearing-Aid/?ALLSTEPS&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;instructables page&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;it has tuning functionality that allows the wearer to tune the amplification to his or her needs. It has a conversational mode which recognizes voice input and amplifies it while reducing background noise. It saves all data to memory so that the device can be quickly powered up and ready to use. This device also has a very easy user interface to keep operation quick and simple.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;If you are going to try and build this, take maximum care and do it at your own risk!&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;figure style=&#34;width: 703px&#34; class=&#34;wp-caption aligncenter&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i1.wp.com/cdn.instructables.com/F5D/JQVI/HOUFWUWY/F5DJQVIHOUFWUWY.LARGE.jpg?resize=703%2C937&#34; alt=&#34;&#34; width=&#34;703&#34; height=&#34;937&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;from: &lt;a href=&#34;http://cdn.instructables.com/F5D/JQVI/HOUFWUWY/F5DJQVIHOUFWUWY.LARGE.jpg&#34;&gt;http://cdn.instructables.com/F5D/JQVI/HOUFWUWY/F5DJQVIHOUFWUWY.LARGE.jpg&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Super-Releaser</title>
+      <link>https://open-neuroscience.com/en/post/super_releaser/</link>
+      <pubDate>Mon, 21 Mar 2016 10:00:12 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/super_releaser/</guid>
+      <description>&lt;p&gt;Ever thought about making soft robots? The folks at 
+&lt;a href=&#34;http://superreleaser.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Super-Releaser&lt;/a&gt; have, and they are doing very cool projects! Some for 
+&lt;a href=&#34;http://superreleaser.com/project-profiles/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;medical applications and some for research&lt;/a&gt; purposes. Check one of their cool robots below:&lt;/p&gt;
+&lt;div class=&#34;ytp-html5-clipboard&#34;&gt;
+  &lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open bionics</title>
+      <link>https://open-neuroscience.com/en/post/open-bionics/</link>
+      <pubDate>Sat, 31 Jan 2015 22:56:41 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/open-bionics/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.openbionics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Open bionics project&lt;/a&gt; was inspired by the Yale open hand project, aiming to develop light, affordable, and modular robot hands and myoelectric prosthesis. Also they want to make them easy to replicate using off the shelf materials. On the video below taken from their website you can see the hands in action, either as a prosthesis, or attached to a small drone being operated remotely.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Takktile</title>
+      <link>https://open-neuroscience.com/en/post/takktile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/takktile/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.takktile.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Takktile&lt;/a&gt;, is a tactile sensor to be used on robotic applications. The developers want to make it move away from the closed walls of research institutions by making it open source and cheap. It is built based on MEMs barometers and can sense 1 gram loads as well as coping with hammer blows (see video from their website below).&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;embed-youtube&#34; style=&#34;text-align:center; display: block;&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Yale open hand project</title>
+      <link>https://open-neuroscience.com/en/post/the_yale_open_hand_project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/en/post/the_yale_open_hand_project/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;http://www.eng.yale.edu/grablab/openhand/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Yale open hand project&lt;/a&gt;, has a similar purpose of the open hand project, that is, to make prosthetic hands more widely available through the lowering of costs. They have a different design from the open hand project. Additionally the project wants to take advantage of the lowered costs to speed up the development cycle and provide, together with input from the user community, several different useful hand designs.&lt;figure id=&#34;attachment_986&#34; style=&#34;width: 300px&#34; class=&#34;wp-caption aligncenter&#34;&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img class=&#34;size-medium wp-image-986&#34; src=&#34;https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg?resize=300%2C225&#34; alt=&#34;http://www.eng.yale.edu/grablab/openhand/images/model_t.jpg&#34; width=&#34;300&#34; height=&#34;225&#34; srcset=&#34;https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg?w=800 800w, https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg?resize=300%2C225 300w, https://i1.wp.com/openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg?resize=768%2C576 768w&#34; sizes=&#34;(max-width: 300px) 100vw, 300px&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/a&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;From: &lt;a href=&#34;http://www.eng.yale.edu/grablab/openhand/images/model_t.jpg&#34;&gt;http://www.eng.yale.edu/grablab/openhand/images/model_t.jpg&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

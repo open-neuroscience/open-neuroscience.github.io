@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Neuroscience</title>
+    <link>https://open-neuroscience.com/es/authors/admin/</link>
+      <atom:link href="https://open-neuroscience.com/es/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Neuroscience</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language>
+    <image>
+      <url>https://open-neuroscience.com/es/authors/admin/avatar_hu21544e1845451402c54143682b2516bd_49741_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Open Neuroscience</title>
+      <link>https://open-neuroscience.com/es/authors/admin/</link>
+    </image>
+    
+  </channel>
+</rss>

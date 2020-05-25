@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Open Neuroscience</title>
+    <link>https://open-neuroscience.com/es/post/</link>
+      <atom:link href="https://open-neuroscience.com/es/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language>
+    <image>
+      <url>https://open-neuroscience.com/images/icon_hu98f7bdece981985d79e430785ac9bc37_26395_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://open-neuroscience.com/es/post/</link>
+    </image>
+    
+    <item>
+      <title>DremelFuge</title>
+      <link>https://open-neuroscience.com/es/post/dremelfuge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/es/post/dremelfuge/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.thingiverse.com/thing:1483&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DremelFuge&lt;/a&gt; is a very simple and clever centrifuge, buit perhaps not the safest one (be careful if you end up using it!).&lt;/p&gt;
+&lt;p&gt;It takes advantage of 3d printing technology to print an adaptor that goes on to a Dremel (a precision tool that has really high rotation rates). It was created by 
+&lt;a href=&#34;https://www.thingiverse.com/cathalgarvey/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cathal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.thingiverse.com/renders/ff/74/4c/b2/c4/2009-12-30-023824_display_large_preview_featured.jpg&#34; alt=&#34;3d printed dremel attachment&#34; title=&#34;DremelFuge&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GogoFuge</title>
+      <link>https://open-neuroscience.com/es/post/gogofuge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/es/post/gogofuge/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://diybio.org/2012/06/12/gogofuge/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GogoFuge&lt;/a&gt; is a good example of the power of opensource designs. IT was based on the idea of the DremelFuge and altered to be a tabletop centrifuge with vortex capability. It was created by 
+&lt;a href=&#34;fablabatschool.org/profile/KeeganCooke&#34;&gt;Keegan Cooke&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;474&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/Qcl04sqXqY4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenFuge</title>
+      <link>https://open-neuroscience.com/es/post/openfudge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/es/post/openfudge/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.thingiverse.com/thing:151406&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenFuge&lt;/a&gt; describes all the materials and gives step by step instructions to the assembly of a centrifuge that is able to deliver 6000 G’s of force and to rotate at 9000 RPM, while being able to hold 4 eppendorf tubes. Developed by 
+&lt;a href=&#34;https://www.thingiverse.com/CopabX/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CopabX&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.thingiverse.com/renders/a6/78/ad/86/8a/IMG_20130525_163428_preview_featured.jpg&#34; alt=&#34;open source centrifuge&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skinner Box with RPi&#43;Python</title>
+      <link>https://open-neuroscience.com/es/post/skinner-box-rpi-python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://open-neuroscience.com/es/post/skinner-box-rpi-python/</guid>
+      <description>&lt;p&gt;This project was developed by 
+&lt;a href=&#34;http://www.kscottz.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Katherine Scott&lt;/a&gt; to be presented at the PyCon 2014. She developed a skinner box for her pet rats using a raspberry pi and some 3D printed parts. The setup contain a food dispenser, a buzzer, levers, a camera to observe the animals and it is hooked in a way that everything can be controlled over the internet!&lt;/p&gt;
+&lt;p&gt;You can find the files for 3D parts 
+&lt;a href=&#34;http://www.thingiverse.com/thing:296335&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and a better description of the project 
+&lt;a href=&#34;http://www.kscottz.com/open-skinner-box-pycon-2014/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i2.wp.com/www.kscottz.com/wp-content/uploads/2014/04/IMG_20140409_014715.jpg?resize=800%2C592&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;592&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;figure style=&#34;width: 3200px&#34; class=&#34;wp-caption aligncenter&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i2.wp.com/www.kscottz.com/wp-content/uploads/2014/04/IMG_20140409_014715.jpg?resize=800%2C592&#34; alt=&#34;&#34; width=&#34;800&#34; height=&#34;592&#34; data-recalc-dims=&#34;1&#34; /&gt;&lt;figcaption class=&#34;wp-caption-text&#34;&gt;Skinner box and the electronics inside a plastic container&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;iframe width=&#34;790&#34; height=&#34;444&#34; src=&#34;https://www.youtube.com/embed/grMfIoDgn9M&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
