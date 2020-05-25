@@ -16,5 +16,7 @@ jobs:
           submodules: true
       - name: Build Site
         uses: chabad360/hugo-actions@master
-      - name: test
-        run:  ls
+      - name: add and commit new public changes
+        run: git commit -ma "changed public"
+      - name: push to gh-pages
+        run: git subtree push --prefix  public origin gh-pages
