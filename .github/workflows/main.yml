@@ -1,26 +1,19 @@
-name: Build Site
+name: Deploy to Remote Branch
 
 on:
   push:
     branches:
       - master
-
-jobs:
-          
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
-        with:
-          submodules: true
-      - name: Build Site
-        uses: chabad360/hugo-actions@master
-      - name: move to public
-        run: cd public
-      - name: commit public
-      	run: git commit -am "update public folder"
-      - name: push public
-      	run: git push  
       
+jobs:
+  hugo-deploy-gh-pages:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: hugo-deploy-gh-pages
+      uses: khanhicetea/gh-actions-hugo-deploy-gh-pages@master
+      env:
+        GITHUB_REMOTE_REPOSITORY: open-neuroscience/open-neuroscience.github.io
+        GITHUB_BRANCH: master
+        GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
+        HUGO_VERSION: "0.62+"
