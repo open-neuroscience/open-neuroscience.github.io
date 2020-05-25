@@ -14,6 +14,6 @@ jobs:
       uses: khanhicetea/gh-actions-hugo-deploy-gh-pages@master
       env:
         GITHUB_REMOTE_REPOSITORY: open-neuroscience/open-neuroscience.github.io
-        GITHUB_BRANCH: <custom_branch>
+        GITHUB_BRANCH: master
         GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
-        HUGO_VERSION: "0.62+"
+        HUGO_VERSION: "0.66.0"
