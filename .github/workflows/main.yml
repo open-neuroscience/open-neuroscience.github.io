@@ -17,7 +17,10 @@ jobs:
           submodules: true
       - name: Build Site
         uses: chabad360/hugo-actions@master
-      - name: remove gh-pages
-        run: git branch -d gh-pages
-      - name: update gh-pages
-        run: git subtree push --prefix  public origin gh-pages
+      - name: move to public
+        run: cd public
+      - name: commit public
+      	run: git commit -am "update public folder"
+      - name: push public
+      	run: git push  
+      
