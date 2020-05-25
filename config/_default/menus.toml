@@ -14,19 +14,19 @@
   weight = 20
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Popular tags"
+  url = "#tags"
   weight = 30
 
-#[[main]]
-#  name = "Publications"
-#  url = "#featured"
-#  weight = 40
+[[main]]
+  name = "About"
+  url = "#about"
+  weight = 40
 
-#[[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 50
+[[main]]
+  name = "Team"
+  url = "#people"
+  weight = 50
 
 [[main]]
   name = "Contact"
