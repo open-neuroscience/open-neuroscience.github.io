@@ -165,7 +165,10 @@ lapply(1:nrow(post_df), function(x) write_md(post_df$filename[x], post_df$post[x
 
 # change posted to TRUE on google sheets
 # I think it is safe to overwrite directly here
-target$posted <- target$`Project Title` %in% list.files("content/en/post/")
+
+target$posted <- str_replace_all(string = target$`Project Title`,
+                                 pattern = " ", replacement = "_") %in%
+  list.files("content/en/post/")
 
 # overwrite the original!
 write_sheet(target %>% select(original_columns),ss = ID, sheet=1)
