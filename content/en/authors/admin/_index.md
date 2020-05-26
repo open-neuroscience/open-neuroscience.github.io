@@ -30,7 +30,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:openneuroscience@gmail.com".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/openneuroscience
+  link: https://twitter.com/openneurosci
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -44,7 +44,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "openeuroscience@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
