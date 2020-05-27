@@ -83,9 +83,14 @@ create_body <- function(title, image, description, authors, website, video, post
   }
 
 get_image <- function(image_link, path){
+
+  # we will default to our logo when things are nasty on the image side
+  our_logo <- "https://raw.githubusercontent.com/open-neuroscience/open-neuroscience-website/master/content/en/authors/admin/avatar.png"
+  
   url <- case_when(str_detect(image_link, "png") ~ str_extract(image_link, ".+png"),
                    str_detect(image_link, "jpg") ~ str_extract(image_link, ".+jpg")
-                   # the FALSE case does nothing right now, might fail 
+                   # When it doesn't detect, we will fall back to the logo image
+                   TRUE ~ our_logo
                    )
   
   filename <- case_when(
@@ -93,9 +98,17 @@ get_image <- function(image_link, path){
     str_detect(image_link, "jpg") ~ file.path(path, "featured.jpg")
   )
   
-  url <- download.file(url,filename, mode = "wb")
+  # check whether there's a problem with the image
+  if(url == our_logo){
+    write.table(paste("problem with", image_link),
+                file = paste0(tools::file_path_sans_ext(filename), ".txt"),
+                row.names = FALSE)
+  }
   
-  # check if the image has problems
+  # if this thing is not an URL it will fail
+  url <- download.file(url, filename, mode = "wb")
+  
+  # check if the image can be loaded
   img <- try(imager::load.image(filename))
   if (class(img) == "try-error"){
     write.table(paste("problem with", image_link),
@@ -140,7 +153,7 @@ original_columns <- names(target)
 target$tags <- parse_tags(target)
 # do big changes
 post_df <- target %>% 
-  filter(is.na(posted)) %>%
+  filter(is.na(posted)|posted==FALSE) %>%
   mutate(         
     # make filename
     filename = gsub(x = `Project Title` , pattern = " ", replacement = "_"),
