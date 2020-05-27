@@ -88,14 +88,16 @@ get_image <- function(image_link, path){
   our_logo <- "https://raw.githubusercontent.com/open-neuroscience/open-neuroscience-website/master/content/en/authors/admin/avatar.png"
   
   url <- case_when(str_detect(image_link, "png") ~ str_extract(image_link, ".+png"),
-                   str_detect(image_link, "jpg") ~ str_extract(image_link, ".+jpg")
+                   str_detect(image_link, "jpg") ~ str_extract(image_link, ".+jpg"),
                    # When it doesn't detect, we will fall back to the logo image
                    TRUE ~ our_logo
                    )
   
   filename <- case_when(
     str_detect(image_link, "png") ~ file.path(path, "featured.png"),
-    str_detect(image_link, "jpg") ~ file.path(path, "featured.jpg")
+    str_detect(image_link, "jpg") ~ file.path(path, "featured.jpg"),
+    # we need to fail with featured.png because our logo image is .png
+    TRUE ~ file.path(path, "featured.png")
   )
   
   # check whether there's a problem with the image
