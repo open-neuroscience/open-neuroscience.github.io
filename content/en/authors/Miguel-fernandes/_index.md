@@ -18,8 +18,10 @@ role: Miguel Fernandes
 #url:"https://www.neuro.mpg.de/baier/visiontoaction"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I believe that knowledge and education can empower people and will lead to a significant improvement in our world. I was born in Portugal and currently live in Munich, Germany.
-As a Neuroscientist I am using several methods, including high-resolution behavioral tracking, neuronal imaging, molecular and machine learning approaches to study behavioral choice in zebrafish larvae. I love teaching and to work in a team to solve complex questions. I am also a strong supporter of open source tools, accessible to people around the world to tackle their own challenges"
+bio: "I believe that knowledge and education empower people and improve our world.  
+I was born in Porto, Portugal, and currently live in Munich, Germany.
+As a Neuroscientist, I am using several methods, including high-resolution behavioral tracking, neuronal imaging, molecular and machine learning approaches to study behavioral choice in zebrafish larvae.
+I love teaching and to work in a team to solve complex questions. I am also a strong supporter of open source tools, accessible to people around the world to tackle their challenges."
 
 
 # Social/Academic Networking
