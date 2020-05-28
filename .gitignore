@@ -5,7 +5,17 @@
 resources/
 public/
 
- 
+### R ###
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+.RDataTmp
+
+# User-specific files
+.Ruserdata
 
 #random files
 *DS_Store
