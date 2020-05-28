@@ -4,13 +4,13 @@ name: Miguel Fernandes
 
 # Username (this should match the folder name)
 authors:
-- Miguel Fernandes
+- Miguel-fernandes
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Team member
+role: Miguel Fernandes
 
 # Organizations/Affiliations
 #organizations:
@@ -54,3 +54,10 @@ email: ""
 user_groups:
 - Team
 ---
+
+I believe that knowledge and education can empower people and will lead to a significant improvement in our world. I was born in Portugal and currently live in Munich, Germany.
+
+
+As a Neuroscientist I am using several methods, including high-resolution behavioral tracking, neuronal imaging, molecular and machine learning approaches to study behavioral choice in zebrafish larvae.
+
+I love teaching and to work in a team to solve complex questions. I am also a strong supporter of open source tools, accessible to people around the world to tackle their own challenges

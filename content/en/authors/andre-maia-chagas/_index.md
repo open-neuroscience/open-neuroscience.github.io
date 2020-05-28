@@ -1,21 +1,21 @@
 ---
 # Display name
-name: André Maia Chagas
+#name: "André Maia Chagas"
 
 # Username (this should match the folder name)
-authors:
+authors: 
 - andre-maia-chagas
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Creator
+role: "André Maia Chagas"
 
-# Organizations/Affiliations
-#organizations:
-#- name: Stanford University
-#  url: ""
+#Organizations/Affiliations
+organizations:
+- name: University of Sussex
+  url: "test"
 
 # Short bio (displayed in user profile at end of posts)
 #bio
@@ -50,5 +50,7 @@ email: "a.maia-chagas@sussex.ac.uk"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Creator
+
+
 ---
 

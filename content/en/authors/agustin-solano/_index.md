@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Team member
+role: Agustín Solano
 
 # Organizations/Affiliations
 #organizations:

@@ -3,12 +3,11 @@
 name: Dr. Benjamin Paffhausen
 # Username (this should match the folder name)
 authors:
-- Benjamin Paffhausen
+- benjamin-paffhausen
 # Is this the primary user of the site?
-superuser: true
-
+superuser: false
 # Role/position
-role: Team member
+role: Benjamin Paffhausen
 
 # Organizations/Affiliations
 #organizations:
