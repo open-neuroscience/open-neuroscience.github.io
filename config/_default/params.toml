@@ -67,11 +67,14 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
 #edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", #repo_branch = "master", editable = {docs = true, page = false, post = false}}
+
+# Show related content at the bottom of pages?
+show_related = {docs = false, page = false, post = true, project = false, publication = false, talk = false}
 
 ############################
 ## Contact details
@@ -120,7 +123,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "openneuroscience"
+twitter = "openneurosci"
 
 ############################
 ## Regional Settings
@@ -259,7 +262,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 0
   api_key = ""
   zoom = 15
 
