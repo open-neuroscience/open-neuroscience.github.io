@@ -122,7 +122,6 @@ get_image <- function(image_link, path){
   }
 
   return(filename)
-  
 }
 
 write_md <- function(filename, content){
