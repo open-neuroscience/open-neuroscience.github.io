@@ -41,10 +41,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "Open Neuroscience"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Open Neuroscience is a volunteer organized project to aggregate and curate open source projects related to Neurosciences"
 
 ############################
 ## Site Features
