@@ -3,8 +3,8 @@ title: BPM Biosignal
 authors: ['André Maia Chagas']
 
 layout: post
-categories: ['Human ephys']
-tags: ['Human ephys']
+categories: ['Human ephys','Hardware']
+tags: ['Human ephys','Hardware']
 
 ---
 

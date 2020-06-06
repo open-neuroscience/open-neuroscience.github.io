@@ -3,8 +3,8 @@ title: Blinkenschild
 
 authors: ['André Maia Chagas']
 layout: post
-categories: ['Visual']
-tags: ['Visual']
+categories: ['Visual','Hardware']
+tags: ['Visual','Hardware']
 ---
 
 

@@ -3,8 +3,8 @@ title: MicroscoPy
 date: 2020-05-22
 authors: ['admin']
 layout: post
-categories: ['Microscopes','Benchtop']
-tags: ['Microscopes','Benchtop']
+categories: ['Microscopes','Benchtop', 'Hardware']
+tags: ['Microscopes','Benchtop','Hardware']
 ---
 An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing. The microscope uses a Raspberry Pi mini-computer with an 8MP camera to capture images and videos. Stepper motors and the illumination are controlled using a circuit board comprising an Arduino microcontroller, six stepper motor drivers and a high-power LED driver. All functions can be controlled from a keyboard connected to the Raspberry Pi or a separate custom-built Arduino joystick connected to the mainboard. LEGO bricks are used to construct the main body of the microscope to achieve a modular and easy-to-assemble design concept.
 ## Project Author(s)

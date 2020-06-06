@@ -3,8 +3,8 @@ title: GogoFuge
 authors: ['André Maia Chagas']
 
 layout: post
-categories: ['Benchtop']
-tags: ['Benchtop']
+categories: ['Benchtop', 'Hardware']
+tags: ['Benchtop', 'Hardware']
 date: 2020-05-05
 ---
 

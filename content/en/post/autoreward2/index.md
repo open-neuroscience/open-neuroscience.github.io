@@ -2,8 +2,8 @@
 title: Autoreward 2
 author: JJ Ballesteros
 layout: post
-categories: ['Behaviour']
-tags: ['Behaviour']
+categories: ['Behaviour','Hardware']
+tags: ['Behaviour','Hardware']
 date: 2020-05-06
 ---
 

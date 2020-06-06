@@ -4,8 +4,8 @@ date: 2015-06-09T09:53:14+00:00
 authors: ['André Maia Chagas']
 
 layout: post
-categories: ['Benchtop']
-tags: ['Benchtop']
+categories: ['Benchtop','Hardware']
+tags: ['Benchtop','Hardware']
 ---
 
 The 5 dollar PCR machine is a project from [David Ng](https://hackaday.io/dnhkng).

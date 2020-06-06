@@ -3,8 +3,8 @@ title: DIY PCR
 authors: ['André Maia Chagas']
 
 layout: post
-categories: ['Benchtop']
-tags: ['Benchtop']
+categories: ['Benchtop','Hardware']
+tags: ['Benchtop','Hardware']
 ---
 
 

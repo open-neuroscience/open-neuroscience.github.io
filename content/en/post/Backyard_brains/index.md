@@ -5,8 +5,8 @@ title: Backyard Brains
 authors: ['André Maia Chagas']
 layout: post
 #featured-img: shane-rounce-205187
-categories: ['Animal ephys']
-tags: ['Animal ephys']
+categories: ['Animal ephys','Hardware']
+tags: ['Animal ephys','Hardware']
 ---
 
 

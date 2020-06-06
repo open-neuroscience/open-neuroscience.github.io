@@ -222,5 +222,4 @@ Bellow is a list of interesting projects related to science and research, that w
 
 <http://www.thinkering.de/cms/> blog on tinkering with science tool examples
 
-<http://wosmic.org/> open source microscope
 

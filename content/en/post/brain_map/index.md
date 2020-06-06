@@ -5,8 +5,8 @@ title: Brain Map
 authors: ['André Maia Chagas']
 layout: post
 #featured-img: shane-rounce-205187
-categories: ['Human ephys']
-tags: ['Human ephys']
+categories: ['Human ephys','Hardware']
+tags: ['Human ephys','Hardware']
 ---
 
 

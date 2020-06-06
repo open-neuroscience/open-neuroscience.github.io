@@ -2,8 +2,8 @@
 title: NeuroTinker
 authors: ['André Maia Chagas']
 layout: post
-categories: ['Simulation']
-tags: ['Simulation']
+categories: ['Simulation','hardware']
+tags: ['Simulation','hardware']
 date: 2020-05-05
 
 ---

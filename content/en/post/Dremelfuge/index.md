@@ -3,8 +3,8 @@ title: DremelFuge
 authors: ['André Maia Chagas']
 
 layout: post
-categories: ['Benchtop']
-tags: ['Benchtop']
+categories: ['Benchtop','Hardware']
+tags: ['Benchtop','Hardware']
 ---
 
 [DremelFuge](https://www.thingiverse.com/thing:1483) is a very simple and clever centrifuge, buit perhaps not the safest one (be careful if you end up using it!).
