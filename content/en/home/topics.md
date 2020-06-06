@@ -30,6 +30,12 @@ subtitle = ""
     name = "All"
     tag = "*"
   [[content.filter_button]]
+    name = "Animal electrophysiology"
+    tag = "Animal ephys"
+  [[content.filter_button]]
+    name = "Backlog"
+    tag = "Topic"
+  [[content.filter_button]]
     name = "Benchtop"
     tag = "Benchtop"
   
@@ -37,14 +43,11 @@ subtitle = ""
     name = "Behaviour"
     tag = "Behaviour"
   [[content.filter_button]]
+    name = "Calcium Imaging"
+    tag = "Calcium Imaging"
+  [[content.filter_button]]
     name = "Computers"
     tag = "Computers"
-  [[content.filter_button]]
-    name = "Hardware"
-    tag = "Hardware"
-  [[content.filter_button]]
-    name = "Software"
-    tag = "Software"
   [[content.filter_button]]
     name = "Computer Clusters"
     tag = "Computer clusters"
@@ -55,45 +58,49 @@ subtitle = ""
     name = "Data Repositories"
     tag = "Database"
   [[content.filter_button]]
-    name = "Human Neuroscience"
-    tag = "Human Neuroscience"
-  [[content.filter_button]]
-    name = "Calcium Imaging"
-    tag = "Calcium Imaging"
+    name = "Electric Stimulation"
+    tag = "Electric"
   [[content.filter_button]]
     name = "Fluorescence"
     tag = "Fluorescence"
   [[content.filter_button]]
-    name = "Animal electrophysiology"
-    tag = "Animal ephys"
+    name = "Hardware"
+    tag = "Hardware"
+
+
+
+  [[content.filter_button]]
+    name = "Human Neuroscience"
+    tag = "Human Neuroscience"
+
+
   [[content.filter_button]]
     name = "Human electrophysiology"
     tag = "Human ephys"
-  [[content.filter_button]]
-    name = "Prosthetics"
-    tag = "Prosthetics"
+
   [[content.filter_button]]
     name = "Microscopes"
     tag = "Microscope"
   [[content.filter_button]]
     name = "Microscopes software"
     tag = "Microscopes software"
-    
+  [[content.filter_button]]
+    name = "Optogenetics"
+    tag = "Optogenetics"   
+  [[content.filter_button]]
+    name = "Prosthetics"
+    tag = "Prosthetics"
   [[content.filter_button]]
     name = "Simulations"
     tag = "Simulation"
   [[content.filter_button]]
+    name = "Software"
+    tag = "Software"
+  [[content.filter_button]]
     name = "Tutorials and learning portals"
     tag = "Learning"
-  [[content.filter_button]]
-    name = "Backlog"
-    tag = "Topic"
-  [[content.filter_button]]
-    name = "Optogenetics"
-    tag = "Optogenetics"    
-  [[content.filter_button]]
-    name = "Electric Stimulation"
-    tag = "Electric"
+ 
+
     
   [[content.filter_button]]
     name = "Other"

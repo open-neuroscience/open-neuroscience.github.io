@@ -7,17 +7,17 @@ categories: ['Topic']
 tags: ['Topic']
 ---
 
-Below is a list of interesting projects related to science and research, that we didn&#8217;t have time to curate yet. Feel free to browse through them and make comments and suggestions!
+Bellow is a list of interesting projects related to science and research, that we didn't have time to curate yet. Feel free to browse through them and make comments and suggestions!
 
-<http://wiki.cogain.org/index.php/Eye_Trackers> Low &#8211; cost\_eye\_tracking
+<http://wiki.cogain.org/index.php/Eye_Trackers> Low cost eye tracking
 
 <http://openscienceframework.org/project/4znZP/wiki/home>
 
 <http://www.nitrc.org/> page that gathers info on neuroimaging tools and methods
 
-<http://home.gna.org/veusz/> &#8211; scientific plotting package
+<http://home.gna.org/veusz/> scientific plotting package
 
- <http://opencitations.net/about/> &#8211; effort to make citations publicly available and as easy to use as weblinks.
+ <http://opencitations.net/about/>  effort to make citations publicly available and as easy to use as weblinks.
 
 <http://erkutlu.blogspot.com.es/2012/12/eeg-and-arduino-do-it-yourself-eeg-ekg.html>
 
@@ -25,9 +25,9 @@ Below is a list of interesting projects related to science and research, that we
 
 <http://www.ncbi.nlm.nih.gov/geo/> gene expression omnibus database
 
-<http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00024/abstract> &#8211; Broccoli software for fast fMRI analyses
+<http://journal.frontiersin.org/Journal/10.3389/fninf.2014.00024/abstract>  Broccoli software for fast fMRI analyses
 
-<http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0086733> &#8211; smartphone brain scanner
+<http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0086733>  smartphone brain scanner
 
 <http://paper.li/IbrahimMalick/1320890343>  open source by ibrahim malick
 
@@ -35,23 +35,23 @@ Below is a list of interesting projects related to science and research, that we
 
 <https://code.google.com/p/arduino-v-neusci/> example on how to use arduino for visual neuroscience
 
-<http://boinc.berkeley.edu/>  &#8211; the same idea from seth but generalized
+<http://boinc.berkeley.edu/>  the same idea from seth but generalized
 
 <http://pybossa.com/> the same idea from boinc (above) but sharing cognition
 
 <http://www.acq4.org/> neurophysiology and data analysis systems
 
-<https://about.gitlab.com/about/> &#8211; version control system for projects
+<https://about.gitlab.com/about/> version control system for projects
 
-<http://leaflabs.com/willow> &#8211; neuroscience 1000 channels array
+<http://leaflabs.com/willow>  neuroscience 1000 channels array
 
 <http://scalablephysiology.org/> the page dedicated to willow
 
-<http://heywhatsthebigidea.net/projects/pi-vision-a-raspberry-pi-camera-controller/> &#8211; pivision
+<http://heywhatsthebigidea.net/projects/pi-vision-a-raspberry-pi-camera-controller/> pivision
 
 <https://libre3d.com/category/687/Test-Equipment/listings/717/Open-Source-Water-Testing-Platform.html>
 
-<http://www.peekvision.org/> &#8211; ophtamology exams with smartphones
+<http://www.peekvision.org/> ophtamology exams with smartphones
 
 <http://www.gpugrid.net/> distributed computing
 
@@ -67,11 +67,10 @@ Below is a list of interesting projects related to science and research, that we
 
 <http://www.ohwr.org/> open hardware repository
 
-<http://schoolofdata.org/> &#8211; training citizens and the civil society to use data
 
-<http://www.openingscience.org/> &#8211; an umbrella t open scholarly data to a multitude of stakeholders
+<http://www.openingscience.org/>  an umbrella t open scholarly data to a multitude of stakeholders
 
-<http://mozillascience.org/> &#8211; branch of the mozilla foundation dedicated to making science more transparent and reproducible
+<http://mozillascience.org/> branch of the mozilla foundation dedicated to making science more transparent and reproducible
 
 <http://woodenhaptics.org/> open source haptics device
 
@@ -171,7 +170,7 @@ Below is a list of interesting projects related to science and research, that we
 
 
 
-&nbsp;
+
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4933559/pdf/1604.pdf>
 
@@ -215,7 +214,7 @@ Below is a list of interesting projects related to science and research, that we
 
 <https://nasa3d.arc.nasa.gov/models> nasa models for 3d p nting
 
-<http://www.qtiplot.com/> &#8211; Data analysis and visualization
+<http://www.qtiplot.com/>  Data analysis and visualization
 
 <https://github.com/BigCorvus/Physio> hacked medical device
 
@@ -225,4 +224,3 @@ Below is a list of interesting projects related to science and research, that we
 
 <http://wosmic.org/> open source microscope
 
-&nbsp;
