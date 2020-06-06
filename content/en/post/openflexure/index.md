@@ -1,8 +1,8 @@
 ---
 
 title: OpenFlexure
-categories: ['Microscope']
-tags: ['Microscope']
+categories: ['Microscope','Hardware']
+tags: ['Microscope','Hardware']
 authors: ['André Maia Chagas']
 layout: post
 date: 2020-05-06

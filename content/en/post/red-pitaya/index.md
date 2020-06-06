@@ -2,8 +2,8 @@
 title: Red Pitaya
 authors: ['André Maia Chagas']
 layout: post
-categories: ['Computers']
-tags: ['Computers']
+categories: ['Computers','Hardware']
+tags: ['Computers','Hardware']
 date: 2020-05-06
 
 ---
