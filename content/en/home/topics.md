@@ -55,6 +55,15 @@ subtitle = ""
     name = "Data Repositories"
     tag = "Database"
   [[content.filter_button]]
+    name = "Human Neuroscience"
+    tag = "Human Neuroscience"
+  [[content.filter_button]]
+    name = "Calcium Imaging"
+    tag = "Calcium Imaging"
+  [[content.filter_button]]
+    name = "Fluorescence"
+    tag = "Fluorescence"
+  [[content.filter_button]]
     name = "Animal electrophysiology"
     tag = "Animal ephys"
   [[content.filter_button]]
