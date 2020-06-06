@@ -3,8 +3,8 @@ title: Open BCI
 authors: ['André Maia Chagas']
 
 layout: post
-categories: ['Human ephys']
-tags: ['Human ephys']
+categories: ['Human ephys','Hardware']
+tags: ['Human ephys','Hardware']
 
 ---
 
@@ -13,4 +13,4 @@ tags: ['Human ephys']
 
 All software code and hardware (including a model for a 3D printable headset) plans can be found freely available at their [download section](https://openbci.com/index.php/downloads) or at [GitHub](https://github.com/OpenBCI).
 
-![OpenBCI](https://openbci.com/images/headerlogofront2.png)
+

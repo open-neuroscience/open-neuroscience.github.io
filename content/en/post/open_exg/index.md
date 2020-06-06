@@ -3,8 +3,8 @@ title: Open ExG
 authors: ['André Maia Chagas']
 
 layout: post
-categories: ['Human ephys']
-tags: ['Human ephys']
+categories: ['Human ephys','Hardware']
+tags: ['Human ephys','Hardware']
 
 ---
 
@@ -25,4 +25,3 @@ The main goal of the project is to build a device that allows the creation of el
 ```
 
 
-  ![ExG board](https://raw.githubusercontent.com/OpenElectronicsLab/eeg-mouse-notes/master/images/OpenHardwareExG-rev1-in-case.800.jpg)
