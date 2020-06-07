@@ -2,26 +2,29 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = false # Activate this widget? true/false
+weight = 1000  # Order that this section will appear.
 
-title = "Academic"
+title = "Open Neuroscience"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "hero-academic.png"
 
-[design.background]
+
+
+
+#[design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "light"
   
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
+  #gradient_start = "#4bb4e3"
+  #gradient_end = "#2b94c3"
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -31,28 +34,31 @@ hero_media = "hero-academic.png"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  # text_color_light = false
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
-  label = "Get Started"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSd2R1yFTAef9TLinfBolhMUw75YMK_9QfRnzHOavFexDSs4qQ/viewform?usp=sf_link"
+  label = "Add your project!"
   icon_pack = "fas"
   icon = "download"
   
 [cta_alt]
-  url = "https://sourcethemes.com/academic/"
+  url = "https://github.com/open-neuroscience/open-neuroscience-website/"
   label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
+#[cta_note]
+#  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/#hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+Hi!
 
-Build **Anything** with Widgets
+Thanks for visiting our page. This is a volunteer run project to aggregate and curate Open Source projects related to Neurosciences. 
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+Feel free to look around, and [get in touch](#contact) if you would like to suggest/comment/ask anything. 
+
+
+<span style="text-shadow: none;"><a class="github-button" href="https://github.com/open-neuroscience/open-neuroscience-website/" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
