@@ -8,7 +8,7 @@ tags: ['Computer clusters']
 ---
 
 
-<img class="alignnone" src="https://i1.wp.com/boinc.berkeley.edu/logo/www_logo.gif?resize=164%2C73" alt="" width="164" height="73" data-recalc-dims="1" />
+
 
 Boinc is a platform for [volunteer computing.](http://boinc.berkeley.edu/trac/wiki/VolunteerComputing) Briefly, volunteer computer is a system where computer processor's idle time (those periods where your computer is on, but not being used for anything) is turned into calculation time via a custom written software.
 
