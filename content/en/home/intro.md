@@ -62,8 +62,11 @@ subtitle = "Aggregator & curation of open source neurosicience projects"
 +++
 
 <br>
+<div>
 
+<script async defer data-domain="open-neuroscience.com" src="https://plausible.io/js/plausible.js"></script>
 
+</div>
 
 <div align="justify">
 
