@@ -1,7 +1,6 @@
 ---
 title: Backyard Brains
-
-#date: 2013-01-29T19:12:19+00:00
+date: 2013-01-29
 authors: ['André Maia Chagas']
 layout: post
 #featured-img: shane-rounce-205187
@@ -10,7 +9,7 @@ tags: ['Animal ephys','Hardware']
 ---
 
 
-Backyard brains started out producing low cost, portable, electrophysiology systems to bring neuroscience to classrooms and help promote it. 
+[Backyard brains](https://backyardbrains.com/) started out producing low cost, portable, electrophysiology systems to bring neuroscience to classrooms and help promote it. 
 
 
 “Backyard brains wants to be for neuroscience, what the telescope is for astronomers” – meaning that the idea is that with a couple of hundred dollars anyone can get one of these recording systems and start doing experiments, like amateur astronomers can buy telescopes and start observing the cosmos.

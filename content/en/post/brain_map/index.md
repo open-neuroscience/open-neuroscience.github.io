@@ -15,4 +15,3 @@ tags: ['Human ephys','Hardware']
 
 This is the conclusion project of Patrick Dear and Mark Bunney Jr. at Cornell university where they used infrared leds to measure differences in blood flow at the scalp and map the motor cortex.
 
-![brain map](https://people.ece.cornell.edu/land/courses/ece4760/FinalProjects/s2012/pmd68_mab448/pmd68_mab448/array.jpg)
