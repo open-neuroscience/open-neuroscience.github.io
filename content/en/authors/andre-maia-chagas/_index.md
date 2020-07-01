@@ -15,7 +15,7 @@ role: "André Maia Chagas"
 #Organizations/Affiliations
 organizations:
 - name: University of Sussex
-  url: "test"
+  url: https://sussex-neuroscience.github.io
 
 # Short bio (displayed in user profile at end of posts)
 #bio
@@ -37,6 +37,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/amchagas
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=CGSly_wAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -49,7 +52,7 @@ email: "a.maia-chagas@sussex.ac.uk"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Creator
+- Team
 
 
 ---
