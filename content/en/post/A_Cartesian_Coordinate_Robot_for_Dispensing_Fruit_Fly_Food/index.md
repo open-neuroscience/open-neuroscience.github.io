@@ -6,7 +6,19 @@ layout: post
 categories: ['Hardware','Benchtop','Software']
 tags: ['Hardware','Benchtop','Software']
 ---
-The fruit fly, Drosophila melanogaster, continues to be one of the most widely used model organisms in biomedical research. Though chosen for its ease of husbandry, maintaining large numbers of stocks of fruit flies, as done by many laboratories, is labour-intensive. One task which lends itself to automation is the production of the vials of food in which the flies are reared. Fly facilities typically have to generate several thousand vials of fly food each week to sustain their fly stocks. The system presented here combines a cartesian coordinate robot with a peristaltic pump. The design of the robot is based on an open hardware CNC (computer numerical control) machine, and uses belt and pulley actuators for the X and Y axes, and a leadscrew actuator for the Z axis. CNC motion and operation of the peristaltic pump are controlled by grbl (https://github.com/gnea/grbl), an open source, embedded, G-code parser. Grbl is written in optimized C and runs directly on an Arduino. A Raspberry Pi is used to generate and stream G-code instructions to Grbl. A touch screen on the Raspberry Pi provides a graphical user interface to the system. Whilst the robot was built for the express purpose of filling vials of fly food, it could potentially be used for other liquid handling tasks in the laboratory.
+The fruit fly, Drosophila melanogaster, continues to be one of the most widely used model organisms in biomedical research. 
+
+Though chosen for its ease of husbandry, maintaining large numbers of stocks of fruit flies, as done by many laboratories, is labour-intensive. 
+
+One task which lends itself to automation is the production of the vials of food in which the flies are reared. Fly facilities typically have to generate several thousand vials of fly food each week to sustain their fly stocks. 
+
+The system presented here combines a cartesian coordinate robot with a peristaltic pump. The design of the robot is based on an open hardware CNC (computer numerical control) machine, and uses belt and pulley actuators for the X and Y axes, and a leadscrew actuator for the Z axis. 
+
+CNC motion and operation of the peristaltic pump are controlled by grbl (https://github.com/gnea/grbl), an open source, embedded, G-code parser. Grbl is written in optimized C and runs directly on an Arduino. A Raspberry Pi is used to generate and stream G-code instructions to Grbl. 
+
+A touch screen on the Raspberry Pi provides a graphical user interface to the system. Whilst the robot was built for the express purpose of filling vials of fly food, it could potentially be used for other liquid handling tasks in the laboratory.
+
+
 ## Project Author(s)
 Matt Wayland; Matthias Landgraf
 ## Project Links

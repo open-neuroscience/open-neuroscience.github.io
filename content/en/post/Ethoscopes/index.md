@@ -6,7 +6,17 @@ layout: post
 categories: ['Behaviour','Hardware','Software','Computers']
 tags: ['Behaviour','Hardware','Software','Computers']
 ---
-Ethoscopes are machines for high-throughput analysis of behavior in Drosophila and other animals. Ethoscopes provide a software and hardware solution that is reproducible and easily scalable. They perform, in real-time, tracking and profiling of behavior by using a supervised machine learning algorithm, are able to deliver behaviorally triggered stimuli to flies in a feedback-loop mode, and are highly customizable and open source. Ethoscopes can be built easily by using 3D printing technology and rely on Raspberry Pi microcomputers and Arduino boards to provide affordable and flexible hardware.
+
+  
+
+Ethoscopes are machines for high-throughput analysis of behavior in Drosophila and other animals. 
+
+Ethoscopes provide a software and hardware solution that is reproducible and easily scalable. 
+
+They perform, in real-time, tracking and profiling of behavior by using a supervised machine learning algorithm, are able to deliver behaviorally triggered stimuli to flies in a feedback-loop mode, and are highly customizable and open source. 
+
+Ethoscopes can be built easily by using 3D printing technology and rely on Raspberry Pi microcomputers and Arduino boards to provide affordable and flexible hardware.
+
 ## Project Author(s)
 Quentin Geissmann; Luis Garcia; Giorgio Gilestro
 ## Project Links
