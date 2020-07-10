@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Open Neuroscience"
-subtitle = "Aggregator & curation of open source neurosicience projects"
+subtitle = "Aggregator & curation of open source neuroscience projects"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -75,6 +75,6 @@ Contribute to this repository by adding your project using this [**form**](https
 All of our content is open to copy/replicate and improve. Go to our organization page on [GitHub](https://github.com/open-neuroscience/) to see more.
 
 
-Have a look around, and [**get in touch**](#contact) if you would like to suggest/comment/ask us anything. 
+Have a look around and [**get in touch**](#contact) if you would like to suggest/comment/ask us anything!. 
 
 </div>
