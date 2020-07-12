@@ -89,6 +89,7 @@ get_image <- function(image_link, path){
   
   url <- case_when(str_detect(image_link, "png") ~ str_extract(image_link, ".+png"),
                    str_detect(image_link, "jpg") ~ str_extract(image_link, ".+jpg"),
+                   str_detect(image_link, "gif") ~ str_extract(image_link, ".+gif"),
                    # When it doesn't detect, we will fall back to the logo image
                    TRUE ~ our_logo
                    )
