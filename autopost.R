@@ -32,6 +32,10 @@ create_yaml <- function(title, authors, categories){
 create_body <- function(title, image, description, authors, website, video, post_author){
   # remove all spaces in title
   title <- gsub(x = title , pattern = " ", replacement = "_")
+  # remove all other punctuation things
+  title <- stringr::str_replace_all(string = title,
+                                    pattern="[[:punct:]]",
+                                    replacement="_")
   # make folder on posts if it doesn't exist
   root = "content/en/post"
   if(title %in% list.files(root) == FALSE){
