@@ -4,7 +4,7 @@ library(googlesheets4)
 # helper functions -----
 create_yaml <- function(title, authors, categories){
   yaml_break <-"---"
-  tit <- paste("title:", title)
+  tit <- paste("title:", shQuote(title))
   dat <- paste("date:", Sys.Date())
   authors <- stringr::str_c(shQuote(authors), collapse=" , ")
   authors <- paste0("[", authors,"]")
