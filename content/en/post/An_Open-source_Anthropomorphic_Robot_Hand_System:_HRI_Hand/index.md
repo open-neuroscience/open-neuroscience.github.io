@@ -1,5 +1,5 @@
 ---
-title: An Open-source Anthropomorphic Robot Hand System: HRI Hand
+title: "An Open-source Anthropomorphic Robot Hand System: HRI Hand"
 date: 2020-07-13
 authors: ['admin']
 layout: post
