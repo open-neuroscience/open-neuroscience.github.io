@@ -1,5 +1,5 @@
 ---
-title: OPEN SOURCE AUTOMATED WESTERN BLOT PROCESSOR
+title: Open Source Automated Western Blot Processor
 date: 2020-07-14
 authors: ['admin']
 layout: post
