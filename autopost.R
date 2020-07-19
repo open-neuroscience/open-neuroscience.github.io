@@ -101,6 +101,7 @@ get_image <- function(image_link, path){
   filename <- case_when(
     str_detect(image_link, "png") ~ file.path(path, "featured.png"),
     str_detect(image_link, "jpg") ~ file.path(path, "featured.jpg"),
+    str_detect(image_link, "gif") ~ file.path(path, "featured.gif"),
     # we need to fail with featured.png because our logo image is .png
     TRUE ~ file.path(path, "featured.png")
   )
