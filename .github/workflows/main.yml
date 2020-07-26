@@ -9,9 +9,9 @@ jobs:
   hugo-deploy-gh-pages:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@main
     - name: hugo-deploy-gh-pages
-      uses: khanhicetea/gh-actions-hugo-deploy-gh-pages@main
+      uses: khanhicetea/gh-actions-hugo-deploy-gh-pages@master
       env:
         GITHUB_REMOTE_REPOSITORY: open-neuroscience/open-neuroscience.github.io
         GITHUB_BRANCH: "master"
