@@ -7,7 +7,7 @@ authors:
 - matias-andina
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Matias Andina
@@ -52,3 +52,4 @@ user_groups:
 - Team
 ---
 
+I continuously find myself mesmerized by the complexity of life. I finished my Biology Degree at University of Buenos Aires in 2015 and moved to the United States in order to continue my studies at University of Massachusetts Amherst. After obtaining my MSc, I continued doing neuroscience at MIT. I am currently doing a PhD in Neuroscience at Tufts University.
