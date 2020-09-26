@@ -177,7 +177,7 @@ post_df <- target %>%
            authors = `Project Author`,
            website = `Link to Project Website or GitHub repository`,
            video = `[OPTIONAL] Link to video for your project`,
-         post_author = `Post Author`),
+           post_author = `Post Author`),
          post = paste(yaml, body, sep ="\n"))
 
 # actually write
