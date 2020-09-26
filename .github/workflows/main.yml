@@ -16,4 +16,6 @@ jobs:
         GITHUB_REMOTE_REPOSITORY: open-neuroscience/open-neuroscience.github.io
         GITHUB_BRANCH: "master"
         GIT_DEPLOY_KEY: ${{ secrets.GIT_DEPLOY_KEY }}
-        HUGO_VERSION: "0.74.3"
+        GO_VERSION: "1.15"
+        HUGO_VERSION: "0.75.1"
+
