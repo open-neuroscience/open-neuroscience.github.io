@@ -11,13 +11,11 @@ Bellow is a list of interesting projects related to science and research, that w
 
 <http://wiki.cogain.org/index.php/Eye_Trackers> Low cost eye tracking
 
-<http://openscienceframework.org/project/4znZP/wiki/home>
 
-<http://www.nitrc.org/> page that gathers info on neuroimaging tools and methods
+
 
 <http://home.gna.org/veusz/> scientific plotting package
 
- <http://opencitations.net/about/>  effort to make citations publicly available and as easy to use as weblinks.
 
 <http://erkutlu.blogspot.com.es/2012/12/eeg-and-arduino-do-it-yourself-eeg-ekg.html>
 
@@ -70,7 +68,6 @@ Bellow is a list of interesting projects related to science and research, that w
 
 <http://www.openingscience.org/>  an umbrella t open scholarly data to a multitude of stakeholders
 
-<http://mozillascience.org/> branch of the mozilla foundation dedicated to making science more transparent and reproducible
 
 <http://woodenhaptics.org/> open source haptics device
 
@@ -92,11 +89,6 @@ Bellow is a list of interesting projects related to science and research, that w
 
 [http://thinklab.com/how\_it\_works](http://thinklab.com/how_it_works) online platform for science project management
 
-<http://makezine.com/2015/03/19/ikea-farming-flat-pack-hen-house-worm-bin-beehive/> urban farming and beehives
-
-[https://www.indiegogo.com/projects/aker-print-your-urban-farm&#8211;2](https://www.indiegogo.com/projects/aker-print-your-urban-farm--2) fundrasing for the project above
-
-<https://shuttleworthfoundation.org/applications/> foundation for social transforming ideas
 
 <http://credit.casrai.org/about-us/> changing the way scientific contributions are measured/displayed
 
