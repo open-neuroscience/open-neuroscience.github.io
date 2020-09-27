@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "Open Neuroscience"
-subtitle = "Aggregator & curation of open source neuroscience projects"
+#title = 
+#subtitle = 
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -61,15 +61,28 @@ subtitle = "Aggregator & curation of open source neuroscience projects"
 
 +++
 
+<div align="center">
+
+![](https://raw.githubusercontent.com/open-neuroscience/resources/master/logo/openneuroscience_dark.svg)
+</div>
+
 <br>
 
 <div align="justify">
 
-Thanks for visiting our page.
+
+Thanks for visiting our page!
+
+Open Neuroscience is a user-driven database of Open Source/Science projects related to Neurosciences:
+
+- It serves as a curated space, where users can register their projects with short descriptions and topic classifications. 
+- Registered content can be filtered, searched, and all projects in a certain topic quickly compared, so that users can find what is most fitting for their needs. 
+- Having all projects listed under one place, also gives them visibility and hopefully helps in terms of bringing users/collaborators to them, making sure developing efforts are not wasted.
 
 
-Contribute to this repository by adding your project using this [**form**](https://forms.gle/nxSFXXfyzW8oiTso9). We will revise it and add it to the page as soon as possible!
-
+Contribute by:
+- adding your project using this [**form**](https://forms.gle/nxSFXXfyzW8oiTso9). We will revise it and add it to the page as soon as possible!
+- checking out our [issues list](https://github.com/open-neuroscience/open-neuroscience-website/issues). If you can contribute with any of them, we will be super grateful, and will add you to our [contributor list](#people).
 
 
 All of our content is open to copy/replicate and improve. Go to our organization page on [GitHub](https://github.com/open-neuroscience/) to see more.
