@@ -69,7 +69,12 @@ subtitle = ""
 
 
 
-
 --- 
+
+Since May 2020 we are using [plausible.io](<https://plausible.io>) for our analytics. This is an Open Source system that respect users privacy (does not use cookies and is GDPR compliant).
+
+We, of course, have our stats publicly available [here](https://plausible.io/open-neuroscience.com?period=12mo)
+
+
 
 
