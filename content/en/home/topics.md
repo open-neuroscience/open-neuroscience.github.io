@@ -86,7 +86,7 @@ subtitle = ""
     tag = "Microscopes software"
   [[content.filter_button]]
     name = "Optogenetics"
-    tag = "Optogenetics"   
+    tag = "Optogenetics"
   [[content.filter_button]]
     name = "Prosthetics"
     tag = "Prosthetics"
