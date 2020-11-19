@@ -1,6 +1,6 @@
 ---
-title: 'BigPint Bioconductor package that makes BIG (RNA-seq) data pint-sized'
-date: 2020-10-21
+title: 'BigPint Bioconductor package that makes BIG (RNA seq) data pint sized'
+date: 2020-11-19
 authors: ['admin']
 layout: post
 categories: ['Software','Data Analysis','Computational Neuroscience','Other']
@@ -10,14 +10,12 @@ The BigPint package can help examine any large multivariate dataset. However, we
 
 1) BigPint software website: https://lindsayrutter.github.io/bigPint/
 
-2) Article explaining the BigPint methodology: 
-https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2968-1
+2) Article explaining the BigPint methodology: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2968-1
 
 3) Research article showcasing the BigPint software:
 https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5767-1
 
-4) Article explaining the BigPint software: 
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007912
+4) Article explaining the BigPint software: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007912
 ## Project Author(s)
 Lindsay Rutter; Dianne Cook
 ## Project Links

@@ -32,17 +32,10 @@ create_yaml <- function(title, authors, categories){
 create_body <- function(title, image, description, authors, website, video, post_author){
   # remove all spaces in title
   title <- gsub(x = title , pattern = " ", replacement = "_")
-  # remove colons
-  title <- gsub(x = title , pattern = ":", replacement = "")
-  # remove brackets
-  # title <- gsub(x = title , pattern = "[()]", replacement = "")
-
   # remove all other punctuation things
   title <- stringr::str_replace_all(string = title,
                                     pattern="[[:punct:]]",
                                     replacement="_")
-  #print titles
-  print(title)
   # make folder on posts if it doesn't exist
   root = "content/en/post"
   if(title %in% list.files(root) == FALSE){
@@ -135,7 +128,7 @@ get_image <- function(image_link, path){
               overwrite = TRUE)
 
   }
-  print(filename)
+
   return(filename)
 }
 
@@ -158,7 +151,6 @@ parse_tags <- function(df){
 
 # this is the ID
 ID <- "1qF5P8RKBSiE6qyInIoTBHdq2m9o5ZnvhnGKkmaJ83uI"
-gs4_auth("openeuroscience@gmail.com")
 target <- read_sheet(ID)
 # this comes handy for later,
 # so that we don't add a bunch of columns when we write back
@@ -166,48 +158,54 @@ original_columns <- names(target)
 
 # parse tags
 target$tags <- parse_tags(target)
-# do big changes
-post_df <- target %>%
-  filter(is.na(posted)|posted==FALSE) %>%
-  mutate(
-    # make filename
+
+ON_link <- function(title){
+  p <- "https://open-neuroscience.com/en/post/"
+  title <- gsub(x = tolower(title) , pattern = " ", replacement = "_")
+  # remove all other punctuation things
+  title <- stringr::str_replace_all(string = title,
+                                    pattern="[[:punct:]]",
+                                    replacement="_")
+  return(paste0(p, title))
+}
 
 
-    filename = gsub(x = `Project Title` , pattern = " ", replacement = "_"),
-    # remove colons
-    filename = gsub(x = filename , pattern = ":", replacement = ""),
-    # remove brackets
-    # filename = gsub(x = filename , pattern = "[()]", replacement = "")
+#
+tweet_maker <-
+  select(target,
+         `Project Title`,
+         `Project Author`,
+         `Post Author Twitter handle`,
+         `Link to Project Website or GitHub repository`,
+         `Description of the project`) %>%
+  mutate(by = "Created by:",
+         find_more = "Find More at:",
+         thread = "Thread below -->",
+         handle = `Post Author Twitter handle`,
+         # we turn them to "" so we can paste nothing if they don't have @
+         handle = ifelse(str_detect(handle, "^@"), handle, NA),
+         handle = ifelse(is.na(handle), "", handle),
+         initial_tweet = paste(`Project Title`,
+                            by,
+                            `Project Author`,
+                            handle,
+                            find_more,
+                            #`Link to Project Website or GitHub repository`,
+                            ON_link(`Project Title`),
+                            thread,
+        # separate with carriage return
+                            sep="\n")
+  )
 
-    # remove all other punctuation things
-    filename = stringr::str_replace_all(string = filename,
-                                      pattern="[[:punct:]]",
-                                      replacement="_"),
-    filename = file.path("content/en/post", filename, "index.md")) %>%
-  # we could have repeated posts maybe worth to check in the future
-  # distinct()
-  # we need to apply the functions rowwise
-  rowwise() %>%
-  mutate(yaml = create_yaml(`Project Title`, "admin", tags),
-         body = create_body(
-           title = `Project Title`,
-           image = `Link to raw image of your project`,
-           description = `Description of the project`,
-           authors = `Project Author`,
-           website = `Link to Project Website or GitHub repository`,
-           video = `[OPTIONAL] Link to video for your project`,
-         post_author = `Post Author`),
-         post = paste(yaml, body, sep ="\n"))
 
-# actually write
-lapply(1:nrow(post_df), function(x) write_md(post_df$filename[x], post_df$post[x]))
 
-# change posted to TRUE on google sheets
-# I think it is safe to overwrite directly here
+tweet_maker %>% mutate(
+  n = nchar(initial_tweet),
+  flag = n < 280,
+) %>% count(flag)
 
-target$posted <- str_replace_all(string = target$`Project Title`,
-                                 pattern = " ", replacement = "_") %in%
-  list.files("content/en/post/")
 
-# overwrite the original!
-write_sheet(target %>% select(original_columns),ss = ID, sheet=1)
+sentences <- tokenizers::tokenize_sentences(tweet_maker$`Description of the project`)
+
+# we can check the lenghts here...
+lapply(sentences, function(tt) data.frame(len = length(tt), n = nchar(tt)))
