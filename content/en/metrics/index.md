@@ -54,14 +54,13 @@ subtitle = ""
 #### Open Neuroscience visitors, page views, twitte engagement, and countries:
 
 
-
 ![](world_map.png)
+![](cumulative_views_tweet.png) 
 
+|||
+|--|--|
+|![](page_views.png)|![](unique_visitors.png)|
 
-
-
-
-![](cumulative_views_tweet.png)
 
 
 
