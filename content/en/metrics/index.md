@@ -51,21 +51,17 @@ subtitle = ""
 +++
 
 
-#### Open Neuroscience visitors, page views, twitte engagement, and countries between 01st May and 06th October 2020
-
-||
-|--|
-|![](world_map.png)|
+#### Open Neuroscience visitors, page views, twitte engagement, and countries:
 
 
-|||
-|--|--|
-|![](unique_visitors.png)|![](page_views.png)|
+
+![](world_map.png)
 
 
-||
-|--|
-|![](cumulative_views_tweet.png)|
+
+
+
+![](cumulative_views_tweet.png)
 
 
 
