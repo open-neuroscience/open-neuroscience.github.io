@@ -20,7 +20,7 @@ content:
   form:
     provider: formspree
     formspree:
-      id: https://formspree.io/f/mgeppdoj
+      id: https: mgeppdoj
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
