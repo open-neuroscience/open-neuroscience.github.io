@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+weight = 150  # Order that this section will appear.
 
 #title = 
 #subtitle = 
@@ -61,33 +61,76 @@ weight = 100  # Order that this section will appear.
 
 +++
 
-<div align="center">
 
-![](https://raw.githubusercontent.com/open-neuroscience/resources/master/logo/openneuroscience_dark.svg)
-</div>
+<style>
 
-<br>
+.section {
+    display: grid;
+    grid-template-columns: repeat(12, 7.042253521%);
+    grid-column-gap: 1.408450704%;
+    margin: auto 65px ;
+    margin-top: 34px;
+  
+}
 
-<div align="justify">
+.section h3 {
+    grid-column: 1 / 12;
+    /* font-weight: regular; */
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.card-curators {
+    grid-column: 1 / 5;
+}
+
+.card-database {
+    grid-column: 5 / 9;
+}
+
+.card-promoters{
+    grid-column: 9 / 13;
+}
 
 
-Thanks for visiting our page!
 
-Open Neuroscience is a user-driven database of Open Source/Science projects related to Neurosciences:
+.card {
+  padding: 24px;
+  background: #ffffff;
+  box-sizing: border-box;
+  box-shadow: 0px 8px 10px rgba(2, 3, 3, 0.03), 0px 3px 14px rgba(2, 3, 3, 0.02), 0px 5px 5px rgba(2, 3, 3, 0.04);
+  border-radius: 8px;
+  margin-top: 19px;
+}
 
-- It serves as a curated space, where users can register their projects with short descriptions and topic classifications. 
-- Registered content can be filtered, searched, and all projects in a certain topic quickly compared, so that users can find what is most fitting for their needs. 
-- Having all projects listed under one place, also gives them visibility and hopefully helps in terms of bringing users/collaborators to them, making sure developing efforts are not wasted.
+.card img {
+    display: block;
+    margin: auto;
+    margin-bottom: 24px;
+    width: 60%
+    
 
+}
+</style>
+  
+  
+<div class="section" id="what-we-do">
+     <h3>What we do</h3>
+     <!-- <div class="container"> -->
+     <div class="card card-curators">
+       <img src="https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-library-light.svg" alt="">
+       <h4>Project curators</h4>
+       <p>We curate projects from the web and allow creators to register their own</p>
+     </div>
+<div class="card card-database">
+    <img src="https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-search-light.svg" alt="">
+    <h4>Extensive database</h4>
+    <p>We make it easy for researchers to find relevant projects to help their studies</p>
+    </div>
+    <div class="card card-promoters">
+    <img src="https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-promote-light.svg" alt="">
+                <h4>Project promoters</h4>
+                <p>We help creators and promote their work through our network</p>
+            </div>
+        </div>
 
-Contribute by:
-- adding your project using this [**form**](https://forms.gle/nxSFXXfyzW8oiTso9). We will revise it and add it to the page as soon as possible!
-- checking out our [issues list](https://github.com/open-neuroscience/open-neuroscience-website/issues). If you can contribute with any of them, we will be super grateful, and will add you to our [contributor list](#people).
-
-
-All of our content is open to copy/replicate and improve. Go to our organization page on [GitHub](https://github.com/open-neuroscience/) to see more.
-
-
-Have a look around and [**get in touch**](#contact) if you would like to suggest/comment/ask us anything!. 
-
-</div>
