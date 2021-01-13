@@ -1,6 +1,6 @@
 ---
 title: 'BigPint Bioconductor package that makes BIG (RNA seq) data pint sized'
-date: 2020-11-19
+date: 2021-01-13
 authors: ['admin']
 layout: post
 categories: ['Software','Data Analysis','Computational Neuroscience','Other']
