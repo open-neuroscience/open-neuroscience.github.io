@@ -304,11 +304,11 @@ font-variant: small-caps;
     border: 2px solid #3A9CED;
 }
 
-.add-a-project {
+#add-a-project {
     grid-column: 1 / 5;
 }
 
-.contribute-on-open-issues {
+#contribute-on-open-issues {
     grid-column: 5 / 9;
 }
 
@@ -481,20 +481,21 @@ input #message {
 }
 
 </style>
-
-
-<div class="section" id="how-you-can-contribute">
-  <h3>How you can contribute</h3>
-      </div>
-  <div class="card add-a-project" id="add-a-project">
-    <img src="https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg" alt="">
-    <button class="primary centered" onclick="window.location.href='https://bit.ly/uploadON';">add a project</button>
-    </div>
-    <div class="card" id="contribute-on-open-issues">
-    <img src="https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-contribute-light.svg" alt="">
-    <button class="primary centered" onclick="window.location.href='https://github.com/open-neuroscience/open-neuroscience.github.io/issues';"> work on open issues</button>
-    </div>
+<div class="main">
+ <div class="section" id="how-you-can-contribute">
+   <h3>How you can contribute</h3>
+ </div>
+ <div class="card add-a-project" id="add-a-project">
+   <img src="https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg" alt="">
+   <button class="primary centered" onclick="window.location.href='https://bit.ly/uploadON';">add a project</button>
+ </div>
+    
+ <div class="card" id="contribute-on-open-issues">
+  <img src="https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-contribute-light.svg" alt="">
+  <button class="primary centered" onclick="window.location.href='https://github.com/open-neuroscience/open-neuroscience.github.io/issues';"> work on open issues</button>
+ </div>
         
 
-   </div>
+</div>
+</div>
 
