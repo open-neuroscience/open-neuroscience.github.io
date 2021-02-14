@@ -443,10 +443,10 @@ input #message {
         grid-column: 1/13;
     }
 
-    #add-a-project {
+    .add-a-project {
         grid-column: 1/13;
     }
-    #contribute-on-open-issues {
+    .contribute-on-open-issues {
         grid-column: 1/13;
     }
 
@@ -481,11 +481,12 @@ input #message {
 }
 
 </style>
-<div class="main">
+
  <div class="section" id="how-you-can-contribute">
    <h3>How you can contribute</h3>
- </div>
- <div class="card add-a-project" id="add-a-project">
+
+ 
+   <div class="card add-a-project" id="add-a-project">
    <img src="https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg" alt="">
    <button class="primary centered" onclick="window.location.href='https://bit.ly/uploadON';">add a project</button>
  </div>
@@ -497,5 +498,5 @@ input #message {
         
 
 </div>
-</div>
+
 
