@@ -41,6 +41,10 @@ create_body <- function(title, image, description, authors, website, video, post
   title <- stringr::str_replace_all(string = title,
                                     pattern="[[:punct:]]",
                                     replacement="_")
+  #remove triple underscore
+  title <- gsub(x = title , pattern = "___", replacement = "_")
+    #remove double underscore
+  title <- gsub(x = title , pattern = "__", replacement = "_")
   #print titles
   print(title)
   # make folder on posts if it doesn't exist
@@ -173,6 +177,10 @@ post_df <- target %>%
     # make filename
 
 
+    
+
+
+
     filename = gsub(x = `Project Title` , pattern = " ", replacement = "_"),
     # remove colons
     filename = gsub(x = filename , pattern = ":", replacement = ""),
@@ -183,6 +191,11 @@ post_df <- target %>%
     filename = stringr::str_replace_all(string = filename,
                                       pattern="[[:punct:]]",
                                       replacement="_"),
+    #remove triple underscore
+    filename = gsub(x = filename , pattern = "___", replacement = "_"),
+    #remove double underscore
+    filename = gsub(x = filename , pattern = "__", replacement = "_"),
+    
     filename = file.path("content/en/post", filename, "index.md")) %>%
   # we could have repeated posts maybe worth to check in the future
   # distinct()
