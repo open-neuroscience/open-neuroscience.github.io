@@ -1,6 +1,6 @@
 ---
 title: 'Pirecorder: Controlled and automated image and video recording with the raspberry pi'
-date: 2021-01-25
+date: 2021-02-23
 authors: ['admin']
 layout: post
 categories: ['Software','Computers','Behaviour']

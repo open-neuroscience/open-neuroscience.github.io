@@ -1,6 +1,6 @@
 ---
 title: 'Efficient training of mice on the 5-choice serial reaction time task in an automated rodent training system'
-date: 2021-01-22
+date: 2021-02-23
 authors: ['admin']
 layout: post
 categories: ['Behaviour','Software','Optogenetics']
