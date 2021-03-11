@@ -175,27 +175,14 @@ post_df <- target %>%
   filter(is.na(posted)|posted==FALSE) %>%
   mutate(
     # make filename
-
-
-
-
-
-
     filename = gsub(x = `Project Title` , pattern = " ", replacement = "_"),
-    # remove colons
-    filename = gsub(x = filename , pattern = ":", replacement = ""),
-    # remove brackets
-    # filename = gsub(x = filename , pattern = "[()]", replacement = "")
-
     # remove all other punctuation things
     filename = stringr::str_replace_all(string = filename,
                                       pattern="[[:punct:]]",
                                       replacement="_"),
+    # this process might create multiple underscores
     #remove triple underscore
-    filename = gsub(x = filename , pattern = "___", replacement = "_"),
-    #remove double underscore
-    filename = gsub(x = filename , pattern = "__", replacement = "_"),
-
+    filename = gsub(x = filename , pattern = "_+", replacement = "_"),
     filename = file.path("content/en/post", filename, "index.md")) %>%
 
   # we could have repeated posts maybe worth to check in the future
