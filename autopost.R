@@ -129,7 +129,7 @@ get_image <- function(image_link, path){
 
   # check if the image can be loaded
   img <- try(imager::load.image(filename))
-  if (class(img) == "try-error"){
+  if (class(img) == "try-error" & str_detect(filename, pattern = "svg") == FALSE){
     write.table(paste("problem with", image_link),
                 file = paste0(tools::file_path_sans_ext(filename), ".txt"),
                 row.names = FALSE)
