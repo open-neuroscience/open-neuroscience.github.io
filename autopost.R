@@ -42,11 +42,7 @@ create_body <- function(title, image, description, authors, website, video, post
                                     pattern="[[:punct:]]",
                                     replacement="_")
   #remove triple underscore
-  #print(title)
-  title <- gsub(x = title , pattern = "___", replacement = "_")
-  #print(title)
-    #remove double underscore
-  title <- gsub(x = title , pattern = "__", replacement = "_")
+  title <- gsub(x = title , pattern = "_+", replacement = "_")
   #print titles
   #print(title)
   # make folder on posts if it doesn't exist
@@ -179,7 +175,7 @@ post_df <- target %>%
     # make filename
 
 
-    
+
 
 
 
@@ -197,9 +193,9 @@ post_df <- target %>%
     filename = gsub(x = filename , pattern = "___", replacement = "_"),
     #remove double underscore
     filename = gsub(x = filename , pattern = "__", replacement = "_"),
-    
+
     filename = file.path("content/en/post", filename, "index.md")) %>%
-    
+
   # we could have repeated posts maybe worth to check in the future
   # distinct()
   # we need to apply the functions rowwise
