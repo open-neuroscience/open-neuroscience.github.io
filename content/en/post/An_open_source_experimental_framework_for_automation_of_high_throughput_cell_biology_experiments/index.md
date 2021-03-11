@@ -1,6 +1,6 @@
 ---
 title: 'An open-source experimental framework for automation of high-throughput cell biology experiments'
-date: 2021-02-23
+date: 2021-03-11
 authors: ['admin']
 layout: post
 categories: ['Hardware','Microscopes','Molecular biology, Calcium Imaging, Fluorescence, Other']

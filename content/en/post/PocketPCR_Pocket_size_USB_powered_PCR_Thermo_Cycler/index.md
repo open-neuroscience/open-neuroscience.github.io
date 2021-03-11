@@ -1,6 +1,6 @@
 ---
-title: 'PocketPCR - Pocket size USB powered PCR Thermo Cycler'
-date: 2021-02-23
+title: 'PocketPCR-Pocket size USB powered PCR Thermo Cycler'
+date: 2021-03-11
 authors: ['admin']
 layout: post
 categories: ['Hardware','Benchtop','Software']
