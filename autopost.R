@@ -103,6 +103,7 @@ get_image <- function(image_link, path){
   url <- case_when(str_detect(image_link, "png") ~ str_extract(image_link, ".+png"),
                    str_detect(image_link, "jpg") ~ str_extract(image_link, ".+jpg"),
                    str_detect(image_link, "gif") ~ str_extract(image_link, ".+gif"),
+                   str_detect(image_link, "svg") ~ str_extract(image_link, ".+svg"),
                    # When it doesn't detect, we will fall back to the logo image
                    TRUE ~ our_logo
                    )
@@ -111,6 +112,7 @@ get_image <- function(image_link, path){
     str_detect(image_link, "png") ~ file.path(path, "featured.png"),
     str_detect(image_link, "jpg") ~ file.path(path, "featured.jpg"),
     str_detect(image_link, "gif") ~ file.path(path, "featured.gif"),
+    str_detect(image_link, "svg") ~ file.path(path, "featured.svg"),
     # we need to fail with featured.png because our logo image is .png
     TRUE ~ file.path(path, "featured.png")
   )
