@@ -30,19 +30,7 @@ create_yaml <- function(title, authors, categories){
 }
 
 create_body <- function(title, image, description, authors, website, video, post_author){
-  # remove all spaces in title
-  title <- gsub(x = title , pattern = " ", replacement = "_")
-  # remove colons
-  title <- gsub(x = title , pattern = ":", replacement = "")
-  # remove brackets
-  # title <- gsub(x = title , pattern = "[()]", replacement = "")
-
-  # remove all other punctuation things
-  title <- stringr::str_replace_all(string = title,
-                                    pattern="[[:punct:]]",
-                                    replacement="_")
-  #remove triple underscore
-  title <- gsub(x = title , pattern = "_+", replacement = "_")
+  title <- clean_post_title(title)
   #print titles
   #print(title)
   # make folder on posts if it doesn't exist
@@ -160,6 +148,24 @@ parse_tags <- function(df){
 
 }
 
+clean_post_title <- function(dirty_title, with_path = FALSE){
+  # make filename
+  clean_title = gsub(x =  dirty_title, pattern = " ", replacement = "_")
+  # remove all other punctuation things
+  clean_title = stringr::str_replace_all(string = clean_title,
+                                      pattern="[[:punct:]]",
+                                      replacement="_")
+  # this process might create multiple underscores
+  #remove triple underscore
+  clean_title = gsub(x = clean_title , pattern = "_+", replacement = "_")
+  if (with_path == TRUE){
+    # create file path
+    clean_title = file.path("content/en/post", clean_title, "index.md")
+  }
+  return(clean_title)
+}
+
+
 # this is the ID
 ID <- "1qF5P8RKBSiE6qyInIoTBHdq2m9o5ZnvhnGKkmaJ83uI"
 gs4_auth("openeuroscience@gmail.com")
@@ -173,18 +179,7 @@ target$tags <- parse_tags(target)
 # do big changes
 post_df <- target %>%
   filter(is.na(posted)|posted==FALSE) %>%
-  mutate(
-    # make filename
-    filename = gsub(x = `Project Title` , pattern = " ", replacement = "_"),
-    # remove all other punctuation things
-    filename = stringr::str_replace_all(string = filename,
-                                      pattern="[[:punct:]]",
-                                      replacement="_"),
-    # this process might create multiple underscores
-    #remove triple underscore
-    filename = gsub(x = filename , pattern = "_+", replacement = "_"),
-    filename = file.path("content/en/post", filename, "index.md")) %>%
-
+  mutate(filename = clean_post_title(`Project Title`, with_path = TRUE)) %>%
   # we could have repeated posts maybe worth to check in the future
   # distinct()
   # we need to apply the functions rowwise
@@ -206,8 +201,7 @@ lapply(1:nrow(post_df), function(x) write_md(post_df$filename[x], post_df$post[x
 # change posted to TRUE on google sheets
 # I think it is safe to overwrite directly here
 
-target$posted <- str_replace_all(string = target$`Project Title`,
-                                 pattern = " ", replacement = "_") %in%
+target$posted <- clean_post_title(target$`Project Title`, with_path = FALSE) %in%
   list.files("content/en/post/")
 
 # overwrite the original!
