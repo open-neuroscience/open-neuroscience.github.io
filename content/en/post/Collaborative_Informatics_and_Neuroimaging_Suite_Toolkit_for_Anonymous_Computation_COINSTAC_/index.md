@@ -1,6 +1,6 @@
 ---
 title: 'Collaborative Informatics and Neuroimaging Suite Toolkit for Anonymous Computation (COINSTAC)'
-date: 2021-01-13
+date: 2021-03-13
 authors: ['admin']
 layout: post
 categories: ['Human Neuroscience','Data Repositories','Data Analysis','Software']

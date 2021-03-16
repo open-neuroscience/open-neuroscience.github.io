@@ -1,6 +1,6 @@
 ---
 title: 'Computer-controlled dog treat dispenser'
-date: 2021-03-11
+date: 2021-03-13
 authors: ['admin']
 layout: post
 categories: ['Software','Hardware','Computers','Behaviour']

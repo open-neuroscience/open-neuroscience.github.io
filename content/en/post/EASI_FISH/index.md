@@ -1,6 +1,6 @@
 ---
 title: 'EASI-FISH'
-date: 2021-03-11
+date: 2021-03-13
 authors: ['admin']
 layout: post
 categories: ['Software','Data Analysis','Molecular biology']

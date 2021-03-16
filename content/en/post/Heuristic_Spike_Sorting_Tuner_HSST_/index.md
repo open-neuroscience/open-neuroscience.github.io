@@ -1,6 +1,6 @@
 ---
-title: Heuristic Spike Sorting Tuner (HSST), a framework to determine optimal parameter selection for a generic spike sorting algorithm
-date: 2020-05-28
+title: 'Heuristic Spike Sorting Tuner (HSST)'
+date: 2021-03-13
 authors: ['admin']
 layout: post
 categories: ['Software','Human electrophysiology','Animal electrophysiology','Computational Neuroscience']
