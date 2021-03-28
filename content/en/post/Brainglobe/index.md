@@ -1,5 +1,5 @@
 ---
-title: 'Brainglobe'
+title: 'BrainGlobe'
 date: 2021-03-25
 authors: ['admin']
 layout: post
@@ -10,15 +10,15 @@ BrainGlobe is a suite of Python-based computational neuroanatomy software tools.
 
 Our tools include:
 
-- BrainGlobe Atlas API - A lightweight python module to interact with atlases for systems neuroscience
+- [BrainGlobe Atlas API](https://open-neuroscience.com/post/brainglobe_atlas_api/) - A lightweight python module to interact with atlases for systems neuroscience
 
-- Cellfinder - Automated 3D cell detection and registration of whole-brain microscopy images
+- [Cellfinder](https://open-neuroscience.com/post/cellfinder/) - Automated 3D cell detection and registration of whole-brain microscopy images
 
-- Brainrender - A Python based software for visualization of neuroanatomical and morphological data.
+- [Brainrender](https://open-neuroscience.com/post/brainrender/) - A Python based software for visualization of neuroanatomical and morphological data.
 
 
 ## Project Author(s)
-Project Author(s): Adam Tyson; Federico Claudi; Luigi Petrucc
+Project Author(s): Adam Tyson; Federico Claudi; Luigi Petrucco
 ## Project Links
 https://github.com/brainglobe
 ***

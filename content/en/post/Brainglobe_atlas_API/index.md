@@ -1,5 +1,5 @@
 ---
-title: 'Brainglobe atlas API'
+title: 'BrainGlobe atlas API'
 date: 2020-08-23
 authors: ['admin']
 layout: post
