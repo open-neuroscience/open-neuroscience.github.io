@@ -32,16 +32,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:openneuroscience@gmail.com".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/RuchikaBajaj9
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?hl=en&tzom=-330&user=Js-3IEsAAAAJ
-
-#- icon: github
-  #icon_pack: fab
-  #link: https://github.com/amgfernandes
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/MJY_Zimmermann
+- icon: google-scholar
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=5C7uiLAAAAAJ&hl
+- icon: github
+  icon_pack: fab
+  link: https://github.com/MaxZimmer
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
