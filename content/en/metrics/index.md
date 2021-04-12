@@ -1,75 +1,66 @@
-+++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+Metrics
+================
+Last Update: 2021-04-11
 
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
-headless = false  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+We use [plausible.io](plausible.io) for our analytics. This is an Open
+Source system that respect users privacy (does not use cookies and is
+GDPR compliant).
 
-title = "Metrics"
-subtitle = ""
+Our website stats publicly available at plausible.io, you can check them
+[here](https://plausible.io/open-neuroscience.com?period=12mo).
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+Being user-driven means we have to pay close attention at how our
+audience interacts with our content. This includes the website, our
+[Twitter account](twitter.com/openneurosci) , and our [YouTube
+Channel](https://www.youtube.com/channel/UCHPvi_HaEU7OQgXQBh9ECvQ) ,
+where we host video content such us our Seminar Series Streaming.
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
+### Website Analytics
 
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
-  
-  # Background image.
-  # image = "image.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
-  # Text color (true=light or false=dark).
-  text_color_light = true
+![](unnamed-chunk-3-1.png)<!-- -->
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+![](unnamed-chunk-4-1.png)<!-- -->
 
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-+++
+![](unnamed-chunk-5-1.png)<!-- -->
+
+#### Maps
+
+![](unnamed-chunk-6-1.png)<!-- -->
 
 
-#### Open Neuroscience visitors, page views, twitte engagement, and countries:
+![](unnamed-chunk-8-1.png)<!-- -->
 
+![](unnamed-chunk-10-1.png)<!-- -->
 
-![](world_map.png)
-![](cumulative_views_tweet.png) 
+These are the days with most visits to the site
 
-|||
-|--|--|
-|![](page_views.png)|![](unique_visitors.png)|
+    ## # A tibble: 26 x 3
+    ## # Groups:   code [4]
+    ##    Date       code  Visitors
+    ##    <date>     <chr>    <dbl>
+    ##  1 2020-07-07 USA         51
+    ##  2 2020-07-22 USA         32
+    ##  3 2020-07-24 USA         32
+    ##  4 2021-03-24 USA         29
+    ##  5 2020-07-08 USA         28
+    ##  6 2020-10-01 USA         28
+    ##  7 2020-10-05 USA         28
+    ##  8 2020-11-12 USA         28
+    ##  9 2021-02-22 USA         28
+    ## 10 2020-10-06 USA         26
+    ## # … with 16 more rows
 
+### Twitter Analytics
 
+![](unnamed-chunk-11-1.png)<!-- -->![](unnamed-chunk-11-2.png)<!-- -->
 
+![](unnamed-chunk-12-1.png)<!-- -->
 
---- 
+![](twitter_days-1.png)<!-- -->
 
-Since May 2020 we are using [plausible.io](<https://plausible.io>) for our analytics. This is an Open Source system that respect users privacy (does not use cookies and is GDPR compliant).
+### YouTube Analytics
 
-We, of course, have our stats publicly available [here](https://plausible.io/open-neuroscience.com?period=12mo)
+TBA
 
-
-
+---
 
