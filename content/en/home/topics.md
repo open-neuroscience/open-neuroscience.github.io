@@ -100,7 +100,9 @@ subtitle = ""
     name = "Tutorials and learning portals"
     tag = "Learning"
  
-
+  [[content.filter_button]]
+    name = "World Wide Series Seminars"
+    tag = "worldwideseries"
     
   [[content.filter_button]]
     name = "Other"
