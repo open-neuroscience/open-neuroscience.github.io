@@ -14,9 +14,11 @@ https://github.com/BadenLab/nTCscope
   
 
 ***
-## World Wide Series Seminar 
+## World Wide Series Seminar  
 
-<iframe align="centre" width="100%" height="480" src="https://www.youtube.com/embed/3dXE6LjEcd8" title="YouTube video player" frameborder="100" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+{{< youtube 3dXE6LjEcd8 >}}
+
 
   
 

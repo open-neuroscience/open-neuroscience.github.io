@@ -3,10 +3,20 @@ title: 'NeuroFedora'
 date: 2020-09-26
 authors: ['admin']
 layout: post
-categories: ['Software','Computers','Simulations','Computational Neuroscience']
-tags: ['Software','Computers','Simulations','Computational Neuroscience']
+categories: ['Software','Computers','Simulations','Computational Neuroscience',worldwideseries]
+tags: ['Software','Computers','Simulations','Computational Neuroscience',worldwideseries]
 ---
 NeuroFedora is an initiative to provide a ready to use Fedora Linux based Free/Open source software platform for neuroscience. We believe that similar to Free software, science should be free for all to use, share, modify, and study. The use of Free software also aids reproducibility, data sharing, and collaboration in the research community. By making the tools used in the scientific process easier to use, NeuroFedora aims to take a step to enable this ideal.
+
+
+## World Wide Series Seminar  
+
+{{< youtube 2xAK1tY0qro >}}
+
+
+
+
+
 ## Project Author(s)
 NeuroFedora volunteers @ the Fedora project
 ## Project Links
