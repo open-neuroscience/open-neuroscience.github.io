@@ -10,7 +10,7 @@ Kilosort is a software package for identifying neurons and their spikes in extra
 
 Spike sorting consists of several largely-independent steps: data preprocessing, drift correction, spike clustering, template matching, and results postprocessing. There have been several versions of Kilosort, improving on various aspects of these steps, and we are currently on version v3. In many cases, and especially for Neuropixels probes, the automated output of Kilosort3 requires minimal manual curation. The main change from v2.5 is a completely new and much more sophisticated clustering algorithm. To learn about Kilosort2.5, the primary reference is the Neuropixels 2.0 paper. Kilosort2.5 improves on Kilosort2 primarily in the type of drift correction we use. Where Kilosort2 modified templates as a function of time/drift (a drift tracking approach), Kilosort2.5 corrects the raw data directly via a sub-pixel registration process (a drift correction approach). 
 
-All versions of Kilosort so far have been developed and released in Matlab. However, we are advancing towards Python releases of the codebase, including of older version like Kilosort 2 and 2.5 (available here: https://github.com/MouseLand/pykilosort/tree/master/pykilosort).
+All versions of Kilosort so far have been developed and released in Matlab. However, we are advancing towards Python releases of the codebase, including of older version like Kilosort 2 and 2.5 (available here: https://github.com/MouseLand/pykilosort/tree/master/pykilosort ).
 ## Project Author(s)
 Marius Pachitariu
 ## Project Links
