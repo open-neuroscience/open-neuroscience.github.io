@@ -3,9 +3,14 @@ title: 'BrainGlobe'
 date: 2021-03-25
 authors: ['admin']
 layout: post
-categories: ['Software','Data Analysis','Computers']
-tags: ['Software','Data Analysis','Computers']
+categories: ['Software','Data Analysis','Computers','worldwideseries']
+tags: ['Software','Data Analysis','Computers','worldwideseries']
 ---
+
+## World Wide Series Seminar  
+
+{{< youtube Ndsssf_gHns >}}
+
 BrainGlobe is a suite of Python-based computational neuroanatomy software tools. We provide software packages for the analysis and visualisation of neuroanatomical data, particularly from whole-brain microscopy. In addition, we provide tools for working with brain atlases, to simplify development of new tools and aid collaboration and cooperation by adopting common standards.
 
 Our tools include:

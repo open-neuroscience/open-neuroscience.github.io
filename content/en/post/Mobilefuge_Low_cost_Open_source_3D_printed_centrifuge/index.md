@@ -12,7 +12,7 @@ We made a low-cost centrifuge that can be useful for carrying out low-cost LAMP 
 ## World Wide Series Seminar  
 
 {{< youtube svDpDSwnS3A >}}
-lJpWyzvg4Zk
+
 
 
 ## Project Author(s)
