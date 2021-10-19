@@ -14,20 +14,32 @@
   url = "#topics"
   weight = 20
 
+
+
 [[main]]
-  name = "Popular tags"
-  url = "#tags"
+  name = "Featured in"
+  url = "#featured_in"
   weight = 30
+
+#[[main]]
+#  name = "Popular tags"
+#  url = "#tags"
+#  weight = 40
 
 [[main]]
   name = "About"
   url = "#about"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Team"
   url = "#people"
-  weight = 50
+  weight = 60
+
+[[main]]
+  name = "Seminar Series"
+  url = "seminar_series/"
+  weight = 70
   
 #[[main]]
 #  name = "Posts"
