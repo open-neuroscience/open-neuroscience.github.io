@@ -16,10 +16,10 @@
 
 
 
-[[main]]
-  name = "Featured in"
-  url = "#featured_in"
-  weight = 30
+#[[main]]
+#  name = "Featured in"
+#  url = "#featured_in"
+#  weight = 30
 
 #[[main]]
 #  name = "Popular tags"

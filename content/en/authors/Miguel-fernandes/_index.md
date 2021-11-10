@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Collaborators
 ---
 
 I believe that knowledge and education can empower people and will lead to a significant improvement in our world. I was born in Portugal and currently live in Munich, Germany.
