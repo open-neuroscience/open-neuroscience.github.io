@@ -2,7 +2,7 @@ library(tidyverse)
 library(googlesheets4)
 
 # helper functions -----
-create_yaml <- function(title, authors, categories){
+create_yaml <- function(title, authors, categories, project_handle){
   yaml_break <-"---"
   tit <- paste("title:", shQuote(title))
   dat <- paste("date:", Sys.Date())
@@ -15,6 +15,17 @@ create_yaml <- function(title, authors, categories){
   catt <- paste("categories:", categories)
   # tags are the same as categories for now...
   tagg <- paste("tags:", categories)
+  # links for sharing
+  # read from template
+  yaml_list <- yaml::read_yaml("links_template.yaml")
+  # if no author supplied, use openneurosci
+  if (is.na(project_handle)) {
+    yaml_list$links[[1]]$url <- glue::glue("{yaml_list$links[[1]]$url}/openneurosci")
+  } else {
+    yaml_list$links[[1]]$url <- glue::glue("{yaml_list$links[[1]]$url}/{project_handle}")
+  }
+  # make it back to \n separated format
+  links <-  yaml_list %>% yaml::as.yaml()
 
   # make the yaml
   output <- paste(yaml_break,
@@ -24,6 +35,7 @@ create_yaml <- function(title, authors, categories){
                   lay,
                   catt,
                   tagg,
+                  links,
                   yaml_break, sep = "\n")
   return(output)
 
@@ -57,9 +69,20 @@ create_body <- function(title, image, description, authors, website, video, post
                          post_author,
                          sep="\n")
   } else {
+    # We only do this for youtube videos, which have this format
+    # https://www.youtube.com/watch?v=5oWGBUMJON8&feature=emb_title
 
-    # short cut is {{< youtube w7Ft2ymGmfc >}}
-    # emb_video <- paste("{{< youtube")
+    # detect desired pattern
+    is_youtu <- stringr::str_detect(video, pattern = "youtu")
+    if (is_youtu) {
+      # extract video
+      emb_code <- get_youtube_id(video)
+      # short-cut is {{< youtube w7Ft2ymGmfc >}}
+      video <- glue::glue("{{< youtube {emb_code} >}}")
+      # generate shortcut
+    } else {
+      # do nothing, use video link as is
+    }
 
     description <- paste(description,
                          "## Project Author(s)",
@@ -117,7 +140,7 @@ get_image <- function(image_link, path){
 
   # check if the image can be loaded
   img <- try(imager::load.image(filename))
-  if (class(img) == "try-error" & str_detect(filename, pattern = "svg") == FALSE){
+  if (class(img) == "try-error" && str_detect(filename, pattern = "svg") == FALSE){
     write.table(paste("problem with", image_link),
                 file = paste0(tools::file_path_sans_ext(filename), ".txt"),
                 row.names = FALSE)
@@ -138,6 +161,10 @@ write_md <- function(filename, content){
 }
 
 parse_tags <- function(df){
+  # This function subsets all the project categories from the data frame
+  # Then collapses the ones from each post to vectors of the like
+  # "a,b,c" instead of c("a", "b", "c")
+  # This is needed for pasting directly in create_yaml()
   df %>%
     select(starts_with("Project categories")) %>%
     group_by(row=row_number()) %>%
@@ -149,14 +176,19 @@ parse_tags <- function(df){
 }
 
 clean_post_title <- function(dirty_title, with_path = FALSE){
-  # make filename
+  # Post titles have a huge amount of garbage on them
+  # That will create troublesome URLs and Folders
+  # we can use the with_path boolean to toggle creation of folders
+  # in proper destination
+
+  # remove whitespaces
   clean_title = gsub(x =  dirty_title, pattern = " ", replacement = "_")
-  # remove all other punctuation things
+  # remove all other punctuation
   clean_title = stringr::str_replace_all(string = clean_title,
                                       pattern="[[:punct:]]",
                                       replacement="_")
   # this process might create multiple underscores
-  #remove triple underscore
+  # so remove multiple underscore
   clean_title = gsub(x = clean_title , pattern = "_+", replacement = "_")
   if (with_path == TRUE){
     # create file path
@@ -165,6 +197,19 @@ clean_post_title <- function(dirty_title, with_path = FALSE){
   return(clean_title)
 }
 
+get_youtube_id <- function(link) {
+  # function extracts id using regex, not panacea, but good enough
+  # https://stackoverflow.com/questions/45441896/extract-youtube-video-id-from-url-with-r-stringr-regex
+  if (stringr::str_detect(link, '/watch\\?')) {
+    rgx = '(?<=\\?v=|&v=)[\\w]+'
+  } else {
+    rgx = '(?<=/)[\\w]+/?(?:$|\\?)'
+  }
+  stringr::str_extract(link, rgx)
+}
+
+
+# Script starts here ------------------------------------------------------
 
 # this is the ID
 ID <- "1qF5P8RKBSiE6qyInIoTBHdq2m9o5ZnvhnGKkmaJ83uI"
@@ -184,14 +229,14 @@ post_df <- target %>%
   # distinct()
   # we need to apply the functions rowwise
   rowwise() %>%
-  mutate(yaml = create_yaml(`Project Title`, "admin", tags),
+  mutate(yaml = create_yaml(`Project Title`, "admin", tags, `Project Author Twitter handle`),
          body = create_body(
            title = `Project Title`,
            image = `Link to raw image of your project`,
            description = `Description of the project`,
            authors = `Project Author`,
            website = `Link to Project Website or GitHub repository`,
-           video = `[OPTIONAL] Link to video for your project`,
+           video = `Link to video for your project`,
          post_author = `Post Author`),
          post = paste(yaml, body, sep ="\n"))
 
