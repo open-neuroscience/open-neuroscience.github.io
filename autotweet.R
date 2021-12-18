@@ -151,7 +151,9 @@ parse_tags <- function(df){
 
 # this is the ID
 ID <- "1qF5P8RKBSiE6qyInIoTBHdq2m9o5ZnvhnGKkmaJ83uI"
+gs4_deauth()
 target <- read_sheet(ID)
+
 # this comes handy for later,
 # so that we don't add a bunch of columns when we write back
 original_columns <- names(target)
@@ -209,3 +211,17 @@ sentences <- tokenizers::tokenize_sentences(tweet_maker$`Description of the proj
 
 # we can check the lenghts here...
 lapply(sentences, function(tt) data.frame(len = length(tt), n = nchar(tt)))
+
+
+#TODO:
+# - instead of tokenizing, just count characters up to 270 and find the previous
+#punctuation mark ("!","?", ",", ".", "*"). then add "..." after that and start 
+#the next tweet.
+# - add emojis to the tweets
+# - for posts with Seminar series videos, add a link to the seminar or 
+#even embed seminar video to tweet?
+# - figure out if image embedding works well.
+# - from the number of characters in each entry, make the threads smaller
+# - in the last tweet of the thread add a phrase like: " for this and other 
+# projects related to #tag1 #tag2 visit https://open-neuroscience.com
+# - in the above items the tags come from the post tags.
