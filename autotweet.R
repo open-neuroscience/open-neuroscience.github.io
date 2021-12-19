@@ -149,6 +149,22 @@ parse_tags <- function(df){
 
 }
 
+parse_hashtags <- function(df){
+  # this is basically the same as parse_tags()
+  # but it gives them back as a string of hashtags
+  df %>%
+    select(starts_with("Project categories")) %>%
+    group_by(row=row_number()) %>%
+    pivot_longer(cols = starts_with("Project")) %>%
+    filter(value != "NA") %>%
+    # remove all white spaces and turn CamelCase
+    mutate(value = snakecase::to_upper_camel_case(value)) %>%
+    summarise(categories = paste0("#", value, collapse=" ")) %>%
+    pull(categories)
+
+}
+
+
 # this is the ID
 ID <- "1qF5P8RKBSiE6qyInIoTBHdq2m9o5ZnvhnGKkmaJ83uI"
 gs4_deauth()
@@ -159,7 +175,7 @@ target <- read_sheet(ID)
 original_columns <- names(target)
 
 # parse tags
-target$tags <- parse_tags(target)
+target$hashtags <- parse_hashtags(target)
 
 ON_link <- function(title){
   p <- "https://open-neuroscience.com/en/post/"
@@ -171,7 +187,6 @@ ON_link <- function(title){
   return(paste0(p, title))
 }
 
-
 #
 tweet_maker <-
   select(target,
@@ -179,7 +194,8 @@ tweet_maker <-
          `Project Author`,
          `Post Author Twitter handle`,
          `Link to Project Website or GitHub repository`,
-         `Description of the project`) %>%
+         `Description of the project`,
+         tags) %>%
   mutate(by = "Created by:",
          find_more = "Find More at:",
          thread = "Thread below -->",
@@ -200,28 +216,67 @@ tweet_maker <-
   )
 
 
-
-tweet_maker %>% mutate(
-  n = nchar(initial_tweet),
-  flag = n < 280,
-) %>% count(flag)
-
-
+# create sentences from tweets
 sentences <- tokenizers::tokenize_sentences(tweet_maker$`Description of the project`)
 
+
+extra_chars <- " ... 🧵"
+chunk_nchar <- 260
+on_blurb <-
+  function(hashtags){
+    glue::glue(
+      "For this and other projects related to {hashtags} visit https://openneuroscience.com"
+    )
+  }
+
 # we can check the lenghts here...
-lapply(sentences, function(tt) data.frame(len = length(tt), n = nchar(tt)))
+sentence_stats <- map(sentences,
+                         function(tt) data.frame(
+                           descr_len = length(tt),
+                           n = nchar(tt),
+                           sentence = tt)
+                         )
+# set the names for binding
+# names(sentence_stats) <- tweet_maker$`Project Title`
 
+sentence_stats <-
+sentence_stats %>%
+  bind_rows(.id="id") %>%
+  group_by(id) %>%
+  mutate(cum_chars = cumsum(n),
+         # we create an id using modulo
+         # we add one to be able to have a thread_id = 0
+         thread_id = floor(cum_chars / chunk_nchar) + 1,
+         last_tweet = last(thread_id),
+         )
 
-#TODO:
-# - instead of tokenizing, just count characters up to 270 and find the previous
-#punctuation mark ("!","?", ",", ".", "*"). then add "..." after that and start 
-#the next tweet.
-# - add emojis to the tweets
-# - for posts with Seminar series videos, add a link to the seminar or 
-#even embed seminar video to tweet?
-# - figure out if image embedding works well.
-# - from the number of characters in each entry, make the threads smaller
-# - in the last tweet of the thread add a phrase like: " for this and other 
-# projects related to #tag1 #tag2 visit https://open-neuroscience.com
-# - in the above items the tags come from the post tags.
+# We are using numerical IDs in case projects are duplicated
+# it's often difficult to find dupes if people don't write
+# consistently (e.g., DeepLabCut vs Deep lab cut: a tool for...)
+id_key <- tweet_maker %>%
+  mutate(id = row_number(),
+         id = as.character(id)) %>%
+  select(id, `Project Title`, handle, link = `Link to Project Website or GitHub repository`)
+
+open_sentences <-
+  mutate(id_key,
+         sentence = glue::glue(
+           "{`Project Title`} {link} {extra_chars}"
+         ),
+         sentence = as.character(sentence),
+         thread_id = 0)
+
+closing_sentences <-
+  sentence_stats %>%
+  summarise(id = unique(id),
+            last_tweet = last(thread_id) + 1) %>%
+  mutate(sentence = map_chr(target$hashtags, on_blurb))
+
+# Add the closing sentence
+bind_rows(sentence_stats, open_sentences) %>%
+  bind_rows(closing_sentences) %>%
+  arrange(id, thread_id) %>%
+  mutate(lag_id = lag(thread_id),
+         thread_id = if_else(is.na(thread_id), lag_id + 1, thread_id)) %>%
+  group_by(id, thread_id) %>%
+  summarise(sentence = paste(sentence, collapse = " ")) %>% View()
