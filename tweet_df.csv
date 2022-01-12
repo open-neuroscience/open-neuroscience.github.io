@@ -1,0 +1,766 @@
+id,thread_id,sentence
+1,0,Colaboratory https://colab.research.google.com/notebooks/intro.ipynb  ... 🧵
+1,1,Colaboratory is a free Jupyter notebook environment that runs in the cloud. Your notebooks get stored on Google Drive.
+1,2,"The great advantage is that you don’t have to install anything (however, for some features you need a Google account) on your system to use it. You can perform specific computations during data analysis with pre-installed Python libraries and gives you access to accelerated hardware for free (e.g. GPUs and TPUs)."
+1,3,For this and other projects related to #Software #DataAnalysis visit https://openneuroscience.com
+10,0,Heuristic Spike Sorting Tuner (HSST) https://github.com/davidbjanes/hsst  ... 🧵
+10,1,Extracellular microelectrodes frequently record neural activity from more than one neuron in the vicinity of the electrode.
+10,2,"The process of labeling each recorded spike waveform with the identity of its source neuron is called spike sorting and is often approached from an abstracted statistical perspective. However, these approaches do not consider neurophysiological realities and may ignore important features that could improve the accuracy of these methods."
+10,3,"Further, standard algorithms typically require selection of at least one free parameter, which can have significant effects on the quality of the output."
+10,4,We describe a Heuristic Spike Sorting Tuner (HSST) that determines the optimal choice of the free parameters for a given spike sorting algorithm based on the neurophysiological qualification of unit isolation and signal discrimination. A set of heuristic metrics are used to score the output of a spike sorting algorithm over a range of free parameters resulting in optimal sorting quality.
+10,5,"We demonstrate that these metrics can be used to tune parameters in several spike sorting algorithms. The HSST algorithm shows robustness to variations in signal to noise ratio, number and relative size of units per channel."
+10,6,"Moreover, the HSST algorithm is computationally efficient, operates unsupervised, and is parallelizable for batch processing."
+10,7,For this and other projects related to #Software #DataAnalysis #ComputationalNeuroscience visit https://openneuroscience.com
+100,0,CLIJ2 https://clij.github.io/  ... 🧵
+100,1,"CLIJ2 is a GPU-accelerated image processing library for ImageJ/Fiji, Icy, Matlab and Java based on OpenCL."
+100,2,"It comes with hundreds of operations for filtering, binarizing, labeling, measuring in images, projections, transformations and mathematical operations for images."
+100,3,For this and other projects related to #Software #DataAnalysis visit https://openneuroscience.com
+101,0,MNE-Python https://mne.tools  ... 🧵
+101,1,MNE-Python is an open-source Python module for neuroscience data analysis.
+101,2,"It implements many neuroscience-specific algorithms and statistical tools; has rich visualization capabilities that are both interactive and fully scriptable (for reproducibility); and integrates easily with general-purpose libraries like SciPy, Scikit-learn, and TensorFlow."
+101,3,For this and other projects related to #Microscopes #Benchtop visit https://openneuroscience.com
+102,0,morphologica https://github.com/ABRG-Models/morphologica  ... 🧵
+102,1,morphologica is a header-only C++ library which provides simulation support facilities for simulations of dynamical systems.
+102,2,"It helps with:  * Configuration: morphologica allows you to easily set up a simulation parameter configuration system, using the JSON reading and writing abilities of morph::Config. * Saving data from your simulation. morphologica provides a set of easy-to-use convenience wrappers (morph::HdfData) around the HDF5 C API."
+102,3,"By saving data in a standard format, it is easy to access simulation data in python, MATLAB or Octave for analysis and graphing. * Visualizing your model while it runs."
+102,4,"A modern OpenGL visualization scheme called morph::Visual provides the ability to visualise hex & Cartesian grids, surfaces, scatter plots and quiver plots with minimal processing overhead."
+102,5,For this and other projects related to #Hardware #AnimalElectrophysiology #Benchtop visit https://openneuroscience.com
+103,0,lab.js https://lab.js.org  ... 🧵
+103,1,"lab.js makes online experimentation easy. It's a free, open, online study builder and data collection framework for the behavioral, neuro- and cognitive sciences."
+103,2,"Studies built with lab.js run in the laboratory as well as online, across a wide variety of data collection platforms, and provide excellent performance for all modes of stimulus presentation."
+103,3,For this and other projects related to #Benchtop #Hardware #ElectricStimulation visit https://openneuroscience.com
+104,0,EASI-FISH https://github.com/multiFISH/EASI-FISH  ... 🧵
+104,1,"This workflow is used to analyze large-scale, multi-round, high-resolution image data acquired using EASI-FISH (Expansion-Assisted Iterative Fluorescence In Situ Hybridization)."
+104,2,"It takes advantage of the n5 filesystem to allow for rapid and parallel data reading and writing. It performs automated image stitching, distributed and highly accurate multi-round image registration, 3D cell segmentation, and distributed spot detection."
+104,3,We also envision this workflow being adapted for analysis of other image-based spatial transcriptomic data. Check the pre-print here https://www.biorxiv.org/content/10.1101/2021.03.08.434304v1
+104,4,For this and other projects related to #Microscopes #Hardware #Software visit https://openneuroscience.com
+105,0,Feeding Experimentation Device ver3 (FED3) https://github.com/KravitzLabDevices/FED3  ... 🧵
+105,1,FED3 is an open-source battery-powered device for home-cage training of mice in operant tasks. FED3 can be 3D printed and the control code is open-source and can be modified.
+105,2,"The code is written in the Arduino language and is run on an Adafruit Feather M0 Adalogger microcontroller inside of FED3. Mice interact with FED3 through two nose-pokes and FED3 responds with visual stimuli, auditory stimuli, and by dispensing pellets."
+105,3,"FED3 also has an analog output that allows it to synchronize with and control external equipment such as lasers or brain recording systems. A screen provides feedback to the user, and all behavioral events are logged to an on-board microSD card."
+105,4,"The default code includes multiple built-in programs but FED3 is open-source and hackable, and can be easily modified to perform other tasks."
+105,5,For this and other projects related to #Other visit https://openneuroscience.com
+106,0,Non-Telecentric 2P microscopy for 3D random access mesoscale imaging (nTCscope) https://github.com/BadenLab/nTCscope  ... 🧵
+106,1,"Ultra-low-cost, easily implemented and flexible two-photon scanning microscopy modification offering a several-fold expanded three-dimensional field of view that also maintains single-cell resolution."
+106,2,"Application of our system for imaging neuronal activity has been demonstrated on mice, zebrafish and fruit flies"
+106,3,For this and other projects related to #DataRepositories #ComputationalNeuroscience #Software #TutorialsLearningPortals visit https://openneuroscience.com
+107,0,Kilosort https://github.com/MouseLand/Kilosort  ... 🧵
+107,1,"Kilosort is a software package for identifying neurons and their spikes in extracellular electrophysiology, a process known as ""spike sorting""."
+107,2,"Kilosort has been primarily developed and tested on the Neuropixels 1.0 probes, but is now used on data acquired with a wide variety of ephys methods, from Utah arrays to tetrodes and to the latest Neuropixels 2.0 probes."
+107,3,"Spike sorting consists of several largely-independent steps: data preprocessing, drift correction, spike clustering, template matching, and results postprocessing. There have been several versions of Kilosort, improving on various aspects of these steps, and we are currently on version v3. In many cases, and especially for Neuropixels probes, the automated output of Kilosort3 requires minimal manual curation."
+107,4,"The main change from v2.5 is a completely new and much more sophisticated clustering algorithm. To learn about Kilosort2.5, the primary reference is the Neuropixels 2.0 paper. Kilosort2.5 improves on Kilosort2 primarily in the type of drift correction we use."
+107,5,"Where Kilosort2 modified templates as a function of time/drift (a drift tracking approach), Kilosort2.5 corrects the raw data directly via a sub-pixel registration process (a drift correction approach)."
+107,6,"All versions of Kilosort so far have been developed and released in Matlab. However, we are advancing towards Python releases of the codebase, including of older version like Kilosort 2 and 2.5 (available here: https://github.com/MouseLand/pykilosort/tree/master/pykilosort)."
+107,7,For this and other projects related to #Software #HumanElectrophysiology #AnimalElectrophysiology #ComputationalNeuroscience visit https://openneuroscience.com
+108,0,CellExplorer - Framework for analyzing single cells https://cellexplorer.org/  ... 🧵
+108,1,"The large diversity of cell-types of the brain, provides the means by which circuits perform complex operations. Understanding such diversity is one of the key challenges of modern neuroscience."
+108,2,"Neurons have many unique electrophysiological and behavioral features from which parallel cell-type classification can be inferred. To address this, we built CellExplorer, a framework for analyzing and characterizing single cells recorded using extracellular electrodes."
+108,3,"It can be separated into three components: a standardized yet flexible data structure, a single yet extensive processing module, and a powerful graphical interface."
+108,4,"Through the processing module, a high dimensional representation is built from electrophysiological and functional features including the spike waveform, spiking statistics, monosynaptic connections, and behavioral spiking dynamics."
+108,5,"The user-friendly interactive graphical interface allows for classification and exploration of those features, through a rich set of built-in plots, interaction modes, cell grouping, and filters. Powerful figures can be created for publications. Opto-tagged cells and public access to reference data have been incorporated to help you characterize your data better."
+108,6,"The framework is built entirely in MATLAB making it fast and intuitive to implement and incorporate CellExplorer into your pipelines and analysis scripts. You can expand it with your metrics, plots, and opto-tagged data."
+108,7,For this and other projects related to #Software #Behaviour #DataAnalysis visit https://openneuroscience.com
+109,0,PyControl https://pycontrol.readthedocs.io/en/latest/  ... 🧵
+109,2,"Open source, Python based, behavioural experiment control.  pyControl is a system of open source hardware and software for controlling behavioural experiments, built around the Micropython microcontroller.  pyControl makes it easy to program complex behavioural tasks using a clean, intuitive, and flexible syntax for specifying tasks as state machines. User created task definition files, written in Python, run directly on the microcontroller, supported by pyControl framework code."
+109,4,"This gives users the power and simplicity of Python for specifying task behaviour, while allowing advanced users low-level access to the microcontroller hardware.  pyControl hardware consists of a breakout board and a set of devices such as nose-pokes, audio boards, LED drivers, rotary encoders and stepper motor controllers that are connected to the breakout board to create behavioural setups."
+109,5,Assembled pyControl hardware is available from the OpenEphys store.  pyControl has a Graphical User Interface for controlling experiments and visualing behaviour.
+109,6,For this and other projects related to #Behaviour #Hardware #Software visit https://openneuroscience.com
+11,0,VocalMat https://www.dietrich-lab.org/vocalmat  ... 🧵
+11,1,"Mice emit ultrasonic vocalizations (USV) to transmit socially-relevant information. To detect and classify these USVs, here we describe the development of VocalMat."
+11,2,"VocalMat is a software that uses image-processing and differential geometry approaches to detect USVs in audio files, eliminating the need for user-defined parameter tuning. VocalMat also uses computational vision and machine learning methods to classify USVs into distinct categories."
+11,3,"In a dataset of >4,000 USVs emitted by mice, VocalMat detected more than >98% of the USVs and accurately classified ≈86% of USVs when considering the most likely label out of 11 different USV types."
+11,4,"We then used Diffusion Maps and Manifold Alignment to analyze the probability distribution of USV classification among different experimental groups, providing a robust method to quantify and qualify the vocal repertoire of mice. Thus, VocalMat allows accurate and highly quantitative analysis of USVs, opening the opportunity for detailed and high-throughput analysis of this behavior."
+11,5,For this and other projects related to #Hardware #Behaviour visit https://openneuroscience.com
+110,0,Building a Simple and Versatile Illumination System for Optogenetic Experiments https://github.com/BreakLiquid/LED-Control-User-Interfaces  ... 🧵
+110,1,Controlling biological processes using light has increased the accuracy and speed with which researchers can manipulate many biological processes.
+110,2,"Optical control allows for an unprecedented ability to dissect function and holds the potential for enabling novel genetic therapies. However, optogenetic experiments require adequate light sources with spatial, temporal, or intensity control, often a bottleneck for researchers."
+110,3,Here we detail how to build a low-cost and versatile LED illumination system that is easily customizable for different available optogenetic tools. This system is configurable for manual or computer control with adjustable LED intensity.
+110,4,"We provide an illustrated step-by-step guide for building the circuit, making it computer-controlled, and constructing the LEDs. To facilitate the assembly of this device, we also discuss some basic soldering techniques and explain the circuitry used to control the LEDs."
+110,5,"Using our open-source user interface, users can automate precise timing and pulsing of light on a personal computer (PC) or an inexpensive tablet. This automation makes the system useful for experiments that use LEDs to control genes, signaling pathways, and other cellular activities that span large time scales."
+110,6,"For this protocol, no prior expertise in electronics is required to build all the parts needed or to use the illumination system to perform optogenetic experiments."
+110,7,For this and other projects related to #Hardware visit https://openneuroscience.com
+111,0,NEUROTWIN https://www.neurotwin-seminars.com/  ... 🧵
+111,1,"The NEUROTWIN project is a scientific collaboration between the Transylvanian Institute of Neuroscience (TINS) from Cluj-Napoca, Romania, and three internationally acclaimed European institutions."
+111,2,"The project is funded through the Twinning instrument, call H2020-WIDESPREAD-2020-5, of the European Union. Its goal is to advance the neuroscientific research of the TINS institute, increase its international visibility, and develop its intellectual property and technology transfer procedures."
+111,3,"Overall, the project will consolidate a pole for neuroscience development in Eastern Europe by providing increased capacity to perform cutting-edge research."
+111,4,"Within the project, we are launching the TINS Neuroscience Seminar Series with the hope to shine a light on the fascinating world of Neuroscience. Our series brings together elite researchers in the field to build an impressive overview of cutting-edge techniques and findings about neural function."
+111,5,"Our goal is to bring the field of Neuroscience closer to those who embrace this passion, especially in places where the field is largely under-represented. We strive to inspire students, researchers, and industry workers worldwide to join us in the quest of understanding the brain."
+111,6,For this and other projects related to #Benchtop #Hardware #MolecularBiology visit https://openneuroscience.com
+112,0,"Mobilefuge: Low-cost, Open-source 3D-printed centrifuge https://www.medrxiv.org/content/10.1101/2021.01.06.21249280v1  ... 🧵"
+112,1,"We made a low-cost centrifuge that can be useful for carrying out low-cost LAMP based detection of SARS-Cov2 virus in saliva. The 3D printed centrifuge (Mobilefuge) is portable, robust, stable, safe, easy to build and operate."
+112,2,"The Mobilefuge doesn’t require soldering or programming skills and can be built without any specialised equipment, yet practical enough for high throughput use. More importantly, Mobilefuge can be powered from widely available USB ports, including mobile phones and associated power supplies."
+112,3,This allows the Mobilefuge to be used even in off-grid and resource limited settings.
+112,4,For this and other projects related to #Benchtop #Hardware #Behaviour visit https://openneuroscience.com
+113,0,The Virtual Macaque Brain https://zenodo.org/record/1471588#.YH8YcpNKg6d  ... 🧵
+113,1,A whole-cortex macaque structural connectome constructed from a combination of axonal tract-tracing and diffusion-weighted imaging data. Created for modeling brain dynamics using TheVirtualBrain (thevirtualbrain.org) platform.
+113,2,A detailed description and example usage can be found in the paper here: https://www.nature.com/articles/s41597-019-0129-z
+113,3,For this and other projects related to #Other #Journal visit https://openneuroscience.com
+114,0,Load confound https://github.com/SIMEXP/load_confounds  ... 🧵
+114,1,"Load a sensible subset of the fMRI confounds generated with fMRIprep in python (Esteban et al., 2018). The predefined denoising strategies are all adapted from Ciric et al. 2017. Check the docstring of each strategy for more info and a list of parameters."
+114,2,It is also possible to fine-tune a subset of noise components and their parameters. This package is at an alpha stage of development. The API may still be subject to changes. The beta release is planned for May 2021.
+114,3,"Reference: Ciric R, Wolf DH, Power JD, Roalf DR, Baum GL, Ruparel K, Shinohara RT, Elliott MA, Eickhoff SB, Davatzikos C., Gur RC, Gur RE, Bassett DS, Satterthwaite TD. Benchmarking of participant-level confound regression strategies for the control of motion artifact in studies of functional connectivity."
+114,4,Neuroimage.
+114,5,"2017. doi:10.1016/j.neuroimage.2017.03.020  Esteban O, Markiewicz CJ, Blair RW, Moodie CA, Isik AI, Erramuzpe A, Kent JD, Goncalves M, DuPre E, Snyder M, Oya H, Ghosh SS, Wright J, Durnez J, Poldrack RA, Gorgolewski KJ. fMRIPrep: a robust preprocessing pipeline for functional MRI. Nat Meth. 2018; doi: 10.1038/s41592-018-0235-4"
+114,6,For this and other projects related to #CalciumImaging #Software #Behaviour #DataAnalysis visit https://openneuroscience.com
+115,0,Clinica https://github.com/aramis-lab/clinica  ... 🧵
+115,2,"Clinica is a software platform for clinical research studies involving patients with neurological and psychiatric diseases and the acquisition of multimodal data (neuroimaging, clinical and cognitive evaluations, genetics...), most often with longitudinal follow-up."
+115,4,"Clinica provides tools to convert publicly available neuroimaging datasets into BIDS, namely: - ADNI: Alzheimer’s Disease Neuroimaging Initiative - AIBL: Australian Imaging, Biomarker & Lifestyle Flagship Study of Ageing - NIFD: Neuroimaging in Frontotemporal Dementia - OASIS: Open Access Series of Imaging Studies  Clinica can process any BIDS-compliant dataset with a set of complex processing pipelines involving different software packages for the analysis of neuroimaging data (T1-weighted MRI, diffusion MRI and PET data). Clinica also provides seamless integration between feature extraction and statistics, machine learning or deep learning and is showcased as a framework for reproducible classification of Alzheimer's disease."
+115,5,For this and other projects related to #Benchtop #Hardware #MolecularBiology #Software visit https://openneuroscience.com
+116,0,OpenSpritzer https://github.com/BadenLab/Openspritzer  ... 🧵
+116,1,"Designed for ease of use, robustness and low-cost, the “Openspritzer” is an open hardware “Picospritzer” as routinely used in biological labs around the world. The performance of Openspritzer and commercial alternatives is effectively indistiguishable."
+116,2,The system is based on a solenoid valve connected to a pressure gauge. Control can be attained directly via an external TTL pulse or internally through an Arduino set by a rotary encoder.
+116,3,"The basic setup can be put together for 3-400€, or substantially less if you are prepare to shop around. We anticipate that due to its high performance and low cost Openspritzer will be of interest to a broad range of researchers working in the life and physical sciences. Source: CJ."
+116,4,"Forman et al, 2017 -- https://www.nature.com/articles/s41598-017-02301-2"
+116,5,For this and other projects related to #Software #DataAnalysis visit https://openneuroscience.com
+117,0,Spikeling https://github.com/BadenLab/Spikeling  ... 🧵
+117,1,"Understanding of how neurons encode and compute information is fundamental to our study of the brain, but opportunities for hands-on experience with neurophysiological techniques on live neurons are scarce in science education."
+117,2,"Here, we present Spikeling, an open source £25 in silico implementation of a spiking neuron that mimics a wide range of neuronal behaviours for classroom education and public neuroscience outreach."
+117,3,Spikeling is based on an Arduino microcontroller running the computationally efficient Izhikevich model of a spiking neuron.
+117,4,"The microcontroller is connected to input ports that simulate synaptic excitation or inhibition, dials controlling current injection and noise levels, a photodiode that makes Spikeling light-sensitive and an LED and speaker that allows spikes to be seen and heard. Output ports provide access to variables such as membrane potential for recording in experiments or digital signals that can be used to excite other connected Spikelings."
+117,5,These features allow for the intuitive exploration of the function of neurons and networks.  https://journals.plos.org/plosbiology/article? id=10.1371/journal.pbio.2006760
+117,6,For this and other projects related to #Software #DataAnalysis visit https://openneuroscience.com
+118,0,NeuroDesk https://neurodesk.github.io/  ... 🧵
+118,1,Neuroimaging researchers require a diverse collection of bespoke command-line and graphical tools to analyse data and answer research questions.
+118,2,"Installing and maintaining a neuroimaging software setup is challenging and often results in un-reproducible environments. Container technology, such as docker or singularity, enables the execution of software on different operating systems and could aid in distributing scientific software."
+118,3,"We are developing NeuroDesk, a platform build on container technology for processing and analysing neuroimaging data with the aim to lower the barrier of using various neuroimaging software in a reproducible environment, so that researchers spend less time on setting up and maintaining an analysis environment."
+118,4,For this and other projects related to #Hardware #Behaviour visit https://openneuroscience.com
+119,0,BioAmp EXG Pill https://github.com/upsidedownlabs/BioAmp-EXG-Pill  ... 🧵
+119,1,"BioAmp EXG Pill is a small, powerful Analog Front End (AFE) biopotential signal acquisition board that can be paired with any 5 V Micro Controller Unit (MCU) with an ADC."
+119,2,"It is capable of recording publication-quality biopotential signals like ECG, EMG, EOG, and EEG, without the inclusion of any dedicated hardware or software filters."
+119,3,"It’s small size allows easy integration into mobile and space-constrained projects, and it’s powerful noise rejection makes it usable even when the device is close to the AC mains supply. Any 1.5 mm diameter wire can be used as a strain-relieving electrode cable, making BioAmp EXG Pill very cost-effective in comparison to other options."
+119,4,For this and other projects related to #DataRepositories #TutorialsLearningPortals #Microscopes #Optogenetics visit https://openneuroscience.com
+12,0,Automated Operant Conditioning https://github.com/raffaelemazziotti/oc_chamber  ... 🧵
+12,1,Operant conditioning (OC) is a classical paradigm and a standard technique used in experimental psychology in which animals learn to perform an action to achieve a reward.
+12,2,"By using this paradigm, it is possible to extract learning curves and measure accurately reaction times (RTs). Both these measurements are proxy of cognitive capabilities and can be used to evaluate the effectiveness of therapeutic interventions in mouse models of disease."
+12,3,"Here, we describe a fully 3D printable device that is able to perform OC on freely moving mice, while performing real-time tracking of the animal position. We successfully trained six mice, showing stereotyped learning curves that are highly reproducible across mice and reaching >70% of accuracy after 2 d of conditioning."
+12,4,"Different products for OC are commercially available, though most of them do not provide customizable features and are relatively expensive."
+12,5,"This data demonstrate that this system is a valuable alternative to available state-of-the-art commercial devices, representing a good balance between performance, cost, and versatility in its use."
+12,6,For this and other projects related to #Software #DataAnalysis #AnimalElectrophysiology #HumanElectrophysiology visit https://openneuroscience.com
+120,0,Autopilot https://docs.auto-pi-lot.com/  ... 🧵
+120,1,"Autopilot is a Python framework for performing complex, hardware-intensive behavioral experiments with swarms of networked Raspberry Pis."
+120,2,"As a tool, it provides researchers with a toolkit of flexible modules to design experiments without rigid programming & API limitations. As a vision, it dreams of bridging the chaotic hacky creativity of scientific programmers with a standardized, communally developed library of hardware control interfaces and reproducible experiment prototypes."
+120,3,"Autopilot is supplemented by a semantically-enabled wiki that hosts a library of DIY hardware designs and technical knowledge, use what's there or submit your own: Autopilot is not prescriptive about what hardware you use, and can be extended to handle whatever you want to throw at it."
+120,4,For this and other projects related to #Hardware #Simulations #Optogenetics #BehaviourMicroscopesCalciumImagingFluorescence visit https://openneuroscience.com
+121,0,Diffusion MRI Q-ball CSA-ODF and Hough Tractography https://www.nitrc.org/projects/csaodf-hough  ... 🧵
+121,1,"This is a diffusion-weighted MRI processing Matlab toolbox (including binaries), which can be used to: • Compute the Q-Ball Imaging Orientation Distribution Function in Constant Solid Angle (CSA-ODF) (Aganj et al, MRM 2010)."
+121,2,"• Perform Hough-transform tractography (Aganj et al, MedIA 2011). • Visualize ODFs and tracts, and export them for further analysis. • Verify the correctness of the diffusion gradient table (Aganj, Sci Rep 2018). • Compute and interactively visualize the connectivity matrix."
+121,3,"• Augment the connectivity matrix with indirect connections (Aganj et al, ISMRM 2014)."
+121,4,For this and other projects related to #Hardware #Simulations #Optogenetics #BehaviourMicroscopesCalciumImagingFluorescence visit https://openneuroscience.com
+122,0,Stalefish https://github.com/ABRG-Models/Stalefish  ... 🧵
+122,1,Stalefish is a tool to analyse gene expression from ISH or other histology slice images. From your 2D brain slice images you can build a 3D expression surface from a brain structure such as the isocortex or the hippocampus.
+122,2,"You can then convert the 3D surfaces into 2D expression maps, get depth-based expression or identify digital micro-punches for analysis."
+122,3,For this and other projects related to #Software #Behaviour #DataAnalysis visit https://openneuroscience.com
+123,0,The Open-Source UCLA Miniscope Project http://miniscope.org/index.php/Main_Page  ... 🧵
+123,1,"One of the biggest challenges in neuroscience is to understand how neural circuits in the brain process, encode, store, and retrieve information."
+123,2,Meeting this challenge requires tools capable of recording and manipulating the activity of intact neural networks in freely behaving animals. Head-mounted miniature fluorescence microscopes are among the most promising of these tools.
+123,3,"Taking advantage of the past decade's advancements in fluorescent neural activity reporters, these microscopes use wide-field single photon excitation to image activity across large populations of neurons in freely behaving animals. They are capable of imaging the same neural population across months and in a wide range of animal models and different brain regions."
+123,4,"Initiated six years ago, the Miniscope Project -- an open-source collaborative effort—was created to accelerate innovation of miniature microscope technology and to increase global access to this technology."
+123,5,"Currently, we are working on advancements ranging from optogenetic stimulation and wire-free operation to simultaneous optical and electrophysiological recording. Using these systems, we have uncovered mechanisms underlying temporal memory linking and investigated causes of cognitive deficits in temporal lobe epilepsy."
+123,6,"Through innovation and optimization, this work aims to extend the reach of neuroscience research and create new avenues of scientific inquiry."
+123,7,For this and other projects related to #Software #Hardware #Microscopes #MolecularBiology visit https://openneuroscience.com
+124,0,ACQ4 www.acq4.org  ... 🧵
+124,1,"ACQ4 is a python-based platform for experimental neurophysiology developed at the Allen Institute for Brain Science and the University of North Carolina, Chapel Hill."
+124,2,"It includes support for patch-clamp electrophysiology, multiphoton imaging, scanning laser photostimulation, and many other experimental techniques. ACQ4 is highly modular and extensible, allowing support to be added for new types of devices, techniques, user-interface modules, and analyses."
+124,3,The latest ACQ4 version is available on github: https://github.com/acq4/acq4.git
+124,4,For this and other projects related to #Software #Behaviour visit https://openneuroscience.com
+125,0,Automated morphometric analysis with SMorph software reveals plasticity induced by antidepressant therapy in hippocampal astrocytes https://github.com/swanandlab/SMorph  ... 🧵
+125,1,"Nervous system development and plasticity involves changes in cellular morphology, making morphological analysis a valuable exercise in the study of nervous system development, function and disease."
+125,2,"Morphological analysis is a time-consuming exercise requiring meticulous manual tracing of cellular contours and extensions. We have developed a software tool, called SMorph, to rapidly analyse the morphology of cells of the nervous system. SMorph performs completely automated Sholl analysis."
+125,3,"It extracts 23 morphometric features based on cell images and Sholl analysis parameters, followed by Principal Component Analysis. SMorph is tested on neurons, astrocytes and microglia and reveals subtle changes in cell morphology."
+125,4,"Using SMorph, we found that chronic 21-day treatment with antidepressant desipramine results in a significant structural remodeling in hippocampal astrocytes."
+125,5,"Given the proposed involvement of astroglial structural changes and atrophy in major depression in humans, our results reveal a novel kind of structural plasticity induced by chronic antidepressant administration."
+125,6,For this and other projects related to #Software #Behaviour #HumanElectrophysiologyAnimalElectrophysiology visit https://openneuroscience.com
+126,0,PUMA 3D Printed Open Source Microscope https://github.com/TadPath/PUMA  ... 🧵
+126,1,"PUMA is 3D printed open source portable modular microscope with augmented reality, fluorescence, phase contrast, epi-illumination, epi- and trans-polarisation and other features."
+126,2,You can either build it fully DIY or purchase the basic scope ready made and upgrade it as required (see below for details).
+126,3,"It uses professional quality optics including the option of full Kohler illumination and oil-immersion, and has some very advanced features not usually found on even the most expensive commercially available microscopes. This includes a computer-controlled and programmable TFT-screen-based Spatial Light Modulator for optical Fourier filtration allowing for optimised / dynamic / adaptive apertures."
+126,4,"Also, unique to any 3D printed microscope to date, an augmented reality projector system - which is also programmable. Some advanced applications you can do with these are AI microscopy, specimen-directed aperture optimisation, digital measurements, 3D tomography, Fourier ptychography, Schlieren phase contrast and more."
+126,5,The system is fully customisable - the original FreeCAD source files are all available on the GitHub page so you can customise the scope to meed your individual project needs.
+126,6,The PUMA system is also peer reviewed and published in the Journal of Microscopy ( https://onlinelibrary.wiley.com/doi/10.1111/jmi.13043 ) so you can easily reference it if you use a PUMA system for your own research.
+126,7,If the DIY aspect puts you off then fully built 'Foundation scope' configuration PUMA microscopes (i.e. the full working basic microscope without advanced add-ons) can be purchased from the OptArc store (international tracked delivery is available) at https://www.optarc.co.uk where you can also download detailed user manuals as PDF files (free of charge) - just visit the 'Support' pages.
+126,8,For this and other projects related to #Behaviour #Hardware #Software #Computers visit https://openneuroscience.com
+127,0,"GuPPy, a Python toolbox for the analysis of fiber photometry data https://github.com/LernerLab/GuPPy  ... 🧵"
+127,1,Fiber photometry (FP) is an adaptable method for recording in vivo neural activity in freely behaving animals.
+127,2,"It has become a popular tool in neuroscience due to its ease of use, low cost, the ability to combine FP with freely moving behavior, among other advantages. However, analysis of FP data can be a challenge for new users, especially those with a limited programming background. Here, we present Guided Photometry Analysis in Python (GuPPy), a free and open-source FP analysis tool."
+127,3,"GuPPy is provided as a Jupyter notebook, a well-commented interactive development environment (IDE) designed to operate across platforms. GuPPy presents the user with a set of graphic user interfaces (GUIs) to load data and provide input parameters."
+127,4,"Graphs produced by GuPPy can be exported into various image formats for integration into scientific figures. As an open-source tool, GuPPy can be modified by users with knowledge of Python to fit their specific needs."
+127,5,For this and other projects related to #Hardware #Benchtop #Software visit https://openneuroscience.com
+128,0,DANDI: A data archive and collaboration space for neurophysiology https://dandiarchive.org/  ... 🧵
+128,1,"The US BRAIN Initiative archive for publishing and sharing neurophysiology data including electrophysiology, optophysiology, and behavioral time-series, and images from immunostaining experiments."
+128,2,"DANDI: Distributed Archives for Neurophysiology Data Integration is a Web platform for scientists to share, collaborate, and process data from cellular neurophysiology experiments."
+128,3,"DANDI curates data using community data standards such such as NWB and BIDS, and to make data and software for cellular neurophysiology FAIR (Findable, Accessible, Interoperable, and Reusable)."
+128,4,For this and other projects related to #Software #DataAnalysis #HumanNeuroscience visit https://openneuroscience.com
+129,0,GeNN http://genn-team.github.io/genn/  ... 🧵
+129,1,"GeNN is a GPU enhanced Neuronal Network simulation environment supporting multiple frontends and backends. Spiking neural network models can be specified directly in Python or C++ or through interfaces to Brian 2, SpineCreator (SpineML), or PyNN."
+129,2,"GeNN generates optimised code for computational hardware including CPUs and accelerators that are supported through CUDA or OpenCL. For more details see: Knight, J. C., Komissarov, A., & Nowotny, T. (2021). PyGeNN: A Python Library for GPU-Enhanced Neural Networks."
+129,3,"Frontiers in Neuroinformatics, 15(April), 1–12. Knight, J. C., & Nowotny, T. (2021). Larger GPU-accelerated brain simulations with procedural connectivity. Nature Computational Science, 1, 136-142. Knight, J. C., & Nowotny, T. (2018)."
+129,4,"GPUs Outperform Current HPC and Neuromorphic Solutions in Terms of Speed and Energy When Simulating a Highly-Connected Cortical Model. Frontiers in Neuroscience, 12(December), 1–19. Yavuz, E., Turner, J. and Nowotny, T. (2016) GeNN: a code generation framework for accelerated brain simulations."
+129,5,"Scientific Reports 6, 18854."
+129,6,For this and other projects related to #Software #DataAnalysis #HumanElectrophysiology #HumanNeuroscience visit https://openneuroscience.com
+13,0,Head-Mounted Mesoscope https://www.biorxiv.org/content/10.1101/2020.05.25.114892v1.full.pdf  ... 🧵
+13,1,"The  advent  of  genetically encoded  calcium  indicators,  along  with  surgical  preparations  such  as thinned skulls or refractive index matched skulls, have enabled mesoscale cortical activity imaging in head-fixed mice."
+13,2,"Such imaging studies have revealed complex patterns of coordinated activity across  the cortex during  spontaneous  behaviors,  goal-directed  behavior,  locomotion,  motor learning,and perceptual decision making."
+13,3,"However, neural activity during unrestrained behavior significantly  differs from neural  activity in head-fixed  animals. Whole-cortex  imaging  in  freely behaving  mice  will  enable  the  study  of  neural  activity  in  a  larger,  more  complex  repertoire  of behaviors  not  possible  in  head-fixed  animals."
+13,4,"Here  we present  the “Mesoscope,”  a  wide-field miniaturized, head-mounted fluorescence microscope compatible with transparent polymer skulls recently developed by our group."
+13,5,"With afield of view of 8 mm x 10 mm and weighing less than 4 g, the Mesoscope can image most of the mouse dorsal cortex with resolution ranging from 39 to 56μm. Stroboscopic illumination with blue and green LEDs allows fort he measurement of both fluorescence changes  due  to calcium  activity  and  reflectance  signals to  capture hemodynamic changes."
+13,6,"We have used the Mesoscope to successfully record mesoscale calcium activity across the dorsal cortex during sensory-evoked stimuli, open field behaviors, and social interactions."
+13,7,For this and other projects related to #Software #Behaviour #DataAnalysis #TutorialsLearningPortals visit https://openneuroscience.com
+130,0,Building a Simple and Versatile Illumination System for Optogenetic Experiments https://www.jove.com/t/61914/building-simple-versatile-illumination-system-for-optogenetic  ... 🧵
+130,1,Controlling biological processes using light has increased the accuracy and speed with which researchers can manipulate many biological processes.
+130,2,"Optical control allows for an unprecedented ability to dissect function and holds the potential for enabling novel genetic therapies. However, optogenetic experiments require adequate light sources with spatial, temporal, or intensity control, often a bottleneck for researchers."
+130,3,Here we detail how to build a low-cost and versatile LED illumination system that is easily customizable for different available optogenetic tools. This system is configurable for manual or computer control with adjustable LED intensity.
+130,4,"We provide an illustrated step-by-step guide for building the circuit, making it computer-controlled, and constructing the LEDs. To facilitate the assembly of this device, we also discuss some basic soldering techniques and explain the circuitry used to control the LEDs."
+130,5,"Using our open-source user interface, users can automate precise timing and pulsing of light on a personal computer (PC) or an inexpensive tablet. This automation makes the system useful for experiments that use LEDs to control genes, signaling pathways, and other cellular activities that span large time scales."
+130,6,"For this protocol, no prior expertise in electronics is required to build all the parts needed or to use the illumination system to perform optogenetic experiments."
+130,7,For this and other projects related to #DataAnalysis #Software #Fluorescence visit https://openneuroscience.com
+131,0,Pingouin https://pingouin-stats.org/  ... 🧵
+131,1,"Pingouin is an open-source statistical package written in Python 3 and based mostly on Pandas and NumPy. Some of its main features are listed below. For a full list of available functions, please refer to the API documentation."
+131,4,"* ANOVAs: N-ways, repeated measures, mixed, ancova * Pairwise post-hocs tests (parametric and non-parametric) and pairwise correlations * Robust, partial, distance and repeated measures correlations * Linear/logistic regression and mediation analysis * Bayes Factors * Multivariate tests * Reliability and consistency * Effect sizes and power analysis * Parametric/bootstrapped confidence intervals around an effect size or a correlation coefficient * Circular statistics * Chi-squared tests * Plotting: Bland-Altman plot, Q-Q plot, paired plot, robust correlation…  Pingouin is designed for users who want simple yet exhaustive stats functions."
+131,5,For this and other projects related to #Hardware #Software #Journal #Other visit https://openneuroscience.com
+132,0,YASA https://raphaelvallat.com/yasa/build/html/index.html  ... 🧵
+132,1,YASA (Yet Another Spindle Algorithm) is a command-line sleep analysis toolbox in Python. The main functions of YASA are:  * Automatic sleep staging of polysomnography data (see preprint article).
+132,2,"* Event detection: sleep spindles, slow-waves and rapid eye movements, on single or multi-channel EEG data. * Artefact rejection, on single or multi-channel EEG data. * Spectral analyses: bandpower, phase-amplitude coupling, 1/f slope, and more! * Hypnogram analysis: sleep statistics and stage tranisitions."
+132,3,"For more details, check out the API documentation, try the tutorial (Jupyter notebooks) or read the FAQ."
+132,4,For this and other projects related to #Hardware visit https://openneuroscience.com
+133,0,CASCADE: Calibrated inference of spiking from calcium ΔF/F data using deep networks https://github.com/HelmchenLabSoftware/Cascade  ... 🧵
+133,1,CASCADE translates calcium imaging ΔF/F traces into spiking probabilities or discrete spikes.
+133,2,"CASCADE is based on deep networks and runs on Python (Linux/Windows/Mac); it can be used either as a web application (Colaboratory notebook), or locally on a CPU or GPU. CASCADE therefore does not necessarily require any local installations, and it does not require any parameter tuning to different datasets."
+133,3,The algorithm is trained on a large ground truth database of simultaneous calcium imaging and cell-attached electrophysiological recordings (almost 300 neurons). The database is freely accessible and part of the Github repository.
+133,4,For this and other projects related to #DataRepositories #HumanNeuroscience visit https://openneuroscience.com
+134,0,DANNCE https://github.com/spoonsso/dannce/  ... 🧵
+134,1,DANNCE (3-Dimensional Aligned Neural Network for Computational Ethology) is a convolutional neural network (CNN) that calculates the 3D positions of user-defined anatomical landmarks on behaving animals from videos taken at multiple angles.
+134,2,"The key innovation of DANNCE compared to existing approaches for 2D keypoint detection in animals (e.g. LEAP, DeepLabCut) is that the network is fully 3D, so that it can learn about 3D image features and how cameras and landmarks relate to one another in 3D space."
+134,3,For this and other projects related to #Hardware visit https://openneuroscience.com
+135,0,COGAIN Association (COmmunication by GAze INteraction) https://www.cogain.org/  ... 🧵
+135,1,The COGAIN Association aims to promote research and development in the field of gaze-based interaction in computer-aided communication and control. Computer applications can be controlled by gazing at the computer screen.
+135,2,"For people with disabilities, gaze controlled applications have been largely used for communication, entertainment, education, and many other purposes."
+135,3,For this and other projects related to #HardwareOther visit https://openneuroscience.com
+136,0,CaImAn: open source scalable algorithms for calcium and voltage imaging data https://github.com/flatironinstitute/CaImAn  ... 🧵
+136,1,Advances in fluorescence microscopy enable monitoring larger brain areas in-vivo with finer time resolution.
+136,2,"The resulting data rates require reproducible analysis pipelines that are reliable, fully automated, and scalable to datasets generated over the course of months. We present CaImAn, an open-source library for calcium and voltage imaging data analysis."
+136,3,"CaImAn provides automatic and scalable methods to address problems common to pre-processing, including motion correction, neural activity identification, and registration across different sessions of data collection. It does this while requiring minimal user intervention, with good scalability on computers ranging from laptops to high-performance computing clusters."
+136,4,"CaImAn is suitable for two-photon and one-photon imaging, and also enables real-time analysis on streaming data."
+136,5,For this and other projects related to #Hardware #Benchtop #Computers #Software visit https://openneuroscience.com
+14,0,Open Source Eye Tracking https://hackaday.io/project/153293-low-cost-open-source-eye-tracking  ... 🧵
+14,1,"The purpose of this project is to convey a location in 3 dimensional space to a machine, hands free and in real time. Currently it is very difficult to control machines without making the user provide input with their hands."
+14,2,Additionally it can be very difficult to specify a location in space without a complex input device. This system provides a novel solution to this problem by allowing the user to specify a location simply by looking at it.
+14,3,"Normally eyetracking solutions are prohibitively expensive and not open source, limiting their use for creators to integrate them into new projects. This solution is fully open source, easy to build and will provide a huge variety of options for makers interested in using this fascinating and powerful technology."
+14,4,For this and other projects related to #Software #Behaviour #Hardware #Benchtop visit https://openneuroscience.com
+15,0,Sample Rotator Mixer and Shaker https://www.appropedia.org/Open_Source_Laboratory_Sample_Rotator_Mixer_and_Shaker  ... 🧵
+15,1,"An open-source 3-D printable laboratory sample rotator mixer is developed here in two variants that allow users to opt for the level of functionality, cost saving and associated complexity needed in their laboratories."
+15,2,"First, a laboratory sample rotator is designed and demonstrated that can be used for tumbling as well as gentle mixing of samples in a variety of tube sizes by mixing them horizontally, vertically, or any position in between. Changing the mixing angle is fast and convenient and requires no tools."
+15,3,"This device is battery powered and can be easily transported to operate in various locations in a lab including desktops, benches, clean hoods, chemical hoods, cold rooms, glove boxes, incubators or biological hoods."
+15,4,"Second, an on-board Arduino-based microcontroller is incorporated that adds the functionality of a laboratory sample shaker. These devices can be customized both mechanically and functionally as the user can simply select the operation mode on the switch or alter the code to perform custom experiments."
+15,5,The open source laboratory sample rotator mixer can be built by non-specialists for under US$30 and adding shaking functionality can be done for under $20 more.
+15,6,"Thus, these open source devices are technically superior to the proprietary commercial equipment available on the market while saving over 90% of the costs."
+15,7,For this and other projects related to #Software #AnimalElectrophysiology #CalciumImaging #BehaviourOther visit https://openneuroscience.com
+16,0,Open Source Syringe Pump Controller https://github.com/LaubachLab/OpenSourceSyringePump  ... 🧵
+16,1,"Syringe pumps are a necessary piece of laboratory equipment that are used for fluid delivery in behavioral neuroscience laboratories. Many experiments provide rodents and primates with fluid rewards such as juice, water, or liquid sucrose."
+16,2,Current commercialized syringe pumps are not customizable and do not have the ability to deliver multiple volumes of fluid based on different inputs to the pump.
+16,3,"Additionally, many syringe pumps are expensive and cannot be used in experiments with paired neurophysiological recordings due to electrical noise. We developed an open source syringe pump controller using commonly available parts. The controller adjusts the acceleration and speed of the motor to deliver three different volumes of fluid reward within one common time epoch."
+16,4,This syringe pump controller is cost effective and has been successfully implemented in rodent behavioral experiments with paired neurophysiological recordings in the rat frontal cortex while rats lick for different volumes of liquid sucrose rewards.
+16,5,Our syringe pump controller will enable new experiments to address the potential confound of temporal information in studies of reward signaling by fluid magnitude.
+16,6,For this and other projects related to #DataAnalysis #ComputationalNeuroscience #CalciumImaging #AnimalElectrophysiology visit https://openneuroscience.com
+17,0,SciDraw https://scidraw.io/  ... 🧵
+17,1,"SciDraw is a free repository of high quality drawings of animals, scientific setups, and anything that might be useful for scientific presentations and posters. We want this repository to be as open as possible, so do not require signing up to post a drawing."
+17,2,"This however means that you won't be able to edit your drawings after submission, so upload carefully! The drawings on SciDraw are made by and for scientists. You are free to download, modify and use all drawings on the website."
+17,3,For this and other projects related to #Software #Optogenetics #Behaviour #Hardware visit https://openneuroscience.com
+18,0,Deep Cinac https://gitlab.com/cossartlab/deepcinac  ... 🧵
+18,1,Two-photon calcium imaging is now widely used to infer neuronal dynamics from changes in fluorescence of an indicator.
+18,2,"However, state of the art computational tools are not optimized for the reliable detection of fluorescence transients from highly synchronous neurons located in densely packed regions such as the CA1 pyramidal layer of the hippocampus during early postnatal  stages  of  development. Indeed,the  latest  analytical  tools  often  lack  proper benchmark  measurements."
+18,3,"To  meet  this  challenge,  we  first  developed  a  graphical  user interface allowing for a precise manual detection of all calcium transients from imaged neurons based on the visualization of the calcium imaging movie."
+18,4,"Then, we analyzed the movies using a convolutional neural network with an attention process and a bidirectional long-short term memory network."
+18,5,This method is able to reach human performance and offers a better F1 score (harmonic mean of sensitivity and precision) than CaImAn to infer neural activity in the developingCA1 without any user intervention. It also enables automatically identifying activity originating from GABAergic neurons.
+18,6,"Overall, DeepCINAC offers a simple, fast and flexible open-source toolbox for processing a wide variety of calcium imaging datasets while providing the tools to evaluate its performance. See full text at https://www.biorxiv.org/content/10.1101/803726v2.full.pdf"
+18,7,For this and other projects related to #DataAnalysis #Software #TutorialsLearningPortals #DataRepositories visit https://openneuroscience.com
+19,0,OpenTrons https://opentrons.com/about  ... 🧵
+19,1,"Today, biologists spend too much time pipetting by hand. We think biologists should have robots to do pipetting for them. People doing science should be free of tedious benchwork and repetitive stress injuries."
+19,2,They should be able to spend their time designing experiments and analyzing data. That's why we started Opentrons. We make robots for biologists. Our mission is to provide the scientific community with a common platform to easily share protocols and reproduce each other's results.
+19,3,"Our robots automate experiments that would otherwise be done by hand, allowing our community to spend more time pursuing answers to some of the 21st century’s most important questions"
+19,4,For this and other projects related to #Software #DataAnalysis #DataRepositories #Computers visit https://openneuroscience.com
+2,0,Suite2P https://mouseland.github.io/suite2p/_build/html/index.html  ... 🧵
+2,1,"Suite2P is a very modular imaging processing pipeline written in Python which allows you to perform registration of raw data movies, automatic cell detection, extraction of calcium traces and infers spike times."
+2,2,It is a very fast and accurate tool and can work on standard workstations. It also includes a visualization graphical user interface (GUI) that facilitates analysis and manual curation of the cell detection algorithm.
+2,3,For this and other projects related to #Behaviour #DataAnalysis #Software #DataRepositories visit https://openneuroscience.com
+20,0,neuTube https://www.neutracing.com/  ... 🧵
+20,1,neuTube is an open source software for reconstructing neurons from fluorescence microscope images. It is easy to use and improves the efficiency of reconstructing neuron structures accurately.
+20,2,"The framework combines 2D/3D visualization, semi-automated tracing algorithms, and flexible editing options that simplify the task of neuron reconstruction."
+20,3,For this and other projects related to #Behaviour #Software visit https://openneuroscience.com
+21,0,neuTube https://www.neutracing.com/  ... 🧵
+21,1,neuTube is an open source software for reconstructing neurons from fluorescence microscope images. It is easy to use and improves the efficiency of reconstructing neuron structures accurately.
+21,2,"The framework combines 2D/3D visualization, semi-automated tracing algorithms, and flexible editing options that simplify the task of neuron reconstruction."
+21,3,For this and other projects related to #Hardware #Behaviour #Benchtop #Other visit https://openneuroscience.com
+22,0,FishCam https://www.sciencedirect.com/science/article/pii/S2468067220300195  ... 🧵
+22,1,"We describe the “FishCam”, a low-cost (500 USD) autonomous camera package to record videos and images underwater. The system is composed of easily accessible components and can be programmed to turn ON and OFF on customizable schedules."
+22,2,Its 8-megapixel camera module is capable of taking 3280 × 2464-pixel images and videos. An optional buzzer circuit inside the pressure housing allows synchronization of the video data from the FishCam with passive acoustic recorders.
+22,3,"Ten FishCam deployments were performed along the east coast of Vancouver Island, British Columbia, Canada, from January to December 2019. Field tests demonstrate that the proposed system can record up to 212 h of video data over a period of at least 14 days."
+22,4,"The FishCam data collected allowed us to identify fish species and observe species interactions and behaviors. The FishCam is an operational, easily-reproduced and inexpensive camera system that can help expand both the temporal and spatial coverage of underwater observations in ecological research."
+22,5,"With its low cost and simple design, it has the potential to be integrated into educational and citizen science projects, and to facilitate learning the basics of electronics and programming."
+22,6,For this and other projects related to #Software #DataAnalysis visit https://openneuroscience.com
+23,0,Addgene's AAV Data Hub https://datahub.addgene.org/aav/  ... 🧵
+23,1,"AAV are versatile tools used by neuroscientists for expression and manipulation of neurons. Many scientists have benefited from the high-quality, ready-to-use AAV prep service from Addgene, a nonprofit plasmid repository."
+23,2,"However, it can be challenging to determine which AAV tool and techniques are best to use for an experiment. Scientists also may have questions about how much virus to inject or which serotype or promoter should be used to target the desired neuron or brain region."
+23,4,"To help scientists answer these questions, Addgene launched an open platform called the AAV Data Hub (https://datahub.addgene.org/aav/) which allows researchers to easily share practical experimental details with the scientific community (AAV used, in vivo model used, injection site, injection volumes, etc.). The goal of this platform is to help scientists find the best AAV tool for their experiments by reviewing combined data from a broad range of research labs."
+23,5,The AAV Data Hub launched in late 2019 and over 100 experiments have since been contributed to this project. The dataset includes details and images from experiments conducted in six different species and several different expression sites.
+23,6,For this and other projects related to #Software #DataAnalysis #Other visit https://openneuroscience.com
+24,0,SpikeInterface https://github.com/SpikeInterface/spikeinterface  ... 🧵
+24,1,SpikeInterface is a unified Python framework for spike sorting.
+24,2,"With its high-level API, it is designed to be accessible and easy to use, allowing users to build full analysis pipelines for spike sorting (reading-writing (IO) / preprocessing / spike sorting / postprocessing / validation / curation / comparison / visualization) with a few lines of code."
+24,3,For this and other projects related to #Hardware #Software #Fluorescence visit https://openneuroscience.com
+25,0,LED Zappelin' https://github.com/BadenLab/LED-Zappelin  ... 🧵
+25,1,"Two-photon (2P) microscopy is a cornerstone technique in neuroscience research. However, combining 2P imaging with spectrally arbitrary light stimulation can be challenging due to crosstalk between stimulation light and fluorescence detection."
+25,2,"To overcome this limitation, we present a simple and low-cost electronic solution based on an ESP32 microcontroller and a TLC5947 LED driver to rapidly time-interleave stimulation and detection epochs during scans."
+25,3,"Implemented for less than $100, our design can independently drive up to 24 arbitrary spectrum LEDs to meet user requirements. We demonstrate the utility of our stimulator for colour vision experiments on the in vivo tetrachromatic zebrafish retina and for optogenetic circuit mapping in Drosophila."
+25,4,For this and other projects related to #Behaviour #Hardware #Software visit https://openneuroscience.com
+26,0,LED Zappelin' https://github.com/BadenLab/LED-Zappelin  ... 🧵
+26,1,"Two-photon (2P) microscopy is a cornerstone technique in neuroscience research. However, combining 2P imaging with spectrally arbitrary light stimulation can be challenging due to crosstalk between stimulation light and fluorescence detection."
+26,2,"To overcome this limitation, we present a simple and low-cost electronic solution based on an ESP32 microcontroller and a TLC5947 LED driver to rapidly time-interleave stimulation and detection epochs during scans."
+26,3,"Implemented for less than $100, our design can independently drive up to 24 arbitrary spectrum LEDs to meet user requirements. We demonstrate the utility of our stimulator for colour vision experiments on the in vivo tetrachromatic zebrafish retina and for optogenetic circuit mapping in Drosophila."
+26,4,For this and other projects related to #SoftwareDataAnalysis #MicroscopesMolecularBiology #TutorialsLearningPortals #Fluorescence visit https://openneuroscience.com
+27,0,DeepLabStream https://github.com/SchwarzNeuroconLab/DeepLabStream  ... 🧵
+27,1,"DeepLabStream is a python based multi-purpose tool that enables the realtime tracking of animals and manipulation of experiments. Our toolbox is adapted from the previously published DeepLabCut (Mathis et al., 2018) and expands on its core capabilities."
+27,2,"DeepLabStreams core feature is the real-time analysis using any type of camera-based video stream (incl. multiple streams). Building onto that, we designed a full experimental closed-loop toolkit."
+27,3,It enables running experimental protocols that are dependent on a constant stream of bodypart positions and feedback activation of several input/output devices. It's capabilities range from simple region of interest (ROI) based triggers to headdirection or behavior dependent stimulation.
+27,4,For this and other projects related to #Software #DataAnalysis #Computers visit https://openneuroscience.com
+28,0,Poseidon https://pachterlab.github.io/poseidon  ... 🧵
+28,1,The Poseidon is an open-source syringe pump and microscope system. It uses 3D printed parts and common components that can be easily purchased. It can be used in microfluidics experiments or other applications. You can assemble it in a short-time for under $400.
+28,2,"The system is modular and highly customizable. Examples of applications are: control the chemical environment of a bioreactor, purify proteins and precisely add reagents to chemical reactions over time."
+28,3,For this and other projects related to #Hardware #MolecularBiology #ElectricStimulation #Software visit https://openneuroscience.com
+29,0,Bonvision http://bonvision.github.io  ... 🧵
+29,1,BonVision is an open-source closed-loop visual environment generator developed by the Saleem Lab and Solomon Lab at the UCL Institute of Behavioural Neuroscience in collaboration with NeuroGEARS.
+29,3,"BonVision’s key features include:      Naturally closed-loop system based on reactive coding of the Bonsai framework     Handles 2D and 3D stimuli with equal ease     Visual environment generated independent of display configuration     Graphical programming language of the Bonsai framework     Can be used for Augmented Reality, Virtual Reality or 2D visual stimuli     Does not require the observer to be in a fixed position"
+29,4,For this and other projects related to #Software #ComputationalNeuroscience #DataAnalysis #HumanNeuroscience visit https://openneuroscience.com
+3,0,3D Slicer https://github.com/Slicer/Slicer  ... 🧵
+3,1,"3D Slicer is a software for medical image informatics, image processing, and three-dimensional visualization. It’s extremely powerful and versatile with plenty of different options."
+3,2,"It is a great tool for volume rendering, registration, interactive segmentation of images and even offers the possibility of running Python scripts thought an embedded Python interpreter."
+3,3,For this and other projects related to #Software #Computers #Simulations #ComputationalNeuroscience visit https://openneuroscience.com
+30,0,Bonsai https://bonsai-rx.org/  ... 🧵
+30,1,"Bonsai is a high-performance, easy to use, and flexible visual programming language for designing closed-loop neuroscience experiments combining physiology and behaviour data."
+30,2,Bonsai has allowed scientists with no previous programming experience to quickly develop their own experimental rigs and is also being increasingly used as a platform to integrate new open-source hardware and software from the experimental neuroscience community.
+30,3,For this and other projects related to #DataAnalysis visit https://openneuroscience.com
+31,0,Ethoscopes http://lab.gilest.ro/ethoscope  ... 🧵
+31,1,Ethoscopes are machines for high-throughput analysis of behavior in Drosophila and other animals. Ethoscopes provide a software and hardware solution that is reproducible and easily scalable.
+31,2,"They perform, in real-time, tracking and profiling of behavior by using a supervised machine learning algorithm, are able to deliver behaviorally triggered stimuli to flies in a feedback-loop mode, and are highly customizable and open source."
+31,3,Ethoscopes can be built easily by using 3D printing technology and rely on Raspberry Pi microcomputers and Arduino boards to provide affordable and flexible hardware.
+31,4,For this and other projects related to #Software #DataAnalysis #ComputationalNeuroscience visit https://openneuroscience.com
+32,0,A Cartesian Coordinate Robot for Dispensing Fruit Fly Food https://github.com/WaylandM/fly-food-robot  ... 🧵
+32,1,"The fruit fly, Drosophila melanogaster, continues to be one of the most widely used model organisms in biomedical research."
+32,2,"Though chosen for its ease of husbandry, maintaining large numbers of stocks of fruit flies, as done by many laboratories, is labour-intensive. One task which lends itself to automation is the production of the vials of food in which the flies are reared. Fly facilities typically have to generate several thousand vials of fly food each week to sustain their fly stocks."
+32,3,"The system presented here combines a cartesian coordinate robot with a peristaltic pump. The design of the robot is based on an open hardware CNC (computer numerical control) machine, and uses belt and pulley actuators for the X and Y axes, and a leadscrew actuator for the Z axis."
+32,4,"CNC motion and operation of the peristaltic pump are controlled by grbl (https://github.com/gnea/grbl), an open source, embedded, G-code parser. Grbl is written in optimized C and runs directly on an Arduino."
+32,5,"A Raspberry Pi is used to generate and stream G-code instructions to Grbl. A touch screen on the Raspberry Pi provides a graphical user interface to the system. Whilst the robot was built for the express purpose of filling vials of fly food, it could potentially be used for other liquid handling tasks in the laboratory."
+32,6,For this and other projects related to #ComputationalNeuroscience #DataAnalysis #Simulations #HumanNeuroscience visit https://openneuroscience.com
+33,0,Nilearn http://nilearn.github.io/  ... 🧵
+33,1,"Nilearn is a Python module for fast and easy statistical learning on NeuroImaging data. It leverages the scikit-learn Python toolbox for multivariate statistics with applications such as predictive modelling, classification, decoding, or connectivity analysis."
+33,2,For this and other projects related to #Software #Behaviour #DataAnalysis #Computers visit https://openneuroscience.com
+34,0,MNE-Python https://mne.tools  ... 🧵
+34,1,"MNE is a software package for processing electrophysiological signals primarily from magnetoencephalographic (MEG) and electroencephalographic (EEG) recordings, and more recently sEEG, ECoG and fNIRS."
+34,2,"It provides a comprehensive solution for data preprocessing, forward modeling (with boundary element models), distributed source imaging, time–frequency analysis, non-parametric multivariate statistics, multivariate pattern analysis, and connectivity estimation."
+34,3,"Importantly, this package allows all of these analyses to be applied in both sensor or source space. MNE is developed by an international team, with particular care for computational efficiency, code quality, and readability, as well as the common goal of facilitating reproducibility in neuroscience."
+34,4,For this and other projects related to #DataAnalysisTutorialsLearningPortals #HumanNeuroscience #ComputationalNeuroscience #Simulations visit https://openneuroscience.com
+35,0,DeepLabCut http://deeplabcut.org/  ... 🧵
+35,1,DeepLabCut™ is an efficient method for 3D markerless pose estimation based on transfer learning with deep neural networks that achieves excellent results (i.e. you can match human labeling accuracy) with minimal training data (typically 50-200 frames).
+35,2,"We demonstrate the versatility of this framework by tracking various body parts in multiple species across a broad collection of behaviors. The package is open source, fast, robust, and can be used to compute 3D pose estimates."
+35,3,Please see the original paper and the latest work below. This package is collaboratively developed by the Mathis Group & Mathis Lab at EPFL/Harvard. The code is freely available and easy to install in a few clicks with Anaconda (and pypi). Please see instructions on deeplabcut.org.
+35,4,"We also provide a very easy to use GUI interface, and a step-by-step user guide!"
+35,5,For this and other projects related to #DataRepositories #TutorialsLearningPortals #HumanNeuroscience #Other visit https://openneuroscience.com
+36,0,cellfinder https://github.com/SainsburyWellcomeCentre/cellfinder  ... 🧵
+36,1,cellfinder is software from the Margrie Lab at the Sainsbury Wellcome Centre for automated 3D cell detection and registration of whole-brain images (e.g. serial two-photon or lightsheet imaging).
+36,3,"It’s a work in progress, but cellfinder can:     - Detect labelled cells in 3D in whole-brain images (many hundreds of GB)    - Register the image to an atlas (such as the Allen Mouse Brain Atlas)    - Segment the brain based on the reference atlas    - Calculate the volume of each brain area, and the number of labelled cells within it    - Transform everything into standard space for analysis and visualisation"
+36,4,For this and other projects related to #TutorialsLearningPortals #HumanNeuroscience #HumanElectrophysiology #DataAnalysis visit https://openneuroscience.com
+37,0,An Open-source Anthropomorphic Robot Hand System: HRI Hand https://github.com/MrLacuqer/HRI-hand-firmware.git  ... 🧵
+37,1,We present an open-source anthropomorphic robot hand system called HRI hand. Our robot hand system was developed with a focus on the end-effector role of the collaborative robot manipulator.
+37,2,"HRI hand is a research platform that can be built at a lower price (approximately $500, using only 3D printing) than commercial end-effectors. Moreover, it was designed as a two four-bar linkage for the under-actuated mechanism and provides pre-shaping motion similar to the human hand prior to touching an object."
+37,3,"A URDF, python node, and rviz package is also provided to support the Robot Operating System (ROS). All hardware CAD design files and software source codes have been released and can be easily assembled and modified."
+37,4,"The system proposed in this paper is developed with a five-finger structure, but each finger is modularized, so it can be developed with end-effectors of various shapes depending on the shape of the palm."
+37,5,For this and other projects related to #TutorialsLearningPortals #ComputationalNeuroscience #HumanNeuroscience #HumanElectrophysiology visit https://openneuroscience.com
+38,0,Open Source Automated Western Blot Processor http://dx.doi.org/10.17632/xcvckyc9mh.1  ... 🧵
+38,1,Researchers in the biomedical area are always involved in methodologies comprising several processes that are repetitive and time-consuming; these researchers can take advantage of this time for other more important things.
+38,2,"For many years, the trend for this type of problem has been automation. One of the routine methodologies used by researchers in broad areas of basic investigation is the Western blot technique."
+38,3,This method allows the detection through specific antibodies and the eventual quantification of the protein of interest in different biological lysates transferred onto a suitable membrane. This methodology involves several repetitive processes; one of them is the washing of blots after incubations with primary and secondary antibodies.
+38,4,"The present device has been designed to automate this process at a low cost. Researchers must use several tools to carry out the same task at a much higher price, and more importantly, in a time-consuming process."
+38,5,"Although it is designed for the Western blot, it can be optimized for other cyclic tasks."
+38,6,For this and other projects related to #Software #Simulations #ComputationalNeuroscience visit https://openneuroscience.com
+39,0,OpenNeuro https://openneuro.org/  ... 🧵
+39,1,"A free and open platform for sharing MRI, MEG, EEG, iEEG, and ECoG data. With OpenNeuro, you can: - Browse and explore public datasets and analyses from a wide range of global contributors."
+39,3,"Our collection of public datasets continues to grow as more and more become BIDS compatible. - Download and use public data to create new datasets and run your own analyses. - Privately share your data so your colleagues can view and edit your work. - Publish your dataset where anyone can view, download, and run analyses on it. - Create snapshots of your datasets to ensure past analyses remain reproducible as your datasets grow and change."
+39,4,Publish any of your snapshots while you continue work on your original data behind the scenes. - Explore your published OpenNeuro dataset using BrainLife's computing network. Utilize their community driven apps to run a variety of analysis and processing software in the browser.
+39,5,For this and other projects related to #Behaviour #Hardware #CalciumImaging #AnimalElectrophysiology visit https://openneuroscience.com
+4,0,MicroscoPy https://github.com/IBM/MicroscoPy  ... 🧵
+4,1,"An open-source, motorized, and modular microscope built using LEGO bricks, Arduino, Raspberry Pi and 3D printing. The microscope uses a Raspberry Pi mini-computer with an 8MP camera to capture images and videos."
+4,2,"Stepper motors and the illumination are controlled using a circuit board comprising an Arduino microcontroller, six stepper motor drivers and a high-power LED driver."
+4,3,All functions can be controlled from a keyboard connected to the Raspberry Pi or a separate custom-built Arduino joystick connected to the mainboard. LEGO bricks are used to construct the main body of the microscope to achieve a modular and easy-to-assemble design concept.
+4,4,For this and other projects related to #Software #DataAnalysis visit https://openneuroscience.com
+40,0,Small cost efficient 3D printed peristaltic pumps https://www.sciencedirect.com/science/article/pii/S2468067220300249  ... 🧵
+40,1,"The project overall aim is to provide cost efficient solution to drive microfluidics systems for e.g. cell culture and organ on a chip applications. Pumps, valves and other accessories are ofter expensive to buy or very expensive to custom made."
+40,2,The 8-channel FAST pump is a 3D printed pump that uses some off the shelf parts (steel pins and ball bearings) and is easily fabricated and assembled. A step by step protocol is published (https://www.sciencedirect.com/science/article/pii/S2468067220300249).
+40,3,The link to the picture is from this publication. The pump is far cheaper and smaller  than commercial pumps and still has at least as good as or better pump performance. The 8-channel pump is excellent for use in parallel cell culture applications.
+40,4,For this and other projects related to #HumanNeuroscience #Hardware #HumanElectrophysiology #Software visit https://openneuroscience.com
+41,0,Stackable titre plates for organ on a chip applications https://onlinelibrary.wiley.com/doi/abs/10.1002/adbi.201900289  ... 🧵
+41,1,Organ on a chip is typically difficult to achieve due to large technical challenges such as fabrication of chips and systems and biological challenges such as co-culture of cells.
+41,2,"In this project we have developed a system to stack 12 well plates inserts on top of each other where each plate holds a tissue. We illustrated this approach by creating an intestine model in the top plate, a blood vessel model in the  middle plate and a liver model in the lower plate."
+41,3,"The respective insert contain specific cell types are developed independently and just before use, the plates are stacked on top of each other where in this case, the complete assembly models the first pass metabolism. The independent development  circumvent long term co-culture and medium incompatibilities."
+41,4,The plates are 3D printed in a biocompatible resin and modified with a disc of gelatine where cell are cultured either on top (epithelial and endothelial cells) or inside (hepatocytes).
+41,5,Hence there is diffusional communication from intestine to the lived provided that studies compounds can penetrate the respective barrier. The simple to use system can be modified with any cell type including stem cell organoids and likely neuronal cells.
+41,6,For this and other projects related to #SoftwareBehaviourHardware visit https://openneuroscience.com
+42,0,OpenDrop Digital Microfluidics Platform http://www.gaudi.ch/OpenDrop/  ... 🧵
+42,1,"OpenDrop a modular, open source digital microfludics platform for research purposes. The device uses recent electro-wetting technology to control small droplets of liquids."
+42,2,Potential applications are lab on a chip devices for automating processes of digital biology. The OpenDrop V4 is modular electrowetting controller. The driver board is equipped with a connector that can host a circuit board cartridge with a 14×8 electrode array and 4 reservoirs.
+42,3,"The liquids stay on a thin, hydrophobic foil laminated to the circuit board . The device is powered from USB though an included USB-C cable. All the voltage level are generated on the device and can be set with the built in soft menu from 150-300 Volts, DC or AC."
+42,5,"OpenDrop Cartridges The modular concepts of the OpenDrop V4 allows different configurations of cartridges: A gold coated electrode array board that can be coated with any dielectric layer and hydrophobic coating to make cartridges for topless digital microfluidic applications using readily available materials.The OpenDrop V4 Cartridge is a close-cell cartridge capable of “move, mix, split and reservoir dispensing”. The 4×8 electrode array and 4 reservoirs are laminated with a 15um ETFE foil, hydrophobic coating and ITO top cover."
+42,6,Programming The OpenDrop V4 can be operated standalone and droplets can be moved through the built in joystick. A control software to program sequences of patterns from a computer is available as a free download.
+42,7,The board is also compatible with Adafruit Feather M0 controller boards and can be reprogrammed through the free Arduino IDE for custom specific applications. A sample code with the instruction to activate electrodes can be found on the OpenDrop GitHub.
+42,8,"Features:     -  Modular Cartridge System     - Connector to connect electrode board with up to 128 channels     - Gold coated 14×8 electrodes array, 2.75 mm x 2.75 mm in size, 4mil gaps    -  Reservoirs – the new electrode array features 4 CT-type reservoirs    -  AC and DC voltage generated on the device form USB power."
+42,11,"True AC voltage driving capability (up to 300VAC).    -  32bit AVR SAMD21G18 microprocessor with plenty of memory and power     - Electronic settings for voltage level, frequency and AC/DC selection     - Electronic reading of actual voltage level     - One connector for communication and powering (USB-C)     - Optical isolation of the high-voltage electronics trough opto-couplers and PhotoMOS     - New polyphonic audio amplifier and speaker (it’s a synth!)     - Cartridge presence detection     - Feedback amplifier     - Super flat OLED Display     - Nice joystick and 2 buttons, 3 LEDs     - Reset button     - All files open source, designed on KiCAD"
+42,12,For this and other projects related to #SoftwareComputersDataAnalysisSimulationsComputationalNeuroscience visit https://openneuroscience.com
+43,0,Stytra https://github.com/portugueslab/stytra  ... 🧵
+43,1,"Stytra, a flexible, open-source software package, written in Python and designed to cover all the general requirements involved in larval zebrafish behavioral experiments."
+43,2,"It provides timed stimulus presentation, interfacing with external devices and simultaneous real-time tracking of behavioral parameters such as position, orientation, tail and eye motion in both freely-swimming and head-restrained preparations."
+43,3,"Stytra logs all recorded quantities, metadata, and code version in standardized formats to allow full provenance tracking, from data acquisition through analysis to publication. The package is modular and expandable for different experimental protocols and setups."
+43,4,"We also provide complete documentation with examples for extending the package to new stimuli and hardware, as well as a schema and parts list for behavioural setups. The software can be used in the context of calcium imaging experiments by interfacing with other acquisition devices."
+43,5,"Our aims are to enable more laboratories to easily implement behavioral experiments, as well as to provide a platform for sharing stimulus protocols that permits easy reproduction of experiments and straightforward validation."
+43,6,For this and other projects related to #Software #DataAnalysis #ComputationalNeuroscience #Other visit https://openneuroscience.com
+44,0,Neurodata Without Borders https://www.nwb.org/  ... 🧵
+44,1,"Neurodata Without Borders is a data standard for neurophysiology, providing neuroscientists with a common standard to share, archive, use, and build analysis tools for neurophysiology data."
+44,2,"NWB is designed to store a variety of neurophysiology data, including data from intracellular and extracellular electrophysiology experiments, data from optical physiology experiments, and tracking and stimulus data."
+44,3,The NWB team consists of neuroscientists and software developers who recognize that adoption of a unified data format is an important step toward breaking down the barriers to data sharing in neuroscience.
+44,4,For this and other projects related to #ComputationalNeuroscience #Simulations #Software #HumanNeuroscience visit https://openneuroscience.com
+45,0,DataJoint https://datajoint.io  ... 🧵
+45,1,DataJoint is an open-source library for managing and sharing scientific data pipelines in Python and Matlab.
+45,2,"DataJoint allows creating and sharing computational data pipelines, which are defined as databases and analysis code for executing steps of activities for data collection and analysis."
+45,3,"For example, many neuroscience studies are organized around DataJoint pipelines that start with basic information about the experiment, then ingest acquired data, and then perform processing, analysis, and visualization of results. The entire pipeline is diagrammed as a graph where each node is a table in the database with a corresponding class in the programming language; together they define the data structure and computations."
+45,6,"DataJoint key features include: - access to shared data pipelines in a relational database (MySQL-compatible) from Python, Matlab, or both. - data integrity and consistency based founded on the relational data model and transactions - an intuitive data definition language for pipeline design - a diagramming notation to visualize data structure and dependencies  - a serialization framework: storing large numerical arrays and other scientific data in a language-independent way  - a flexible query language to retrieve precise cross-sections of data in a desired format - automated  execution of computational jobs, with built-in job management for distributed computing - managed storage of large data objects outside the database"
+45,7,For this and other projects related to #Software #ComputationalNeuroscience #Simulations #HumanNeuroscience visit https://openneuroscience.com
+46,0,PiVR http://www.PiVR.org  ... 🧵
+46,1,PiVR is a system that allows experimenters to immerse small animals into virtual realities.
+46,2,"The system tracks the position of the animal and presents light stimulation according to predefined rules, thus creating a virtual landscape in which the animal can behave. By using optogenetics, we have used PiVR to present fruit fly larvae with virtual olfactory realities, adult fruit flies with a virtual gustatory reality and zebrafish larvae with a virtual light gradient."
+46,3,PiVR operates at high temporal resolution (70Hz) with low latencies (<30 milliseconds) while being affordable (<US$500) and easy to build (<6 hours).
+46,4,"Through extensive documentation (www.PiVR.org), this tool was designed to be accessible to a wide public, from high school students to professional researchers studying systems neuroscience in academia. The project is open source (BSD-3) and the documented code written in the freely available programming language Python."
+46,5,"We hope that PiVR will be adapted by advanced users for their particular needs, for example to create closed-loop experiments involving other sensory modalities (e.g., sound/vibration) through the use of PWM controllable devices. We envision PiVR to be used as the central module when creating virtual realities for a variety of sensory modalities."
+46,6,"This ‘PiVR module’ takes care of detecting the animal and presenting the appropriate PWM signal that is then picked up by the PWM controllable device installed by the user, for example to produce a sound whenever an animal enters a pre-defined region."
+46,7,"In short, PiVR is a powerful and affordable experimental platform allowing experimenters to create a wide array of virtual reality experiments."
+46,8,"Our hope is that PiVR will be adapted by several labs to democratize closed-loop experiments and, by standardizing image quality and the animal detection algorithm, increase reproducibility."
+46,9,For this and other projects related to #Software #ComputationalNeuroscience visit https://openneuroscience.com
+47,0,ReproNim A Center for Reproducible Neuroimaging Computation https://github.com/ReproNim  ... 🧵
+47,1,"ReproNim's goal is to improve the reproducibility of neuroimaging science and extend the value of our national investment in neuroimaging research, while making the process easier and more efficient for investigators."
+47,3,"ReproNim delivers a reproducible analysis framework comprised of components that include: 1) data and software discovery; 2) implementation of standardized description of data, results and workflows; 3) development of execution options that facilitates operation in all computational environments; 4)  provision of training and education to the community. All components of the framework are intended to foster continued use and development of the reproducible and generalizable framework in neuroimaging research."
+47,4,For this and other projects related to #Software #ComputationalNeuroscience visit https://openneuroscience.com
+48,0,Neuroimaging Informatics Tools and Resources Collaboratory NITRC http://www.nitrc.org  ... 🧵
+48,1,NeuroImaging Tools & Resources Collaboratory is an award-winning free web-based resource that offers comprehensive information on an ever expanding scope of neuroinformatics software and data.
+48,2,"Since debuting in 2007, NITRC has helped the neuroscience community make further discoveries using software and data produced from research that used to end up lost or disregarded."
+48,3,"NITRC also provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost. NITRC’s scientific focus includes: MR, PET/SPECT, CT, EEG/MEG, optical imaging, clinical neuroimaging, computational neuroscience, and imaging genomics software tools, data, and computational resources."
+48,4,"With NITRC and its components—the Resources Registry (NITRC-R), Image Repository (NITRC-IR), and Computational Environment (NITRC-CE)—a researcher can obtain pilot or proof-of-concept data to validate a hypothesis for just a few dollars."
+48,5,For this and other projects related to #Software #Simulations #ComputationalNeuroscience #ElectricStimulation visit https://openneuroscience.com
+49,0,Simple Behavioral Analysis SimBA https://github.com/sgoldenlab/simba  ... 🧵
+49,1,Several excellent computational frameworks exist that enable high-throughput and consistent tracking of freely moving unmarked animals.
+49,2,SimBA introduce and distribute a plug-and play pipeline that enables users to use these pose-estimation approaches in combination with behavioral annotation for the generation of supervised machine-learning behavioral predictive classifiers.
+49,3,"SimBA was developed for the analysis of complex social behaviors, but includes the flexibility for users to generate predictive classifiers across other behavioral modalities with minimal effort and no specialized computational background."
+49,4,"SimBA has a variety of extended functions for large scale batch video pre-processing, generating descriptive statistics from movement features, and interactive modules for user-defined regions of interest and visualizing classification probabilities and movement patterns."
+49,5,For this and other projects related to #Software #Hardware #Computers #Behaviour visit https://openneuroscience.com
+5,0,Craniobot https://www.labmaker.org/products/craniobot  ... 🧵
+5,1,The Craniobot is a cranial microsurgery platform that combines automated skull surface profiling with a computer numerical controlled (CNC) milling machine to perform a variety of cranial microsurgical procedures in mice.
+5,2,The Craniobot utilizes a low force contact sensor to profile the skull surface and uses this information to perform micrometer-scale precise milling operations within minutes.
+5,3,The procedure of removing the sub-millimeter thick mouse skull precisely without damaging the underlying brain can be technically challenging and often takes significant skill and practice. This can now be overcome using the Craniobot.
+5,4,For this and other projects related to #Software #DataAnalysis #HumanElectrophysiology #HumanNeuroscience visit https://openneuroscience.com
+50,0,SLEAP https://sleap.ai  ... 🧵
+50,1,SLEAP (Social LEAP Estimates Animal Poses) is a multi-animal pose tracker based on deep learning.
+50,2,"It is the successor of LEAP (Pereira et al., Nature Methods, 2019) and was designed to deal with the problem of tracking body landmarks of multiple freely interacting animals. Using deep learning, SLEAP trains neural network models from few user annotations to enable highly accurate body part localization, grouping and tracking."
+50,3,"It supports multiple neural network architectures, including pretrained state-of-the-art models and lightweight customizable architectures. SLEAP has been used successfully to track mice, fruit flies, bees and other species of animals under a variety of experimental and imaging conditions."
+50,4,"The software was designed to make it easy for users with no experience with deep learning through a fully featured GUI, as well as providing a rich functionality for advanced users seeking to develop a custom solution for their project."
+50,5,"Tutorials and guides are available on our website (https://sleap.ai) detailing steps for easy installation (Windows/Mac/Linux), labeling a new project, training on the locally or on the cloud, and tracking new data."
+50,6,For this and other projects related to #Hardware #Benchtop #Software visit https://openneuroscience.com
+51,0,PiDose https://osf.io/rpyfm/  ... 🧵
+51,1,PiDose is an open-source tool for scientists performing drug administration experiments with mice. It allows for automated daily oral dosing of mice over long time periods (weeks to months) without the need for experimenter interaction and handling.
+51,2,"To accomplish this, a small 3D-printed chamber is mounted adjacent to a regular mouse home-cage, with an opening in the cage to allow animals to freely access the chamber."
+51,3,"The chamber is supported by a load cell, and does not contact the cage but sits directly next to the entrance opening. Prior to treatment, mice have a small RFID capsule implanted subcutaneously, and when they enter the chamber they are detected by an RFID reader."
+51,4,"While the mouse is in the chamber, readings are taken from the load cell in order to determine the mouse's bodyweight. At the opposite end of the chamber from the entrance, a nose-poke port accesses a spout which dispenses drops from two separate liquid reservoirs."
+51,5,"This spout is wired to a capacitive touch sensor controller in order to detect licks, and delivers liquid drops in response to licking. Each day, an average weight is calculated for each mouse and a drug dosage is determined based on this."
+51,6,When a mouse licks at the spout it dispenses either regular drinking water or a drop of drug solution depending on if they have received their daily dosage or not. All components are controlled by a Python script running on a Raspberry Pi.
+51,7,For this and other projects related to #Software #DataAnalysis visit https://openneuroscience.com
+52,0,JASP https://jasp-stats.org/  ... 🧵
+52,1,"JASP is a cross-platform statistical software program with a state-of-the-art graphical user interface. The JASP interface allows you to conduct statistical analyses in seconds, and without having to learn programming or risking a programming mistake."
+52,2,"JASP is open-source and free of charge, and we provide it as a service to the community. JASP is statistically inclusive as it offers both frequentist and Bayesian analysis methods."
+52,3,For this and other projects related to #Software #Hardware #Behaviour #Computers visit https://openneuroscience.com
+53,0,brainrender https://github.com/BrancoLab/BrainRender  ... 🧵
+53,1,brainrender is a python package for the visualization of three dimensional neuro-anatomical data. It can be used to render data from publicly available data set (e.g. Allen Brain atlas) as well as user generated experimental data.
+53,2,The goal of brainrender is to facilitate the exploration and dissemination of neuro-anatomical data by providing a user-friendly platform to create high-quality 3D renderings.
+53,3,For this and other projects related to #Other #HumanNeuroscience visit https://openneuroscience.com
+54,0,pyPhotometry https://pyphotometry.readthedocs.io  ... 🧵
+54,2,"pyPhotometry is system of open source, Python based, hardware and software for neuroscience fiber photometry data acquisition, consisting of an acquisition board and graphical user interface.  pyPhotometry supports data aquisition from two analog and two digital inputs, and control of two LEDs via built in LED drivers with an adjustable 0-100mA output."
+54,3,The system supports time-division multiplexed illumination which allows fluoresence evoked by different excitation wavelengths to be independenly readout from a single photoreciever signal.
+54,4,For this and other projects related to #HumanNeuroscience #DataRepositories #DataAnalysis #Software visit https://openneuroscience.com
+55,0,pyControl https://pycontrol.readthedocs.io  ... 🧵
+55,2,"pyControl is a system of open source hardware and software for controlling behavioural experiments, built around the Micropython microcontroller.  pyControl makes it easy to program complex behavioural tasks using a clean, intuitive, and flexible syntax for specifying tasks as state machines. User created task definition files, written in Python, run directly on the microcontroller, supported by pyControl framework code."
+55,4,"This gives users the power and simplicity of Python for specifying task behaviour, while allowing advanced users low-level access to the microcontroller hardware.   pyControl hardware consists of a breakout board and a set of devices such as nose-pokes, audio boards, LED drivers, rotary encoders and stepper motor controllers that are connected to the breakout board to create behavioural setups."
+55,5,For this and other projects related to #Software #DataAnalysis #ComputationalNeuroscience visit https://openneuroscience.com
+56,0,WholeBrain https://github.com/tractatus/wholebrain/  ... 🧵
+56,1,WholeBrain is a software to create anatomical maps. With a code base in C/C++ with wrappers to R and JavaScript/WASM.
+56,2,"The purpose of WholeBrain is to provide a user-friendly and efficient way for scientist with minimal knowledge of computers to create anatomical maps and integrate this information with behavioral and physiological data for sharing on the web. WholeBrain is conceived and created by Daniel Fürth, CSHL. Quick question about something you think can be resolved quite fast?"
+56,3,Then just go to the gitter room and chat with me: https://gitter.im/tractatus/Lobby
+56,4,For this and other projects related to #ComputationalNeuroscience #Simulations #DataAnalysis #Software visit https://openneuroscience.com
+57,0,Brainglobe atlas API https://github.com/brainglobe/bg-atlasapi  ... 🧵
+57,1,Many excellent brain atlases exist for different species.
+57,2,"Some of them have an API (application programming interface) to allow users to interact with the data programmatically (e.g. the excellent Allen Mouse Brain Atlas), but many do not, and there is no consistent way to process data from multiple sources. The brainglobe atlas API (BG-AtlasAPI) deals with this problem by providing a common interface for programmers to download and process atlas data from multiple sources."
+57,3,For this and other projects related to #Software #HumanNeuroscience #Behaviour #Other visit https://openneuroscience.com
+58,0,culture_shock https://github.com/kanzure/culture_shock  ... 🧵
+58,1,"Culture Shock is an open-source electroporator that was developed through internet based collaboration, starting on the DIYbio Google Group."
+58,2,"It is an evolution on the traditional capacitive discharge circuit topology, instead using pulsed induction to enable a programmable waveform as well as reduce the size, weight, and cost of the equipment."
+58,3,"With all these benefits, we hope to reduce the burden of laboratory consumables for DNA transformation and electrofusion procedures, where chemical supplies are currently relied on. The added benefit of programmability allows many cell types to be manipulated by altering the voltage level, or even giving the voltage profile a particular shape."
+58,4,For this and other projects related to #Software #Behaviour #HumanNeuroscience #Other visit https://openneuroscience.com
+59,0,DIPY https://dipy.org  ... 🧵
+59,1,"DIPY is the paragon 3D/4D+ imaging library in Python. Contains generic methods for spatial normalization, signal processing, machine learning, statistical analysis and visualization of medical images."
+59,2,"Additionally, it contains specialized methods for computational anatomy including diffusion, perfusion and structural imaging."
+59,3,For this and other projects related to #Behaviour #Software #Optogenetics visit https://openneuroscience.com
+6,0,Labmaker https://www.labmaker.org/  ... 🧵
+6,1,"LabMaker is a maker and assembly service for OPEN SCIENCE instruments. OPEN SCIENCE initiatives provide part lists or ""Bill Of Materials"" (BOM) for openly available scientific instruments."
+6,2,"LabMaker bridges the gap between the BOM and the ready-to-use instrument for those not wanting to build by themselves. LabMaker is based in Berlin, Germany and ships worldwide."
+6,3,"Berlin, as a city, is not only amongst the frontrunners for the title ""start-up capital of Europe"", but also home to a large diversity of companies rooted in traditional precision manufacturing."
+6,4,For this and other projects related to #Optogenetics #Software #AnimalElectrophysiology #Behaviour visit https://openneuroscience.com
+60,0,NeuroFedora https://neuro.fedoraproject.org  ... 🧵
+60,1,"NeuroFedora is an initiative to provide a ready to use Fedora Linux based Free/Open source software platform for neuroscience. We believe that similar to Free software, science should be free for all to use, share, modify, and study."
+60,2,"The use of Free software also aids reproducibility, data sharing, and collaboration in the research community. By making the tools used in the scientific process easier to use, NeuroFedora aims to take a step to enable this ideal."
+60,3,For this and other projects related to #Behaviour #Hardware #AnimalElectrophysiology #Optogenetics visit https://openneuroscience.com
+61,0,OpenCitations http://opencitations.net/  ... 🧵
+61,1,OpenCitations is an independent infrastructure organization for open scholarship dedicated to the publication of open bibliographic and citation data by the use of Semantic Web (Linked Data) technologies.
+61,2,"It is also engaged in advocacy for open citations, particularly by organizing the Workshops for Open Citations and Scholarly Metadata, and in its role as a key founding member of the Initiative for Open Citations (I4OC) and the Initiative for Open Abstracts (I4OA)."
+61,3,OpenCitations espouses fully the founding principles of Open Science.
+61,4,"It complies with the FAIR data principles by Force11 that data should be findable, accessible, interoperable and re-usable, and it complies with the recommendations of I4OC that citation data in particular should be structured, separable, and open. On the latter topic, OpenCitations has recently published a formal definition of an Open Citation, and has launched a system for globally unique and persistent identifiers (PIDs) for bibliographic citations – Open Citation Identifiers (OCIs)."
+61,5,"The following publication is the canonical publication describing OpenCitations itself, as an infrastructure organization for open scholarship. The article describes OpenCitations and its datasets, tools, services and activities. Silvio Peroni, David Shotton (2020)."
+61,6,"OpenCitations, an infrastructure organization for open scholarship."
+61,7,"Quantitative Science Studies, 1(1): 428-444. https://doi.org/10.1162/qss_a_00023  The OpenCitations Data Model (OCDM) is the metadata model used for the data stored in all the OpenCitations' datasets, described in   Marilena Daquino, Silvio Peroni, David Shotton (2020). The OpenCitations Data Model. Figshare. https://doi.org/10.6084/m9.figshare.3443876."
+61,8,"The largest dataset created by OpenCitations is COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations, an RDF dataset containing details of all the citations that are specified by the open references to DOI-identified works present in Crossref."
+61,9,"COCI does not index Crossref references that are not open, nor Crossref open references to entities that lack DOIs. The citations available in COCI are treated as first-class data entities, with accompanying properties including the citations timespan, modelled according to the OpenCitations Data Model."
+61,10,"Currently, COCI contains information concerning 733,367,140 citations, and 59,455,917 bibliographic resources. COCI was most recently updated on 6 September 2020. For an in-depth description of COCI, see:  Ivan Heibi, Silvio Peroni, David Shotton (2019)."
+61,11,"Software review: COCI, the OpenCitations Index of Crossref open DOI-to-DOI citations. Scientometrics, 121 (2): 1213-1228. https://doi.org/10.1007/s11192-019-03217-6"
+61,12,For this and other projects related to #Software #Computers #Behaviour visit https://openneuroscience.com
+62,0,MorphoPy A python package for feature extraction of neural morphologies https://github.com/berenslab/MorphoPy  ... 🧵
+62,1,MorphoPy is an open software package written in Python3 that allows for visualization and processing of morphological reconstructions of neural data.
+62,2,"It has been created to facilitate the translation from morphology graphs into descriptive features like density maps, morphometric statistics, and persistence diagrams for down-stream exploration and statistical analysis."
+62,3,For this and other projects related to #Software #DataAnalysis #ComputationalNeuroscience visit https://openneuroscience.com
+63,0,Open Source Brain http://www.opensourcebrain.org/  ... 🧵
+63,1,"Open Source Brain, a platform for sharing, viewing, analyzing, and simulating standardized models from different brain regions and species."
+63,2,"Model structure and parameters can be automatically visualized and their dynamical properties explored through browser-based simulations. Infrastructure and tools for collaborative interaction, development, and testing are also provided."
+63,3,For this and other projects related to #Hardware #Microscopes #MolecularBiologyCalciumImagingFluorescenceOther visit https://openneuroscience.com
+64,0,FastTrack https://github.com/FastTrackOrg/FastTrack  ... 🧵
+64,1,"FastTrack is an open-source cross-platform tracking software. Easy to install and easy to use, it can track a large variety of systems from active particles to animals, with a known or unknown number of objects."
+64,2,It can process movies from any quality on low-end to high-end computers.
+64,3,"Two main features are implemented in the software:     - A fast and automatic tracking algorithm that can detect and track objects, conserving the objects' identities across the video recording.     - A manual tool to review the tracking where errors can be corrected rapidly and easily to achieve 100% accuracy with a minimum of efforts. FastTrack do not require coding abilities to be used."
+64,4,A developer documentation is available for users who want to embed FastTrack tracking algorithm directly inside their projects.
+64,5,For this and other projects related to #Behaviour #Hardware visit https://openneuroscience.com
+65,0,INCF TrainingSpace https://training.incf.org  ... 🧵
+65,2,"TrainingSpace is an online hub that aims to make neuroscience educational materials more accessible to the global neuroscience community developed by the Training and Education Committee composed of members from the INCF network, HBP, SfN, FENS, IBRO, IEEE, BD2K, and iNeuro Initiative."
+65,4,"As a hub, TrainingSpace provides users with access to:  * Multimedia educational content from courses, conference lectures, and laboratory exercises from some of the world’s leading neuroscience institutes and societies * Study tracks to facilitate self-guided study * Tutorials on tools and open science resources for neuroscience research * A Q&A forum  * A neuroscience encyclopedia that provides users with access to over 1.000.000 publicly available datasets as well as links to literature references and scientific abstracts  Topics currently included in TrainingSpace include: general neuroscience, clinical neuroscience, computational neuroscience, neuroinformatics, computer science, data science, and open science."
+65,6,"All courses and conference lectures in TrainingSpace include a general description, topics covered, links to prerequisite courses if applicable, and links to software described in or required for the course, as well as links to the next lecture in the course or more advanced related courses. In addition to providing resources for students and researchers, TrainingSpace also provides resources for instructors, such laboratory exercises, open science services, and access to publicly available datasets and models."
+65,7,For this and other projects related to #Software #Hardware #Optogenetics #AnimalElectrophysiology visit https://openneuroscience.com
+66,0,INCF KnowledgeSpace https://knowledge-space.org  ... 🧵
+66,1,"KnowledgeSpace aims to be a globally-used, community-based, data-driven encyclopedia for neuroscience that links brain research concepts to data, models, and the literature that support them."
+66,2,Further it aims to serve as a framework where large-scale neuroscience projects can expose their data to the neuroscience community-at-large. KnowledgeSpace is a framework that combines general descriptions of neuroscience concepts found in wikipedia with more detailed content from NeuroLex.
+66,3,It then integrates the content from those two sources with the latest neuroscience citations found in PubMed and data found in some of the world’s leading neuroscience repositories.
+66,4,"KnowledgeSpace is a joint development between the Human Brain Project (HBP), the International Neuroinformatics Coordinating Facility (INCF), and the Neuroscience Information Framework (NIF). KnowledgeSpace is currently being developed with funding from the European Union's Horizon 2020 Framework Programme for Research and Innovation under the Specific Grant Agreement No."
+66,5,"945539 (Human Brain Project SGA3), INCF, and Neuroscience Information Framework (NIF). Earlier development was supported by the European Union's Horizon 2020 Framework Programme for Research and Innovation under the Framework Partnership Agreement No."
+66,6,"650003 (HBP FPA), INCF, NIF, and the Blue Brain Project. KS builds on a vocabulary service, populated with an integrated set of neuroscience ontologies with initial content coming from the Neuroscience Lexicon (NeuroLex), and the Brain Architecture Management System (BAMS)."
+66,7,It links to an expanding set of data sources through the NIF federated search infrastructure.
+66,8,For this and other projects related to #DataAnalysis #Software visit https://openneuroscience.com
+67,0,INCF Portal https://www.incf.org  ... 🧵
+67,1,The INCF portal is the guide to the INCF activities and its community resources.
+67,4,"INCF advances data reuse and reproducibility in brain research by coordinating the development of Open, FAIR, and Citable tools and resources for neuroscience  The global INCF network * supports the development of neuroinformatics as a discipline  * moves neuroscience towards FORCE (a FAIR, Open, Research-object based, Citable Ecosystem) * provides coordination of global neuroscience infrastructure through the development and endorsement of consensus-based standards and best practices  * trains scientists, administrators, and students in using neuroinformatics tools and methods   INCF provides materials, expertise, training, and standards and best practices for: 1) scientists seeking to improve their science through neuroinformatics, 2) infrastructure providers so they can do their jobs better and participate in the global network, and 3) those seeking to add their tools, services, and expertise to the INCF network."
+67,5,"INCF currently has Governing and Associate Nodes spanning 4 continents, with an extended network comprising organizations, individual researchers, industry, and publishers."
+67,6,"The INCF Secretariat supports the Nodes with outreach, project management, and administration of community-driven projects. You can join the INCF network: https://www.incf.org/join-incf"
+67,7,For this and other projects related to #Software #DataAnalysis #HumanElectrophysiology #HumanNeuroscience visit https://openneuroscience.com
+68,0,INCF NeuroStars https://neurostars.org  ... 🧵
+68,2,"Neurostars is an open source question and answer site that serves the INCF network and the global neuroscience community as a forum for knowledge exchange between neuroscience researchers at all levels of expertise, software developers, and infrastructure providers. Access to Neurostars is free to the neuroscience community thanks to the generous support of our sponsors."
+68,5,"Neurostars is a forum for research questions, software, infrastructure, scientific societies, and virtual courses, including:  * Software developers and infrastructure providers in need of a mechanism in which to engage and provide support to user communities and those in need of a platform to integrate tutorials and discussion forums (via INCF TrainingSpace) * Scientific societies in need of a forum for knowledge exchange and support between members * Virtual course organizers in need of an archivable Q & A forum to support learning in their courses where access can be restricted to registered participants with automated notifications and the ability to have multiple, linked subdiscussion groups * Individuals in need of sharing ideas, asking questions and finding answers, and helping others within neuroscience without any cost"
+68,6,For this and other projects related to #ComputationalNeuroscience #Simulations #DataAnalysis #Software visit https://openneuroscience.com
+69,0,PsychRNN An Accessible and Flexible Python Package for Training Recurrent Neural Network Models on Cognitive Tasks https://github.com/murraylab/PsychRNN  ... 🧵
+69,1,PsychRNN is designed for neuroscientists and psychologists who are interested in RNNs as models of cognitive function in the brain.
+69,2,"Despite growing interest in RNNs as models of brain function, this approach poses relatively high barriers to entry to researchers, due to the technical know-how required for specialized deep learning software (e.g. TensorFlow or PyTorch) to train artificial neural network models. We designed PsychRNN with accessibility and flexibility as important goals."
+69,3,"The frontend for users to define tasks and train RNNs uses only Python & NumPy, with no requirement for deep learning software. The backend, based on TensorFlow for model training, is readily extensible."
+69,4,"This design allows for accessible high-level specification and parameterization of tasks and models, using only a few lines of Python. Modularity is central to PsychRNN's design, to achieve flexibility in defining and parameterizing tasks and networks."
+69,5,This facilitates investigation of how task features (e.g. timing or input/output channels) shape the network solutions learned by the models.
+69,6,"PsychRNN also provides support for implementation of neurobiologically motivated constraints on synaptic connectivity, such as: no autapses, structured connectivity (e.g. for multi-region RNNs), Dale's principle (separate excitatory & inhibitory cells), and fixed nonplastic subset of synapses. Modularity enables implementation of curriculum learning, or task shaping. RNNs can be trained in closed-loop, with tasks progressively adjusted as behavioral performance improves."
+69,7,"This is more similar to animal training, for investigation of how shaping impacts neural solutions.."
+69,8,For this and other projects related to #Software #HumanNeuroscience #Behaviour #Computers visit https://openneuroscience.com
+7,0,UC2 https://useetoo.org  ... 🧵
+7,1,"The open-source optical toolbox UC2 [YouSeeToo] simplifies the process of building optical setups, by combining 3D-printed cubes, each holding a specific component (e.g. lens, mirror) on a magnetic square-grid baseplate."
+7,2,"The use of widely available consumables and 3D printing, together with documentation and software, offers an extremely low-cost and accessible alternative for both education and research areas. In order to reduce the entry barrier, we provide a fully comprehensive toolbox called TheBOX."
+7,3,A paper describing the scientific application in detail can be found [here](https://www.biorxiv.org/content/10.1101/2020.03.02.973073v1).
+7,4,For this and other projects related to #Software #DataAnalysis #MolecularBiology visit https://openneuroscience.com
+70,0,Mouse VR https://github.com/HarveyLab/mouseVR  ... 🧵
+70,1,Harvey Lab miniaturized mouse VR rig for head-fixed virtual navigation and decision-making tasks. The VR setup is comprised of several independent assemblies:  The screen assembly: a laser projector projects onto a parabolic screen surrounding the mouse.
+70,2,This is the basis for the visual virtual reality.
+70,3,"Ball cup assembly: an air-supported 8"" styrofoam ball that the mouse can run on, with associated ball cup, sensors, and electronics  Reward delivery system and lick sensor: lick spout, liquid reward reservoir, solenoid, and associated electronics  Enclosure: A box surrounding the behavioral setup. Each of these components is independent of the others: i.e. just the screen could be used in combination with a different treadmill and reward delivery system."
+70,4,"The electronics for the ball sensors, reward delivery, and lick detection are all mounted on the same PCB. If only one or two of these functions are needed, you do not need to populate the entire PCB."
+70,5,"The screen assembly is designed to be small enough to be mounted within a standard 19"" server rack, which could easily fit 3 rigs stacked vertically (or two + monitor and keyboard station)."
+70,6,For this and other projects related to #Behaviour #Hardware visit https://openneuroscience.com
+71,0,BrainSMASH https://github.com/murraylab/brainsmash  ... 🧵
+71,1,BrainSMASH is a Python-based framework for quantifying the significance of a brain map’s spatial topography in studies of large-scale brain organization.
+71,2,BrainSMASH was designed to generate synthetic brain maps with spatial autocorrelation (SA) matched to the SA of a target brain map. SA is a prominent and ubiquitous property of brain maps that violates the assumptions of independence/exchangeability that underlie many conventional statistical tests.
+71,3,Controlling for this property is therefore necessary to disambiguate meaningful topographic relationships from chance associations.
+71,4,"To this end, BrainSMASH instantiates a generative null model for simulating surrogate brain maps, constrained by empirical data, that preserve the SA of cortical (surface-based), subcortical (volumetric), parcellated, and dense brain maps. BrainSMASH requires only two inputs: a brain map of interest, and a matrix of pairwise distances between elements of the brain map."
+71,5,"How these inputs are derived is left to user discretion, though additional support has been provided for investigators working with HCP-compliant neuroimaging files."
+71,6,"Specifically, BrainSMASH includes routines to generate two-dimensional Euclidean and geodesic distance matrices from surface geometry (GIFTI) files, and subcortical Euclidean distance matrices from CIFTI-format neuroimaging files. Detailed documentation for BrainSMASH can be found at https://brainsmash.readthedocs.io/."
+71,7,For this and other projects related to #CalciumImaging #Microscopes #Fluorescence #Hardware visit https://openneuroscience.com
+72,0,EmotiBit https://www.emotibit.com/  ... 🧵
+72,1,"EmotiBit is a wearable sensor to capture high-quality emotional, physiological, and movement data from just about anywhere on the body."
+72,2,For this and other projects related to #Software #DataAnalysis #AnimalElectrophysiology #ComputationalNeuroscience visit https://openneuroscience.com
+73,0,The home cage automated skilled reaching apparatus HASRA individualized training of group housed mice in a single pellet reaching task https://github.com/SilasiLab/HASRAv2  ... 🧵
+73,1,We developed an automated apparatus and single pellet reach training paradigm for group housed mice within the home cage.
+73,2,"This task allows individualized training progression and handedness of presentation for each mouse, minimizes stress induced by experimenter interaction, and enables experiments and data collection on a massive scale, previously impossible due to the demands of one-on-one behavioral testing."
+73,3,"We demonstrate an optimized set of task parameters and the utility of this apparatus for assessing lesion-induced motor impairments. Herein, we provide an open-source, scalable, platform for training and assessing skilled reaching in mice with minimal need for experimenter handling that is equivalent to gold-standard, manual single pellet training paradigms."
+73,4,For this and other projects related to #DataAnalysis #Software #DataRepositories #AnimalElectrophysiology visit https://openneuroscience.com
+74,0,Self Organizing Recurrent Neural Networks https://github.com/Saran-nns/sorn  ... 🧵
+74,2,"SORN is a class of neuro-inspired artificial network build based on plasticity mechanisms in biological brain and mimic neocortical circuits ability of learning and adaptation through neuroplasticity mechanisms. sorn is an open source PyPi package provides platform to Develop, Simulating and Experiment Neuro-plasticity driven Self Organizing Recurrent Neural Networks."
+74,3,"In addition to various data analysis methods (spike trains, neural connectivity, distance measures,. etc), a sample workaround to integrate sorn with 3rd party AI experiment tool-kit OpenAI Gym is also provided. This allows the researchers to investigate the prospects of applying brain inspired networks to solve general intelligence tasks."
+74,4,For this and other projects related to #Hardware #Behaviour #Optogenetics #Software visit https://openneuroscience.com
+75,0,BigPint Bioconductor package that makes BIG (RNA seq) data pint sized https://github.com/lindsayrutter/bigPint  ... 🧵
+75,1,"The BigPint package can help examine any large multivariate dataset. However, we note that the example datasets and example code in this package consider RNA-sequencing datasets."
+75,2,"If you are using this software for RNA-sequencing data, then it can help you confirm that the variability between your treatment groups is larger than that between your replicates and determine how various normalization techniques in popular RNA-sequencing analysis packages (such as edgeR, DESeq2, and limma) affect your dataset."
+75,3,"Moreover, you can easily superimpose lists of differentially expressed genes (DEGs) onto your dataset to check that they show the expected patterns (large variability between treatment groups and small variability between replicates)."
+75,5,1) BigPint software website: https://lindsayrutter.github.io/bigPint/  2) Article explaining the BigPint methodology: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2968-1  3) Research article showcasing the BigPint software: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5767-1  4) Article explaining the BigPint software: https://journals.plos.org/ploscompbiol/article? id=10.1371/journal.pcbi.1007912
+75,6,For this and other projects related to #Optogenetics #Software #Hardware #TutorialsLearningPortals visit https://openneuroscience.com
+76,0,Computational Cognitive Neuroscience 4th Ed https://compcogneuro.org  ... 🧵
+76,2,"This is the 4th edition of the online, freely available textbook, providing a complete, self-contained introduction to the field of Computational Cognitive Neuroscience, where computer models of the brain are used to understand a wide range of cognitive functions, including perception, attention, motor control, learning, memory, language, and executive function."
+76,3,"The first part of this textbook develops a coherent set of computational and neural principles that capture the behavior of networks of interconnected neurons, and the second part applies these principles to understand the above-listed cognitive functions."
+76,4,For this and other projects related to #Other #Other #Other #Other visit https://openneuroscience.com
+77,0,Emergent Neural Network Simulation Software https://github.com/emer/emergent  ... 🧵
+77,1,"Neural network simulation software written in Go and Python, for developing biologically-based but also computationally functional neural models."
+77,2,"Features an interactive 3D interface for visualizing networks and data, and has many implemented models of a wide range of cognitive phenomena."
+77,3,For this and other projects related to #Hardware #Benchtop visit https://openneuroscience.com
+78,0,Uncertainpy A python toolbox for uncertainty quantification and sensitivity analysis tailored towards computational neuroscience https://github.com/simetenn/uncertainpy  ... 🧵
+78,1,Uncertainpy is a python toolbox for uncertainty quantification and sensitivity analysis tailored towards computational neuroscience. Uncertainpy is model independent and treats the model as a black box where the model can be left unchanged.
+78,2,Uncertainpy implements both quasi-Monte Carlo methods and polynomial chaos expansions using either point collocation or the pseudo-spectral method. Both of the polynomial chaos expansion methods have support for the rosenblatt transformation to handle dependent input parameters.
+78,3,"Uncertainpy is feature based, i.e., if applicable, it recognizes and calculates the uncertainty in features of the model, as well as the model itself. Examples of features in neuroscience can be spike timing and the action potential shape."
+78,4,"Uncertainpy is tailored towards neuroscience models, and comes with several common neuroscience models and features built in, but new models and features can easily be implemented."
+78,5,"It should be noted that while Uncertainpy is tailored towards neuroscience, the implemented methods are general, and Uncertainpy can be used for many other types of models and features within other fields."
+78,6,For this and other projects related to #DataRepositories #ComputationalNeuroscience #DataAnalysis #Simulations visit https://openneuroscience.com
+79,0,YAPiC https://yapic.github.io/yapic/  ... 🧵
+79,1,"With YAPiC you can make your own customized filter (also called model or classifier) to enhance a certain structure of your choice with a simple Python based command line interface, installable with pip."
+79,2,"We have used YAPiC so far for analyzing various microscopy image data. Our experiments are mainly related to neurobiology, cell biology, histopathology and drug discovery (high content screening). However, YAPiC is a very generally applicable tool and can be applied to very different domains."
+79,3,"It could be used for detecting e.g. forest regions in satellite images, clouds in landscape photographs or fried eggs in food photography. Pixel classification in YAPiC is based on deep learning wit fully convolutional neural networks."
+79,4,"Development of YAPiC started in 2015, when Ronneberger et al. presented a U-shaped fully convolutional neural network that was capable of solving highly challenging pixel classification tasks in bio images, such as tumor classification in histological slides or cell segmentation in brightfield DIC images."
+79,5,"YAPiC was designed to make this new kind of AI powered pixel classification simply applicable, i.e feasible to use for a PhD student in his/her imaging project."
+79,6,For this and other projects related to #DataAnalysis #HumanNeuroscience #Software visit https://openneuroscience.com
+8,0,Neuroanatomy and Behaviour https://epistemehealth.com  ... 🧵
+8,1,Neuroanatomy and Behaviour (ISSN: 2652-1768) is a free open access journal for behavioural neuroscience and related fields. Powered by free open source software to eliminate costs and keep grant funds doing science. Scientist-run and non-profit.
+8,2,For this and other projects related to #ComputationalNeuroscience #DataAnalysis #Software visit https://openneuroscience.com
+80,0,neurolib https://github.com/neurolib-dev/neurolib  ... 🧵
+80,1,"Easy whole-brain modeling for computational neuroscientists 👩🏿‍🔬💻🧠  In its essence, neurolib is a computational framework for simulating coupled neural mass models written in Python."
+80,2,It helps you to easily load structural brain scan data to construct brain networks where each node is a neural mass representing a single brain area.
+80,3,"This network model can be used to simulate whole-brain dynamics.  neurolib provides a simulation and optimization framework which allows you to easily implement your own neural mass model, simulate fMRI BOLD activity, analyse the results and fit your model to empirical data. With neurolib, our goal is to create a hackable framework for coders and focus on the simulation and optimization machinery."
+80,4,"In this sense, neurolib is primarily a modern research tool and our main goal is to provide an accessible research framework. However, it is built with people in mind who are new to the field and just want to get going."
+80,5,We have made it as easy as possible to setup a simulation or to implement your own model and run your experiments.
+80,6,For this and other projects related to #Hardware #MolecularBiology #Microscopes visit https://openneuroscience.com
+81,0,Computer-controlled dog treat dispenser https://github.com/unl-cchil/canine_treat_dispenser  ... 🧵
+81,1,"When performing canine operant conditioning studies, the delivery of the reward can be a limiting factor of the study."
+81,2,"While there are a few commercially available options for automatically delivering rewards, they generally require manual input, such as using a remote control, in accordance with the experiment script. This means that human reaction times and transmission distances can cause interruptions to the flow of the experiment."
+81,3,"The potential for development of non-supervised conditioning studies is limited by this same factor. To remedy this, we retrofitted an off-the-shelf treat dispenser with new electronics that allow it to be remotely controllable as well as act as an experiment computation, data storage, and networking center."
+81,4,"We present a fully integrated dispenser driver board with a complementary Raspberry Pi. With rather simple modifications, the commercial treat dispenser can be modified into a computer-controlled dispenser for canine cognition experiments or for other forms of canine training or games."
+81,5,For this and other projects related to #TutorialsLearningPortals #ComputationalNeuroscience visit https://openneuroscience.com
+82,0,ERPLAB https://github.com/lucklab/erplab  ... 🧵
+82,1,"ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data. It is tightly integrated with EEGLAB Toolbox, extending EEGLAB’s capabilities to provide robust, industrial-strength tools for ERP processing, visualization, and analysis."
+82,2,"A graphical user interface makes it easy for beginners to learn, and Matlab scripting provides enormous power for intermediate and advanced users."
+82,3,For this and other projects related to #Software #HumanNeuroscience #DataAnalysis #ComputationalNeuroscience visit https://openneuroscience.com
+83,0,PocketPCR-Pocket size USB powered PCR Thermo Cycler http://gaudi.ch/PocketPCR/  ... 🧵
+83,1,The PocketPCR is a so called thermocycler used to activate biological reactions. To do so the device raises and lowers the temperature of the liquid in the small tubes.
+83,2,"The polymerase chain reaction (PCR) is a method widely used in molecular biology to make copies of a specific DNA segment. Applications of the technique include DNA cloning for sequencing, analysis of genetic fingerprints, amplification of ancient DNA and gene cloning. Simpler, smaller and more affordable."
+83,3,This ultra portable and compact thermocycler was designed with the goal to bring the cost down to affordable price for anyone who wants to do some Do-It-Your-Self biology with a DNA starter kit in his kitchen. The PocketPCR can be run from a simple USB power adapter.
+83,4,The device can be operated stand alone and all parameters can be set without the need of a computer or smartphone.
+83,5,For this and other projects related to #Hardware #Prosthetics #HumanNeuroscience #Other visit https://openneuroscience.com
+84,0,TGAC Browser http://browser.tgac.ac.uk/  ... 🧵
+84,1,The TGAC Browser is a Genomic Browser with novel rendering and annotation capabilities designed to overcome some shortcomings in available approaches. It was developed to visualize genome annotations from Ensembl Database Schema.
+84,2,"The TGAC Browser provides the following features:  Responsiveness: Client-side rendering and caching, based on JSON fragments generated by server logic, helps decrease the server load and improves user experience."
+84,3,"User-friendly browser Interaction: Live data searching, track modification, and drag and drop selection; actions that are seamlessly powered by modern web browsers. Analysis Integration: The ability to carry out heavyweight analysis tasks, using tools such as BLAST, via a dedicated extensible daemon service."
+84,4,"User Annotation: Users can edit annotations which can be persisted on the server, reloaded, and shared at a later date. Off-the-shelf Installation: The only prerequisites are a web application container, such as Jetty or Tomcat, and a standard Ensembl database to host sequence features."
+84,5,For this and other projects related to #Behaviour #Software #Hardware #Benchtop visit https://openneuroscience.com
+85,0,openEyeTrack - An open source high-speed eyetracker https://github.com/chand-lab/openEyeTrack  ... 🧵
+85,1,"Vision is one of the primary senses, and tracking eye gaze can offer insight into the cues that affect decision-making behavior. Thus, to study decision-making and other cognitive processes, it is fundamentally necessary to track eye position accurately."
+85,2,"However, commercial eye trackers are 1) often very expensive, and 2) incorporate proprietary software to detect the movement of the eye."
+85,3,"Closed source solutions limit the researcher’s ability to be fully informed regarding the algorithms used to track the eye and to incorporate modifications tailored to their needs. Here, we present our software solution, openEyeTrack, a low-cost, high-speed, low-latency, open-source video-based eye tracker."
+85,5,"Video-based eye trackers can perform nearly as well as classical scleral search coil methods and are suitable for most applications.  openEyeTrack is a video-based eye-tracker that takes advantage of OpenCV, a low-cost, high-speed infrared camera and GigE-V APIs for Linux provided by Teledyne DALSA, the graphical user interface toolkit QT5 and cvui, the OpenCV based GUI. All of the software components are freely available."
+85,6,"The only costs are from the hardware components such as the camera (Genie Nano M640 NIR, Teledyne DALSA, ~$450, ~730 frames per second) and infrared light source, an articulated arm to position the camera (Manfrotto: $130), a computer with one or more gigabit network interface cards, and a power over ethernet switch to power and receive data from the camera."
+85,7,"By using the GigE-V Framework to capture the frames from the DALSA camera and the OpenCV simple blob detector, openEyeTrack can accurately estimate the position and area of the pupil. We include pupil size calculations because of its putative link to arousal levels and emotions of the subject."
+85,8,For this and other projects related to #Software #ComputationalNeuroscience #DataAnalysis #Other visit https://openneuroscience.com
+86,0,Brain Explained https://anchor.fm/brain-explained  ... 🧵
+86,1,Brain Explained explores the latest neuroscience that is fresh of the press. Tune in each month to listen to a deep dive interview into a research paper or thesis with the researcher.
+86,2,Gain an understanding of what its like to be a researcher at the cutting edge and an understanding of the brain at the molecular level.
+86,3,For this and other projects related to #Software #DataAnalysis #CalciumImaging #Fluorescence visit https://openneuroscience.com
+87,0,Collaborative Informatics and Neuroimaging Suite Toolkit for Anonymous Computation (COINSTAC) https://github.com/trendscenter/coinstac  ... 🧵
+87,1,COINSTAC provides a platform to analyze data stored locally across multiple organizations without the need for pooling the data at any point during the analysis.
+87,2,It is intended to be an ultimate one-stop shop by which researchers can build any statistical or machine learning model collaboratively in a decentralized fashion.
+87,3,This framework implements a message passing infrastructure that will allow large scale analysis of decentralized data with results on par with those that would have been obtained if the data were in one place.
+87,4,For this and other projects related to #CalciumImaging #Fluorescence #Microscopes #Behaviour visit https://openneuroscience.com
+88,0,Greedy https://greedy.readthedocs.io/en/latest/index.html  ... 🧵
+88,1,Greedy is a tool for fast medical image registration. It is a fast CPU-based deformable image registration tool that can be used in applications where many images have to be registered in parallel.
+88,2,It can perform affine and rigid image (2D and 3D data) registration. You can also supply masks for restricting registration to specific regions.
+88,3,For this and other projects related to #Software #AnimalElectrophysiology visit https://openneuroscience.com
+89,0,NetPyNE https://github.com/Neurosim-lab/netpyne  ... 🧵
+89,1,"NetPyNE (Networks using Python and NEURON) is a Python package to facilitate the development, simulation, parallelization, analysis, and optimization of biophysical neuronal networks using the NEURON simulator."
+89,2,"For more details, installation instructions, documentation, tutorials, forums, videos and more, please visit: www.netpyne.org"
+89,3,For this and other projects related to #Software #DataAnalysis #Microscopes #Fluorescence visit https://openneuroscience.com
+9,0,BossDB https://bossdb.org/  ... 🧵
+9,1,"BossDB is a volumetric database that lives in the AWS cloud. Hundreds of terabytes of electron microscopy, light microscopy, and x-ray tomography data are available for free download and study. Have a project you want to share with the world for free?"
+9,2,Get in touch! https://twitter.com/thebossdb
+9,3,For this and other projects related to #Microscopes #Hardware #Fluorescence #Software visit https://openneuroscience.com
+90,0,Psygo https://github.com/henry-burgess/psygo  ... 🧵
+90,1,The easiest way to get started creating online behavioural experiments!
+90,2,"psygo is a CLI tool that streamlines the development of custom jsPsych plugins, allowing you to create custom behavioural experiments that can be run online. psygo also helps you test your experiment locally. All the hard work is done for you, from setting up a project, to preparing it for administration."
+90,3,For this and other projects related to #Software #DataAnalysis #Fluorescence #Behaviour visit https://openneuroscience.com
+91,0,jsPsych https://www.jspsych.org  ... 🧵
+91,1,jsPsych is a JavaScript library for running behavioral experiments in a web browser. The library provides a flexible framework for building a wide range of laboratory-like experiments that can be run online.
+91,2,"To use jsPsych, you provide a description of the experiment in the form of a timeline. jsPsych handles things like determining which trial to run next, storing data, and randomization. jsPsych uses plugins to define what to do at each point on the timeline."
+91,3,Plugins are ready-made templates for simple experimental tasks like displaying instructions or displaying a stimulus and collecting a keyboard response. Plugins are very flexible to support a wide variety of experiments. It is easy to create your own plugin if you have experience with JavaScript programming.
+91,4,For this and other projects related to #DataRepositories #HumanElectrophysiologyAnimalElectrophysiologyCalciumImagingFluorescence #DataAnalysisComputationalNeuroscience visit https://openneuroscience.com
+92,0,Efficient training of mice on the 5-choice serial reaction time task in an automated rodent training system https://github.com/hangyabalazs/ATS  ... 🧵
+92,1,"Experiments aiming to understand sensory-motor systems, cognition and behavior necessitate training animals to perform complex tasks."
+92,2,"Traditional training protocols require lab personnel to move the animals between home cages and training chambers, to start and end training sessions, and in some cases, to hand-control each training trial. Human labor not only limits the amount of training per day, but also introduces several sources of variability and may increase animal stress."
+92,3,"Here we present an automated training system for the 5-choice serial reaction time task (5CSRTT), a classic rodent task often used to test sensory detection, sustained attention and impulsivity."
+92,4,"We found that full automation without human intervention allowed rapid, cost-efficient training, and decreased stress as measured by corticosterone levels. Training breaks introduced only a transient drop in performance, and mice readily generalized across training systems when transferred from automated to manual protocols."
+92,5,"We further validated our automated training system with wireless optogenetics and pharmacology experiments, expanding the breadth of experimental needs our system may fulfill."
+92,6,"Our automated 5CSRTT system can serve as a prototype for fully automated behavioral training, with methods and principles transferrable to a range of rodent tasks."
+92,7,For this and other projects related to #Software #Simulations #ComputationalNeuroscience visit https://openneuroscience.com
+93,0,OPETH: Open Source Solution for Real-Time Peri-Event Time Histogram Based on Open Ephys https://github.com/hangyabalazs/opeth  ... 🧵
+93,1,Single cell electrophysiology remains one of the most widely used approaches of systems neuroscience.
+93,2,"Decisions made by the experimenter during electrophysiology recording largely determine recording quality, duration of the project and value of the collected data. Therefore, online feedback aiding these decisions can lower monetary and time investment, and substantially speed up projects as well as allow novel studies otherwise not possible due to prohibitively low throughput."
+93,3,Real-time feedback is especially important in studies that involve optogenetic cell type identification by enabling a systematic search for neurons of interest.
+93,4,"However, such tools are scarce and limited to costly commercial systems with high degree of specialization, which hitherto prevented wide-ranging benefits for the community. To address this, we present an open-source tool that enables online feedback during electrophysiology experiments and provides a Python interface for the widely used Open Ephys open source data acquisition system."
+93,5,"Specifically, our software allows flexible online visualization of spike alignment to external events, called the online peri-event time histogram (OPETH)."
+93,6,"These external events, conveyed by digital logic signals, may indicate photostimulation time stamps for in vivo optogenetic cell type identification or the times of behaviorally relevant events during in vivo behavioral neurophysiology experiments. Therefore, OPETH allows real-time identification of genetically defined neuron types or behaviorally responsive populations."
+93,7,"By allowing ""hunting"" for neurons of interest, OPETH significantly reduces experiment time and thus increases the efficiency of experiments that combine in vivo electrophysiology with behavior or optogenetic tagging of neurons."
+93,8,For this and other projects related to #OptogeneticsHardware #Optogenetics #Benchtop #Software visit https://openneuroscience.com
+94,0,Open Source Tools for Temporally Controlled Rodent Behavior Suitable for Electrophysiology and Optogenetic Manipulations https://github.com/hangyabalazs/Rodent_behavior_setup  ... 🧵
+94,1,Understanding how the brain controls behavior requires observing and manipulating neural activity in awake behaving animals. Neuronal firing is timed at millisecond precision.
+94,2,"Therefore, to decipher temporal coding, it is necessary to monitor and control animal behavior at the same level of temporal accuracy. However, it is technically challenging to deliver sensory stimuli and reinforcers as well as to read the behavioral responses they elicit with millisecond precision."
+94,3,"Presently available commercial systems often excel in specific aspects of behavior control, but they do not provide a customizable environment allowing flexible experimental design while maintaining high standards for temporal control necessary for interpreting neuronal activity."
+94,4,"Moreover, delay measurements of stimulus and reinforcement delivery are largely unavailable."
+94,5,"We combined microcontroller-based behavior control with a sound delivery system for playing complex acoustic stimuli, fast solenoid valves for precisely timed reinforcement delivery and a custom-built sound attenuated chamber using high-end industrial insulation materials. Together this setup provides a physical environment to train head-fixed animals, enables calibrated sound stimuli and precisely timed fluid and air puff presentation as reinforcers."
+94,6,We provide latency measurements for stimulus and reinforcement delivery and an algorithm to perform such measurements on other behavior control systems.
+94,7,"Combined with electrophysiology and optogenetic manipulations, the millisecond timing accuracy will help interpret temporally precise neural signals and behavioral changes."
+94,8,"Additionally, since software and hardware provided here can be readily customized to achieve a large variety of paradigms, these solutions enable an unusually flexible design of rodent behavioral experiments."
+94,9,For this and other projects related to #Software #DataAnalysis visit https://openneuroscience.com
+95,0,Pirecorder: Controlled and automated image and video recording with the raspberry pi https://github.com/JolleJolles/pirecorder  ... 🧵
+95,1,"pirecorder is a Python package, built on the picamera and OpenCV libraries, that provides a flexible solution for the collection of consistent image and video data with the raspberry pi."
+95,2,"It was developed to overcome the need for a complete solution to help researchers, especially those with limited coding skills, to easily set up and configure their raspberry pi to run large numbers of controlled and automated image and video recordings using optimal settings."
+95,4,"Pirecorder consists of a number of interconnected modules to facilitate key aspects of media recording: 1) setting-up and configuring the camera, 2) recording images, videos, time-lapses, and standardised video sequences with automatic file-naming, 3) easy scheduling of future recordings, and 4) converting of recorded media with resize, timestamp, and monitoring options. All functionalities are designed to make it very straightforward, even for users with limited coding experience, to configure, initiate, schedule, and convert recordings."
+95,5,"In particular, pirecorder offers interactive streaming functionalities to facilitate users in positioning and focusing the camera, selecting the desired white-balance and other image parameters using trackbars, and set the ideal camera shutter speed."
+95,6,"Furthermore, pirecorder comes with a dedicated documentation website with detailed information and tutorials (jollejolles.github.io/pirecorder) as well as a set of annotated Jupyter Notebooks to help users integrate the raspberry pi and pirecorder in their work."
+95,9,"Key Features: - Controlled recording using custom, easy-to-edit configuration files - Record single images and videos, timelapses, and sequences of videos - Configure camera settings interactively via a live camera stream - Dynamically draw the region of interest for your recordings - Automatic naming of files and folders with relevant and custom labels - Easy scheduling and automating recordings in the future - Direct control of all modules via simple terminal commands - Convert (folders of) images and videos with resize, monitor, and label options - Dedicated documentation website with detailed guides and tutorials: https://jollejolles.github.io/pirecorder/ - Jupyter notebook tutorial files  A paper accompanying the package is published in the Journal of Open Source Software: Jolles, J.W."
+95,10,"(2020). pirecorder: controlled and automated image and video recording with the raspberry pi. J. Open Source Softw. 5, 2584. doi: 10.21105/joss.02584"
+95,11,For this and other projects related to #Software #DataAnalysis #HumanElectrophysiology #HumanNeuroscience visit https://openneuroscience.com
+96,0,napari https://napari.org/  ... 🧵
+96,1,"Napari is a fast, interactive, multi-dimensional image viewer for Python. It’s designed for browsing, annotating, and analyzing large multi-dimensional images."
+96,2,"It’s built on top of Qt (for the GUI), vispy (for performant GPU-based rendering), and the scientific Python stack (numpy, scipy)."
+96,3,For this and other projects related to #Software #DataAnalysis #CalciumImaging #AnimalElectrophysiology visit https://openneuroscience.com
+97,0,An open-source experimental framework for automation of high-throughput cell biology experiments https://github.com/frescolabs/FrescoM  ... 🧵
+97,1,"Modern Biology methods require a large number of high quality experiments to be conducted, which requires a high degree of automation."
+97,2,Our solution is an open-source hardware that allows for automatic high-throughput generation of large amounts of cell biology data. The hardware consists of an automatic XY-stage for moving a multiwell plate containing growing cells; a perfusion manifold allowing application of up to 8 different solutions; and a small epifluorescent microscope.
+97,3,It is extremely cheap (approximately £400 without and £2500 with a fluorescent microscope) and is easily customizable for individual experimental needs. We demonstrate the usability of this platform with high-throughput Ca2+ imaging and large-scale labelling experiments.
+97,4,"All building instructions, software and PCB Gerber file are provided."
+97,5,For this and other projects related to #Software #Behaviour #DataAnalysis visit https://openneuroscience.com
+98,0,KineMouse Wheel https://hackaday.io/project/160744-kinemouse-wheel  ... 🧵
+98,1,Who says you can't reinvent the wheel?! This running wheel for head-fixed mice allows 3D reconstruction of body kinematics using a single camera and DeepLabCut (or similar) software.
+98,2,"A lightweight, transparent polycarbonate floor and a mirror mounted on the inside allow two views to be captured simultaneously. All parts are commercially available or laser cut. See example usage here: https://elifesciences.org/articles/63596"
+98,3,For this and other projects related to #Computers #Software #Behaviour #Hardware visit https://openneuroscience.com
+99,0,SignalBuddy https://hackaday.io/project/167649-signalbuddy  ... 🧵
+99,1,"SignalBuddy is an easy-to-make, easy-to-use signal generator for scientific applications. Making friends is hard, but making SignalBuddy is easy. All you need is an Arduino Uno!"
+99,2,SignalBuddy replaces more complicated and (much) more expensive signal generators in laboratory settings where one millisecond resolution is sufficient.
+99,3,For this and other projects related to #CalciumImaging #DataAnalysis #Software #Microscopes visit https://openneuroscience.com

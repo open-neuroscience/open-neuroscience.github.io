@@ -273,10 +273,19 @@ closing_sentences <-
   mutate(sentence = map_chr(target$hashtags, on_blurb))
 
 # Add the closing sentence
+final_df <-
 bind_rows(sentence_stats, open_sentences) %>%
   bind_rows(closing_sentences) %>%
   arrange(id, thread_id) %>%
   mutate(lag_id = lag(thread_id),
          thread_id = if_else(is.na(thread_id), lag_id + 1, thread_id)) %>%
   group_by(id, thread_id) %>%
-  summarise(sentence = paste(sentence, collapse = " ")) %>% View()
+  summarise(sentence = paste(sentence, collapse = " "))
+
+# to check
+final_df %>% View()
+
+# save the thing
+readr::write_csv(final_df, path = "tweet_df.csv")
+
+
