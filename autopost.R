@@ -22,7 +22,10 @@ create_yaml <- function(title, authors, categories, project_handle){
   if (is.na(project_handle)) {
     yaml_list$links[[1]]$url <- glue::glue("{yaml_list$links[[1]]$url}/openneurosci")
   } else {
-    yaml_list$links[[1]]$url <- glue::glue("{yaml_list$links[[1]]$url}/{project_handle}")
+    # make sure it's just the first thing
+    project_split <- stringr::str_split(project_handle, pattern = ",|;") %>% unlist()
+    project_split <- project_split[1]
+    yaml_list$links[[1]]$url <- glue::glue("{yaml_list$links[[1]]$url}/{project_split}")
   }
   # make it back to \n separated format
   links <-  yaml_list %>% yaml::as.yaml()
@@ -78,7 +81,10 @@ create_body <- function(title, image, description, authors, website, video, post
       # extract video
       emb_code <- get_youtube_id(video)
       # short-cut is {{< youtube w7Ft2ymGmfc >}}
-      video <- glue::glue("{{< youtube {emb_code} >}}")
+      video <- glue::glue("{{< youtube {emb_code} >}}",
+                          # needed so that we don't lose one { at each end
+                          .open = "{{{",
+                          .close= "}}}")
       # generate shortcut
     } else {
       # do nothing, use video link as is
@@ -213,7 +219,8 @@ get_youtube_id <- function(link) {
 
 # this is the ID
 ID <- "1qF5P8RKBSiE6qyInIoTBHdq2m9o5ZnvhnGKkmaJ83uI"
-gs4_auth("openeuroscience@gmail.com")
+#gs4_auth("openeuroscience@gmail.com")
+gs4_deauth()
 target <- read_sheet(ID)
 # this comes handy for later,
 # so that we don't add a bunch of columns when we write back
