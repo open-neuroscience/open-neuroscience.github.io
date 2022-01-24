@@ -18,7 +18,7 @@ role: Matias Andina
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I continuously find myself mesmerized by the complexity of life. I finished my Biology Degree at University of Buenos Aires in 2015 and moved to the United States in order to continue my studies at University of Massachusetts Amherst. After obtaining my MSc, I continued doing neuroscience at MIT. I am currently doing a PhD in Neuroscience at Tufts University.
+bio: I obtained my Biology Degree at University of Buenos Aires in 2015 and moved to the United States in order to continue my studies at University of Massachusetts Amherst. After obtaining my MSc in 2018, I continued doing neuroscience at MIT, where I'm currently doing a PhD in Neuroscience.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,4 +52,4 @@ user_groups:
 - Current
 ---
 
-I continuously find myself mesmerized by the complexity of life. I finished my Biology Degree at University of Buenos Aires in 2015 and moved to the United States in order to continue my studies at University of Massachusetts Amherst. After obtaining my MSc, I continued doing neuroscience at MIT. I am currently doing a PhD in Neuroscience at Tufts University.
+I obtained my Biology Degree at University of Buenos Aires in 2015 and moved to the United States in order to continue my studies at University of Massachusetts Amherst. After obtaining my MSc in 2018, I continued doing neuroscience at MIT, where I'm currently doing a PhD in Neuroscience.
