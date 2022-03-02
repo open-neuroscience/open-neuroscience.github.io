@@ -80,8 +80,8 @@ create_body <- function(title, image, description, authors, website, video, post
     if (is_youtu) {
       # extract video
       emb_code <- get_youtube_id(video)
-      # short-cut is {{< youtube w7Ft2ymGmfc >}}
-      video <- glue::glue("{{< youtube {emb_code} >}}",
+      # short-cut is {{<youtube w7Ft2ymGmfc>}}
+      video <- glue::glue("{{<youtube {emb_code}>}}",
                           # needed so that we don't lose one { at each end
                           .open = "{{{",
                           .close= "}}}")
