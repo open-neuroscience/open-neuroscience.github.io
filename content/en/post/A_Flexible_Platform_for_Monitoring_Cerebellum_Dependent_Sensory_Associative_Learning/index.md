@@ -1,10 +1,10 @@
 ---
-title: "A Flexible Platform for Monitoring Cerebellum-Dependent Sensory Associative Learning"
-date: 2022-03-14
-authors: ["admin"]
+title: 'A Flexible Platform for Monitoring Cerebellum-Dependent Sensory Associative Learning'
+date: 2022-04-18
+authors: ['admin']
 layout: post
-categories: ["Software","Behaviour","Hardware","Data Analysis"]
-tags: ["Software","Behaviour","Hardware","Data Analysis"]
+categories: ['Software','Behaviour','Hardware','Data Analysis']
+tags: ['Software','Behaviour','Hardware','Data Analysis']
 links:
 - name: Follow
   url: https://twitter.com/@JoeyBroussard6

@@ -1,10 +1,10 @@
 ---
-title: "FastSurfer"
-date: 2022-03-14
-authors: ["admin"]
+title: 'FastSurfer'
+date: 2022-04-18
+authors: ['admin']
 layout: post
-categories: ["Software","Data Analysis","Human Neuroscience"]
-tags: ["Software","Data Analysis","Human Neuroscience"]
+categories: ['Software','Data Analysis','Human Neuroscience']
+tags: ['Software','Data Analysis','Human Neuroscience']
 links:
 - name: Follow
   url: https://twitter.com/@deepmilab
@@ -16,7 +16,7 @@ FastSurfer is a fast and extensively validated deep-learning pipeline for the fu
 
 FastSurfer consists of two consecutive main components:
 
-1. FastSurferCNN - an advanced deep learning architecture capable of whole brain segmentation into 95 classes in under 1 minute (on the GPU), mimicking FreeSurfer�s anatomical segmentation and cortical parcellation (DKTatlas)
+1. FastSurferCNN - an advanced deep learning architecture capable of whole brain segmentation into 95 classes in under 1 minute (on the GPU), mimicking FreeSurfer’s anatomical segmentation and cortical parcellation (DKTatlas)
 
 2. recon-surf - full FreeSurfer alternative for cortical surface reconstruction, mapping of cortical labels and traditional point-wise and ROI thickness analysis in approximately 60 minutes (+ optionally 30 min for group registration).
 
