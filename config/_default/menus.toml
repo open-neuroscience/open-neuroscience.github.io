@@ -59,13 +59,19 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 80
 
 [[main]]
   name = "Metrics"
   url = "metrics/"
-  weight = 70
+  weight = 90
   
+
+#[[main]]
+#  name = "FENS 2022"
+#  url = "fens2022/"
+#  weight = 90
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
