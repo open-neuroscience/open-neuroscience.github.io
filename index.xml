@@ -33,7 +33,208 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://sourcethemes.com/academic/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title>A Flexible Platform for Monitoring Cerebellum-Dependent Sensory Associative Learning</title><link>https://open-neuroscience.com/post/a_flexible_platform_for_monitoring_cerebellum_dependent_sensory_associative_learning/</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/a_flexible_platform_for_monitoring_cerebellum_dependent_sensory_associative_learning/</guid><description>&lt;p>Climbing fiber inputs to Purkinje cells provide instructive signals critical for cerebellum-dependent associative learning. Studying these signals in head-fixed mice facilitates the use of imaging, electrophysiological, and optogenetic methods. Here, a low cost behavioral platform (~$1000) was developed that allows tracking of associative
+&lt;p>Further talk details can easily be added to this page using &lt;em>Markdown&lt;/em> and $\rm \LaTeX$ math code.&lt;/p></description></item><item><title/><link>https://open-neuroscience.com/fens2022/</link><pubDate>Sun, 01 May 2022 09:53:14 +0000</pubDate><guid>https://open-neuroscience.com/fens2022/</guid><description>&lt;p> &lt;img align="left" src="FENS.png" width="300"/>
+&lt;img align="right" src="IP.png" width="300"/>&lt;/p>
+&lt;br>
+&lt;br>
+&lt;br>
+&lt;br>
+&lt;br>
+&lt;br>
+&lt;div>
+&lt;h1 align="center"> Open Source Microscopy Symposium &lt;/h1>
+&lt;h3 align="center"> Developing microscopy tools for neuroscience research and education&lt;/h3>
+&lt;h5 align="left">by&lt;/h5>
+&lt;img align="left" width="300" src="ON.png"/>
+&lt;br>
+&lt;br>
+&lt;/div>
+&lt;br>
+&lt;br>
+&lt;p>&lt;a href="https://forum.fens.org/" target="_blank" rel="noopener">FENS Forum 2022&lt;/a> (the largest neuroscience meeting in Europe), will take place in Paris in July. The event covers all fields of neuroscience and comprises a range of symposia, technical workshops, plenary and special lectures and poster sessions as well as a number of social events.&lt;/p>
+&lt;p>&lt;a href="https://open-neuroscience.com/" target="_blank" rel="noopener">Open-Neuroscience&lt;/a> in collaboration with the &lt;a href="https://www.pasteur.fr/fr/nos-missions/recherche/neuroscience" target="_blank" rel="noopener">Neurosciecne department of the Institute Pasteur&lt;/a> and &lt;a href="https://www.sussex.ac.uk/research/centres/sussex-neuroscience/" target="_blank" rel="noopener">Sussex NeuroscienceUniversity of Sussex neuroscience department&lt;/a> is organising a &lt;strong>&lt;a href="https://forum.fens.org/confirmed-satellite-events/" target="_blank" rel="noopener">satellite event&lt;/a> on Open Hardware Microscopy Development.&lt;/strong> &lt;em>The aim of this event is to bring into focus excellent open projects that permeate education, ease of access and data collection in advanced research environment.&lt;/em>&lt;/p>
+&lt;p>The symposium will take place on July 8th at the &lt;a href="https://www.google.com/maps/d/viewer?ie=UTF8&amp;amp;view=map&amp;amp;ctz=-480&amp;amp;t=h&amp;amp;oe=UTF8&amp;amp;msa=0&amp;amp;mid=19wRKz7elGVxBkOFzIW-kZzMac0o&amp;amp;ll=48.840152518324395%2C2.311734201396951&amp;amp;z=18" target="_blank" rel="noopener">Pasteur Institute campus&lt;/a> in Paris (28 rue du Dr Roux). It will be divided into a &lt;a href="#Morning-workshop-session">morning workshop session&lt;/a> and an &lt;a href="#Afternoon-talk-session">afternoon series of talks&lt;/a>.&lt;/p>
+&lt;p>The workshops will be led by specialists in the field, which will also participate in the afternoon session. By the end of the session, participants will be invited to discuss what they have learned, how they could implement Open-Science microscope in their research, and/or how they could improve/modify their own setup by implementing Open tools on it and how their research protocol could benefit from it.&lt;/p>
+&lt;p>The afternoon session will be dedicated to a series of talks by our invited specialists. It will be split into two distinct topics/sub-sessions:&lt;/p>
+&lt;ol>
+&lt;li>Open-Source microscopy for education and improving ease of access to research equipment.&lt;/li>
+&lt;li>Open-Source microscopy for advanced research.&lt;/li>
+&lt;/ol>
+&lt;p>It is our goal that by the end of the day, participants get a full picture of the state of the art for Open-Source Microscopy. It is hoped that development and implementation of such tools and techniques in modern research units promote science accessibility and improve data reproducibility. Furthermore, an earlier and more systematic access to advanced science tools in education could only support shaping the research minds of tomorrow.&lt;/p>
+&lt;hr>
+&lt;h2 id="program">PROGRAM&lt;/h2>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Workshops (morning)&lt;/th>
+&lt;th>Talks (Afternoon I)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;table> &lt;tr>&lt;td> 09:00-12:00 OpenFlexure&lt;/td>&lt;/tr>&lt;tr>&lt;td> 09:00-12:00 UC2&lt;/td>&lt;/tr>&lt;tr>&lt;td> 09:00-12:00 FlyPi / OpenLabware&lt;/td>&lt;/tr> &lt;tr>&lt;td> &lt;b>Lunch&lt;/b>&lt;/td>&lt;/tr> &lt;/table>&lt;/td>
+&lt;td>&lt;table> &lt;tr>&lt;td>13:20 OpenFlexure &lt;b>Richard Bowman&lt;/b> &lt;/td>&lt;/tr>&lt;tr>&lt;td> 13:40 UC2 &lt;b>Barbora Marsikova&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td> 14:00 LEGOLish &lt;b>Julien Collombeli&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td> 14:20 Trend in Africa &lt;b>Samyra Salek&lt;/b>&lt;/td>&lt;/tr> &lt;tr>&lt;td> &lt;b>Coffee Break&lt;/b>&lt;/td>&lt;/tr> &lt;/table>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Talks (Afternoon II)&lt;/th>
+&lt;th>Talks (Afternoon III)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;table> &lt;tr>&lt;td>15:00 Mini2P &lt;b>Edvard Moser &amp;amp; Weijian Zong&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>15:45 CaImAn &lt;b>Andrea Giovanucci&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>16:10 nTCscope &lt;b>Filip Janiak&lt;/b>&lt;/td>&lt;/tr> &lt;tr>&lt;td> &lt;b>Coffee Break&lt;/b>&lt;/td>&lt;/tr> &lt;/table>&lt;/td>
+&lt;td>&lt;table> &lt;tr>&lt;td>16:45 3D-printing in Optical microscopy for Super-Resolution Microscopy and Single-Particle Analysis &lt;b>Hannah Heil&lt;/b>&lt;/td>&lt;/tr>&lt;tr>&lt;td>17:10 DeepBacs - Bacterial image analysis using open-source deep learning approaches &lt;b>Estibaliz Gomez de Mariscal &lt;/b>&lt;/td>&lt;/tr> &lt;tr>&lt;td>17:35 Open Ephys - A company providing open source tools for Neurosciences &lt;b>Alex Leighton &lt;/b>&lt;/td>&lt;/tr> &lt;/table>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Live Demos / information booth&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;table> &lt;tr>&lt;td>LEGOLish&lt;/td>&lt;/tr>&lt;tr>&lt;td>Institutie Pasteur Fablab &amp;amp; Open Science initiatives&lt;/td>&lt;/tr>&lt;tr>&lt;td>Trend in Africa&lt;/td>&lt;/tr>&lt;tr>&lt;td>Open Ephys&lt;/td>&lt;/tr> &lt;/table>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="morning-workshop-session">Morning workshop session&lt;/h2>
+&lt;p>9:00 – 12:00: Morning workshops&lt;/p>
+&lt;div id="openflexure">
+### [OpenFlexure](https://open-neuroscience.com/post/openflexure/):
+&lt;p>A 3D printed flexure translation stage. The stage is capable of sub-micron-scale motion, with very small drift over time. Which makes it quite good, among other things, for time-lapse protocols that need to be done over days/weeks’ time, and under space restricted areas, such as fume hoods. Additional camera and servo motors, turns the stage into an automated microscope.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Richard Bowman&lt;/strong>, University of Bath, UK&lt;/li>
+&lt;li>&lt;strong>Julian Stirling&lt;/strong>, University of Bath, UK&lt;/li>
+&lt;li>&lt;strong>Joe Kapner&lt;/strong>, University of Bath, UK&lt;/li>
+&lt;/ul>
+&lt;/div>
+&lt;p>· &lt;a href="https://open-neuroscience.com/post/uc2/" target="_blank" rel="noopener">UC2&lt;/a>:&lt;/p>
+&lt;p>An open-source optical toolbox that simplifies the process of building optical setups, by combining 3D-printed cubes, each holding a specific component (e.g. lens, mirror) on a magnetic square-grid baseplate. The use of widely available consumables and 3D printing, together with documentation and software, offers an extremely low-cost and accessible alternative for both education and research areas.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Benedict Diederich&lt;/strong>, Leibniz Institute of Photonic Technology, University of Jena&lt;/li>
+&lt;li>&lt;strong>Rene Richter&lt;/strong>, Leibniz Institute of Photonic Technology, Germany&lt;/li>
+&lt;li>&lt;strong>Barbora Marisikova&lt;/strong>, University of Jena, Germany&lt;/li>
+&lt;/ul>
+&lt;p>· &lt;a href="https://open-labware.net/projects/flypi/" target="_blank" rel="noopener">FlyPi&lt;/a>:&lt;/p>
+&lt;p>A 3D-printable open-source platform for fluorescence microscopy, optogenetics and accurate temperature control. Designed for flexibiliy and low-cost, the “FlyPi” is an optical microscope designed for behavioural work with fruit flies, zebrafish or C. elegans. The system is based on a Raspberry Pi with camera, an Arduino microcontroller and a range of off-the-shelf electronic parts. A modular design provides for flexible control of a range of peripherals including options for optogenetic and thermogenetic stimulation and fluorescence microscopy. All mechanical parts are 3-D printed which includes a range of manual or motorised micropositioning options. The basic setup can be put together for below 100€. The low price means that it can be implemented in under-funded labs across the world, for classroom teaching in schools as well as by home-enthusiasts who are not part of the traditional scientific establishment.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Andre Maia Chagas&lt;/strong>, University of Sussex, TReND in Africa&lt;/li>
+&lt;li>&lt;strong>George Kafetzis&lt;/strong>, University of Sussex, UK&lt;/li>
+&lt;li>&lt;strong>Samyra Salek&lt;/strong>, TReND in Africa, UK&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="afternoon-talk-session">Afternoon talk session&lt;/h2>
+&lt;h4 id="open-source-microscopy-as-an-affordable-tool-for-bringing-advanced-recording-equipment-earlier-in-scientific-education-and-improve-the-accessibility-of-research-equipment-to-enable-cutting-edge-research-in-low-resource-areas">Open-Source microscopy as an affordable tool for bringing advanced recording equipment earlier in scientific education and improve the accessibility of research equipment to enable cutting-edge research in low resource areas.&lt;/h4>
+&lt;blockquote>
+&lt;p>13:00: &lt;strong>Maxime Zimmermann&lt;/strong>, Institut Pasteur, Open-Neuroscience&lt;/p>
+&lt;ul>
+&lt;li>Introduction&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>13:10: &lt;strong>Nathalie Aulner&lt;/strong>, Institut Pasteur&lt;/p>
+&lt;ul>
+&lt;li>Presentation of France BioImaging&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>13:20: &lt;strong>Barbora Marsikova&lt;/strong>, Institute for photonic technologies, University of Jena, Germany&lt;/p>
+&lt;ul>
+&lt;li>UC2 – An Open-Source Optical Toolbox for Multi-Modal Imaging&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>13:40: &lt;strong>Richard Bowman&lt;/strong>, Centre for Photonics and Photonic Materials University of Bath, UK&lt;/p>
+&lt;ul>
+&lt;li>OpenFlexure, - An Open-Source 3D-printed microscope, including a precise mechanical stage to move the sample and focus the optics.&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>14:00: &lt;strong>Julien Colombeli&lt;/strong>, Institute for Research in Biomedicine, Barcelona, Spain&lt;/p>
+&lt;ul>
+&lt;li>LEGOLish – Building a motorised research light sheet microscope from Lego blocks&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>14:25: &lt;strong>Samyra Salek&lt;/strong>, TReND in Africa, NGO, UK&lt;/p>
+&lt;ul>
+&lt;li>TReND in Africa – A charity supporting scientific capacity building across Africa and promoting Open-Science to help improve the scientific output on the continent.&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;hr>
+&lt;h4 align="center">14:50 – 15:00 : Coffee break &lt;/h4>
+&lt;h4 id="open-source-microscopy-as-an-efficient-drive-to-collaboratively-develop-hardware-software-and-techniques-for-advanced-optical-research">Open-Source microscopy as an efficient drive to collaboratively develop hardware, software, and techniques for advanced optical research.&lt;/h4>
+&lt;blockquote>
+&lt;p>15:00: &lt;strong>Edvard Moser&lt;/strong> / &lt;strong>Weijian Zong&lt;/strong>, Kavli Institute for Systems Neuroscience and Centre for Neural Computation, Norwegian University of Science and Technology (NTNU), Trondheim, Norway&lt;/p>
+&lt;ul>
+&lt;li>Mini2P – An Open-Source miniature brain microscope allowing large-scale two-photon calcium imaging in freely moving mice&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>15:45: &lt;strong>Andrea Giovanucci&lt;/strong>, Department of Biomedical Engineering, University of North Carolina, US&lt;/p>
+&lt;ul>
+&lt;li>CaImAn – Open-Source scalable algorithms for calcium and voltage imaging data&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>16:10: &lt;strong>Filip Janiak&lt;/strong>, School of Life Sciences, University of Sussex, Brighton, UK&lt;/p>
+&lt;ul>
+&lt;li>nTCscope – A Non-Telecentric two-photon microscopy technic for 3D random access mesoscale imaging&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;h4 align="center">16:35 – 16:45: Coffee break &lt;/h4>
+&lt;hr>
+&lt;blockquote>
+&lt;p>16:45: &lt;strong>Hannah Heil&lt;/strong>, Instituto Gulbenkian de Ciência, Oeiras, Portugal&lt;/p>
+&lt;ul>
+&lt;li>3D-printing in Optical microscopy for Super-Resolution Microscopy and Single-Particle Analysis&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>17:10: &lt;strong>Estibaliz Gomez de Mariscal&lt;/strong>, Instituto Gulbenkian de Ciência, Oeiras, Portugal&lt;/p>
+&lt;ul>
+&lt;li>DeepBacs - Bacterial image analysis using open-source deep learning approaches&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>17:35: &lt;strong>Alex Leighton&lt;/strong>, Open Ephys, Open-Source company, Portugal&lt;/p>
+&lt;ul>
+&lt;li>Distributing and supporting Open-Ephys, MiniScope and other Open-Source hardware throughout the scientific community.&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;hr>
+&lt;h3 id="demos-during-the-event">Demos during the event:&lt;/h3>
+&lt;p>· &lt;a href="http://legolish.org/authors/" target="_blank" rel="noopener">LEGOLish-mot&lt;/a>:&lt;/p>
+&lt;p>“Compared to many other fluorescence methods, such as confocal microscopy, that have been used in research labs for 30 years, Light Sheet Microscopy is so simple that it can be showcased to anyone and so hopefully it can clear up the perceived mystery surrounding what goes on in the dark rooms of research institutes,” explains Julien Colombelli. And he points out that “the latest and fully motorized version of LEGOLish will enable labs to test a basic Light Sheet system before deciding to purchase a commercial system”. In the current configuration, results generated by LEGOLish cost about 200 to 1000 times less than those produced by a commercial microscope.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Julien Colombeli&lt;/strong>, Institute for Research in Biomedicine, Barcelona, Spain&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://research.pasteur.fr/fr/service/fablab-institut-pasteur-open-desk/" target="_blank" rel="noopener">Institut Pasteur FabLab&lt;/a> &amp;amp; &lt;a href="https://openscience.pasteur.fr/" target="_blank" rel="noopener">Institut Pasteur CeRIS&lt;/a>:&lt;/p>
+&lt;p>The FabLab design and produces devices for Pasteur Researchers and help them develop their own prototypes to resolve research questions.
+The CeRIS (Centre de Ressourece en Information Scientifique) informs and advises on the goals and practices of the three major Open Science domains: Scientific Edition, sharing and documentation of Open Data, and evaluation of research standards. The CeRIS mission is to sensitise the scientific community on Open Science practices to answer national and international enquiries.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Eric Nicolau&lt;/strong>, Institut Pasteur&lt;/li>
+&lt;li>&lt;strong>Fanny Sebire&lt;/strong>, Institut Pasteur&lt;/li>
+&lt;/ul>
+&lt;p>· &lt;a href="https://trendinafrica.org/" target="_blank" rel="noopener">TReND in Africa&lt;/a>:&lt;/p>
+&lt;p>TReND is a charity supporting scientific capacity building across Africa. We run cutting edge biomedical training courses, provide universities with scientific equipment, run academic volunteering and outreach schemes, and support and work with African researchers.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Samyra Salek&lt;/strong>, Trend in Africa&lt;/li>
+&lt;/ul>
+&lt;p>· &lt;a href="https://open-ephys.org/" target="_blank" rel="noopener">Open Ephys&lt;/a>:&lt;/p>
+&lt;p>Open Ephys is a nonprofit based in Cambridge, Massachusetts, with team members distributed all around the world. Our mission is to advance our understanding of the brain by promoting community ownership of the tools we use to study it. Since Open Ephys was founded in 2014, we’ve made it possible to build an entire extracellular electrophysiology rig from off-the-shelf open-source components. We are working toward a future where neuroscience labs run on open standards. This doesn’t mean that every part of your rig needs to be open source, just that common interfaces let you choose the right tool for every job. Open standards foster healthier competition and enhance creativity by allowing the best ideas to propagate without the need to reinvent any wheels.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Alex Leighton&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;img align="center" src="./Logos/sponsors.png"/>
+&lt;p>&lt;img align="center">&lt;img src="./Logos/WWN.png"/>&lt;/p></description></item><item><title>A Flexible Platform for Monitoring Cerebellum-Dependent Sensory Associative Learning</title><link>https://open-neuroscience.com/post/a_flexible_platform_for_monitoring_cerebellum_dependent_sensory_associative_learning/</link><pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/a_flexible_platform_for_monitoring_cerebellum_dependent_sensory_associative_learning/</guid><description>&lt;p>Climbing fiber inputs to Purkinje cells provide instructive signals critical for cerebellum-dependent associative learning. Studying these signals in head-fixed mice facilitates the use of imaging, electrophysiological, and optogenetic methods. Here, a low cost behavioral platform (~$1000) was developed that allows tracking of associative
 learning in head-fixed mice that locomote freely on a running wheel. The platform
 incorporates two common associative learning paradigms: eyeblink conditioning and
 delayed tactile startle conditioning. Behavior is tracked using a camera and the wheel
