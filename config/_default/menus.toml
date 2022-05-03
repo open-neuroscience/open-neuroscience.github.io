@@ -67,10 +67,10 @@
   weight = 90
   
 
-#[[main]]
-#  name = "FENS 2022"
-#  url = "fens2022/"
-#  weight = 90
+[[main]]
+  name = "FENS 2022"
+  url = "https://open-neuroscience.com/FENS-2022/"
+  weight = 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
