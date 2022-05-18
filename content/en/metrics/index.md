@@ -1,5 +1,15 @@
-Metrics
-================
+---
+title: "Metrics"
+date: 2022-05-01T09:53:14+00:00
+authors: ['André Maia Chagas']
+
+layout: post
+
+---
+
+
+
+
 Last Update: 2021-04-11
 
 We use [plausible.io](plausible.io) for our analytics. This is an Open
@@ -52,15 +62,16 @@ These are the days with most visits to the site
 
 ### Twitter Analytics
 
-![](unnamed-chunk-11-1.png)<!-- -->![](unnamed-chunk-11-2.png)<!-- -->
+![](unnamed-chunk-11-1.png)
+<br>
+<br>
+![](unnamed-chunk-11-2.png)<!-- -->
 
 ![](unnamed-chunk-12-1.png)<!-- -->
 
 ![](twitter_days-1.png)<!-- -->
+  
 
-### YouTube Analytics
-
-TBA
-
----
+<br>
+<br>
 
