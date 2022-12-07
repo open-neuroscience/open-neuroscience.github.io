@@ -15,18 +15,18 @@ Pipelines built in DataJoint Core offer:
 - Coordination of multiple human and computer workers
 - Flexibility to adapt and change
 
-DataJoint Core includes libraries for Python and MATLAB, a REST API, and GUI tools for data entry and visualizations. 
+DataJoint Core includes libraries for Python and MATLAB, a REST API, and GUI tools for data entry and visualizations.
 
 **Design.** DataJoint Core enables clear conceptual modeling, efficient schema design, and flexible queries. It provides an intuitive query language that makes good design practices more obvious, and bad design choices harder or impossible.
 
 **Computation.** DataJoint Core delivers automated, reproducible computation to support the needs of contexts like scientific research. It integrates computation with data architecture, extending the traditional relational database model. DataJoint maintains referential integrity as data is transformed and synthesized in a computational pipeline.
 
-**Coordination.** DataJoint Core enables researchers and computational agents to work in parallel, collecting, uploading, processing, and analyzing data. It takes care of integrity and traceability—no prior database experience required. 
+**Coordination.** DataJoint Core enables researchers and computational agents to work in parallel, collecting, uploading, processing, and analyzing data. It takes care of integrity and traceability—no prior database experience required.
 
 **Flexibility.** DataJoint Core makes it easy to prototype, adapt, and evolve computational pipelines. It enables scientists to add, update, or remove data acquisition or analysis methods at any time, and to track and compare analyses performed using different parameters, algorithms, or methodologies.
 
 ## Project Author(s)
-Dimitri Yatsenko; Raphael Guzman; Thinh Nguyen; Kabilar Gunalan; Jeroen Verswijver; 
+Dimitri Yatsenko; Edgar Walker; Fabian Sinz; Christopher Turner; Raphael Guzman
 ## Project Links
 https://datajoint.com/docs/core
 ***
