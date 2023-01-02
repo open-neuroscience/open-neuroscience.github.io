@@ -1,6 +1,6 @@
 ---
 title: 'MagnetSearch'
-date: 2022-08-14
+date: 2023-01-02
 authors: ['admin']
 layout: post
 categories: ['Software, Hardware, Data Analysis, Human electrophysiology, Animal electrophysiology, Electric stimulation, Molecular biology, Calcium Imaging']
