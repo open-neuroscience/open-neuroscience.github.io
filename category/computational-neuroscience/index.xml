@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computational Neuroscience | Open Neuroscience</title><link>https://open-neuroscience.com/category/computational-neuroscience/</link><atom:link href="https://open-neuroscience.com/category/computational-neuroscience/index.xml" rel="self" type="application/rss+xml"/><description>Computational Neuroscience</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate><image><url>https://open-neuroscience.com/media/openneuroscience_logo_dark.svg</url><title>Computational Neuroscience</title><link>https://open-neuroscience.com/category/computational-neuroscience/</link></image><item><title>DataJoint Core</title><link>https://open-neuroscience.com/post/datajoint_core/</link><pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/datajoint_core/</guid><description>&lt;p>DataJoint Core is an open-source toolkit for defining and operating computational data pipelines (i.e., sequences of steps for data acquisition, processing, and transformation).&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Computational Neuroscience | Open Neuroscience</title><link>https://open-neuroscience.com/category/computational-neuroscience/</link><atom:link href="https://open-neuroscience.com/category/computational-neuroscience/index.xml" rel="self" type="application/rss+xml"/><description>Computational Neuroscience</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>CC BY SA 4.0</copyright><lastBuildDate>Mon, 02 Jan 2023 00:00:00 +0000</lastBuildDate><image><url>https://open-neuroscience.com/media/openneuroscience_logo_dark.svg</url><title>Computational Neuroscience</title><link>https://open-neuroscience.com/category/computational-neuroscience/</link></image><item><title>DataJoint Elements</title><link>https://open-neuroscience.com/post/datajoint_elements/</link><pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/datajoint_elements/</guid><description>&lt;p>DataJoint Elements is a growing compilation of community-curated, open-source software modules for building automated data pipelines and analysis workflows for neuroscience experiments.&lt;/p>
+&lt;p>DataJoint Elements enables:&lt;/p>
+&lt;ul>
+&lt;li>Secure tracking of animal subjects, equipment, and procedures&lt;/li>
+&lt;li>Automatic data ingestion&lt;/li>
+&lt;li>Customized research workflows&lt;/li>
+&lt;li>Faster deployment&lt;/li>
+&lt;li>Improved reproducibility&lt;/li>
+&lt;li>Greater continuity across projects&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Secure tracking.&lt;/strong> DataJoint Elements keeps track of all of your animal subjects, equipment, and procedures. Enjoy the confidence of knowing that all aspects of your dataset are forward and reverse traceable at each stage of the data processing cycle. DataJoint Elements ensures end-to-end data integrity. If you discover a problem with a subset of your raw data, DataJoint Elements simplifies the removal and recomputation of all dependent data and downstream analysis.&lt;/p>
+&lt;p>&lt;strong>Automatic data ingestion.&lt;/strong> DataJoint Elements automates data transformation and loading into DataJoint&amp;rsquo;s database from raw data files.&lt;/p>
+&lt;p>&lt;strong>Customized research workflows.&lt;/strong> DataJoint Elements allows research teams to combine and extend modules so that your lab gets the exact configuration your experiments require. Datasets from multi-modal experiments can be synchronized for analysis.&lt;/p>
+&lt;p>&lt;strong>Faster deployment.&lt;/strong> DataJoint Elements significantly reduces the time required for labs to implement their own data management framework. Instead of writing code from the ground up, teams can get started faster by combining existing curated components from the Elements Library.&lt;/p>
+&lt;p>&lt;strong>Improved reproducibility.&lt;/strong> DataJoint Elements gives research teams the ability to define and share their experiment workflows through a code repository. Using DataJoint’s open-source tool library, researchers from anywhere can quickly gain access to the code and reproduce the same analysis, facilitating validation of methods and verification of results.&lt;/p>
+&lt;p>&lt;strong>Greater continuity.&lt;/strong> DataJoint Elements research teams are able to maintain the high-quality level of their research without the uncertainty that staff changeovers can bring. Once a lab adopts DataJoint, lab operations enjoy enhanced continuity throughout the experiment lifecycle, no matter who is on staff.&lt;/p>
+&lt;p>The DataJoint Elements library is funded by a BRAIN Initiative grant. The library continues to expand to serve a wider array of neuroscience experiments.&lt;/p>
+&lt;p>Electronic Lab Notebook&lt;/p>
+&lt;ul>
+&lt;li>Lab Management&lt;/li>
+&lt;li>Animal Management&lt;/li>
+&lt;li>Experiment Session Management&lt;/li>
+&lt;/ul>
+&lt;p>Acquired data ingest and processing&lt;/p>
+&lt;ul>
+&lt;li>Extracellular array electrophysiology: LFP + spike sorting&lt;/li>
+&lt;li>Multiphoton calcium imaging: motion correction, segmentation, trace extraction&lt;/li>
+&lt;li>Widefield calcium imaging: motion correction, segmentation, trace extraction&lt;/li>
+&lt;li>Event- and trial-based behavior&lt;/li>
+&lt;li>Markerless behavior tracking: DeepLabCut&lt;/li>
+&lt;li>Visual stimulation&lt;/li>
+&lt;li>Optogenetics&lt;/li>
+&lt;li>Fiber photometry&lt;/li>
+&lt;/ul>
+&lt;h2 id="project-authors">Project Author(s)&lt;/h2>
+&lt;p>Dimitri Yatsenko; Thinh Nguyen; Kabilar Gunalan; Chris Brozdowski; Tolga Dincer&lt;/p>
+&lt;h2 id="project-links">Project Links&lt;/h2>
+&lt;p>&lt;a href="https://datajoint.com/docs/elements/">https://datajoint.com/docs/elements/&lt;/a>&lt;/p>
+&lt;h2 id="project-video">Project Video&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/5R-qnz37BKU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;hr>
+&lt;p>This post was automatically generated by
+Chris Brozdowski&lt;/p>
+&lt;hr></description></item><item><title>DataJoint Core</title><link>https://open-neuroscience.com/post/datajoint_core/</link><pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate><guid>https://open-neuroscience.com/post/datajoint_core/</guid><description>&lt;p>DataJoint Core is an open-source toolkit for defining and operating computational data pipelines (i.e., sequences of steps for data acquisition, processing, and transformation).&lt;/p>
 &lt;p>Pipelines built in DataJoint Core offer:&lt;/p>
 &lt;ul>
 &lt;li>Efficient design with intuitive queries&lt;/li>
