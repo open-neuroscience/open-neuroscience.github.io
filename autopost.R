@@ -47,7 +47,7 @@ create_yaml <- function(title, authors, categories, project_handle){
 create_body <- function(title, image, description, authors, website, video, post_author){
   title <- clean_post_title(title)
   #print titles
-  #print(title)
+  print(title)
   # make folder on posts if it doesn't exist
   root = "content/en/post"
   if(title %in% list.files(root) == FALSE){
@@ -228,6 +228,8 @@ original_columns <- names(target)
 
 # parse tags
 target$tags <- parse_tags(target)
+# get which ones were posted
+#posted <- target$posted
 # do big changes
 post_df <- target %>%
   filter(is.na(posted)|posted==FALSE) %>%
