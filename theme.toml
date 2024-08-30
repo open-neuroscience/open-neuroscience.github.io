@@ -1,28 +1,27 @@
-name = "Academic"
+name = "Research Group"
 license = "MIT"
-licenselink = "https://github.com/wowchemy/starter-academic/blob/master/LICENSE.md"
-description = "Use the website builder to personalize your academic resumé with widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
-homepage = "https://wowchemy.com"
-min_version = "0.73"
-tags = ["widgets",
-        "resume",
+licenselink = "https://github.com/wowchemy/starter-hugo-research-group/blob/main/LICENSE.md"
+description = "The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form."
+homepage = "https://github.com/wowchemy/starter-hugo-research-group"
+demosite = "https://research-group.netlify.app/"
+tags = ["academic",
+        "university",
+        "research",
+        "publications",
+        "widgets",
         "portfolio",
         "responsive",
         "clean",
-        "personal",
         "company",
         "blog",
+        "events",
         "minimal",
         "light",
         "dark",
         "multilingual",
-        "documentation",
         "landing page",
-        "projects",
-        "single page",
         "contact form",
         "mobile",
-        "gallery",
         "search",
         "presentation",
         "simple",
@@ -32,7 +31,6 @@ tags = ["widgets",
         "one page",
         "customizable",
         "technical",
-        "product",
         "slide"
         ]
 features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
@@ -41,9 +39,3 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 [author]
   name = "George Cushen"
   homepage = "https://georgecushen.com"
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""

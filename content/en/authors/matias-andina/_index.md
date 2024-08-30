@@ -13,9 +13,9 @@ superuser: false
 role: Matias Andina
 
 # Organizations/Affiliations
-#organizations:
-#- name: Stanford University
-#  url: ""
+organizations:
+- name: MIT
+  #url: https://sussex-neuroscience.github.io
 
 # Short bio (displayed in user profile at end of posts)
 bio: I obtained my Biology Degree at University of Buenos Aires in 2015 and moved to the United States in order to continue my studies at University of Massachusetts Amherst. After obtaining my MSc in 2018, I continued doing neuroscience at MIT, where I'm currently doing a PhD in Neuroscience.
@@ -49,7 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Previous collaborators
 ---
 
 I obtained my Biology Degree at University of Buenos Aires in 2015 and moved to the United States in order to continue my studies at University of Massachusetts Amherst. After obtaining my MSc in 2018, I continued doing neuroscience at MIT, where I'm currently doing a PhD in Neuroscience.

@@ -13,9 +13,9 @@ superuser: false
 role: Ceci Herbert
 
 # Organizations/Affiliations
-#organizations:
-#- name: Max Planck of Neurobiology
-#url:"https://www.neuro.mpg.de/baier/visiontoaction"
+organizations:
+- name: Open Ephys
+  url: https://open-ephys.org/
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Being part of a community striving to share, learn and teach others about tools is empowering. And even more so when the focus is to make them accessible and replicable by others, and when individual effort adds towards a greater good. I am quite new to open science and am thrilled to be able to contribute, so I encourage anyone that is interested to take the plunge and get started.
@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Current
+- Previous collaborators
 ---
 
 

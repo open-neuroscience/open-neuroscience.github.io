@@ -1,2 +1,0 @@
-"x"
-"problem with https://github.com/HarveyLab/mouseVR/blob/master/Guide/vrOverview_whiteBackground.PNG?raw=true"
