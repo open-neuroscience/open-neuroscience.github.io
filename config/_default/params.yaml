@@ -21,6 +21,7 @@ marketing:
     description: 'Open Neuroscience is a user led repository of open source projects for neuroscience'
     twitter: 'openneurosci'
   analytics:
+    plausible: ''
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''

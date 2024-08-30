@@ -9,7 +9,8 @@ sections:
     content:
       title:
       subtitle:
-      text: "<style>   
+      text: "      
+      <style>   
       .hero {
       display: grid;
       grid-template-columns: repeat(12, 7.042253521%);
@@ -49,8 +50,7 @@ sections:
     design:
       # Choose an optional background color, gradient, image, or video
       background:
-        gradient_end: '#3a9ced'
-        gradient_start: '#3a9ced'
+        color: '#3a9ced'
         text_color_light: true
   - block: markdown
     content:
@@ -116,6 +116,8 @@ sections:
         </div>
 
       </style>  "
+
+
   - block: markdown
     content:
       title:
