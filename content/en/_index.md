@@ -473,12 +473,13 @@ input #message {
    <h3>How you can contribute</h3>
    <div class='card add-a-project' id='add-a-project'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
-   
-   <button class='primary centered' onclick='window.location.href='https://bit.ly/uploadON''>add a project</button>
+     {{< cta cta_text=Upload&nbsp;a&nbsp;project
+        cta_link='https://bit.ly/uploadON' cta_new_tab='true' >}}
  </div>    
  <div class='card' id='contribute-on-open-issues'>
   <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-contribute-light.svg' alt=''>
-  <button class='primary centered' onclick='window.location.href='https://github.com/open-neuroscience/open-neuroscience.github.io/issues';'> work on open issues</button>
+  {{< cta cta_text=Work&nbsp;on&nbsp;open&nbsp;issues
+        cta_link='https://github.com/open-neuroscience/open-neuroscience.github.io/issues' cta_new_tab='true' >}}
  </div>
 </div>
 "
