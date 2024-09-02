@@ -7,7 +7,7 @@ authors:
 - andre-maia-chagas
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: "André Maia Chagas"
