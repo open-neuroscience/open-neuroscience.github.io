@@ -1,6 +1,11 @@
 ---
 # Display name
-#name: "André Maia Chagas"
+title: Andre Maia Chagas
+
+# Full name (for SEO)
+first_name: Andre
+last_name: Maia Chagas
+
 
 # Username (this should match the folder name)
 authors: 
