@@ -474,11 +474,11 @@ input #message {
    <div class='card add-a-project' id='add-a-project'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
    
-   <button class='primary centered' onclick='window.location.href='https://bit.ly/uploadON';'>add&nbsp;a&nbsp;project</button>
+   <button class='primary centered' onclick='window.location.href='https://bit.ly/uploadON';'>add a project</button>
  </div>    
  <div class='card' id='contribute-on-open-issues'>
   <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-contribute-light.svg' alt=''>
-  <button class='primary centered' onclick='window.location.href='https://github.com/open-neuroscience/open-neuroscience.github.io/issues';'> work&nbsp;on&nbsp;open&nbsp;issues</button>
+  <button class='primary centered' onclick='window.location.href='https://github.com/open-neuroscience/open-neuroscience.github.io/issues';'> work on open issues</button>
  </div>
 </div>
 "
