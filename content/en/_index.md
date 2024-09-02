@@ -606,9 +606,9 @@ input #message {
           link: https://x.com/openneurosci
       autolink: true
       form:
-        provider: netlify
+        provider: formspree
         formspree:
-          id: ""
+          id: "https://formspree.io/f/openeuroscience@gmail.com"
         netlify:
           captcha: false
     design:
