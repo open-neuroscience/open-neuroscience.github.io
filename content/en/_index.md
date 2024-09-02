@@ -474,12 +474,12 @@ input #message {
    <div class='card add-a-project' id='add-a-project'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
      {{< cta cta_text=Upload&nbsp;a&nbsp;project
-        cta_link='https://bit.ly/uploadON' cta_new_tab='true' >}}
+        cta_link=https://bit.ly/uploadON cta_new_tab='true' >}}
  </div>    
  <div class='card' id='contribute-on-open-issues'>
   <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-contribute-light.svg' alt=''>
   {{< cta cta_text=Work&nbsp;on&nbsp;open&nbsp;issues
-        cta_link='https://github.com/open-neuroscience/open-neuroscience.github.io/issues' cta_new_tab='true' >}}
+        cta_link=https://github.com/open-neuroscience/open-neuroscience.github.io/issues cta_new_tab='true' >}}
  </div>
 </div>
 "
@@ -491,7 +491,7 @@ input #message {
       title: Projects
       subtitle: Want to add your own? Click below!
       text: "{{< cta cta_text=Add&nbsp;my&nbsp;project
-        cta_link='https://forms.gle/T7FVzhWEq9CToWUN8' cta_new_tab='true' >}}"
+        cta_link=https://forms.gle/T7FVzhWEq9CToWUN8 cta_new_tab='true' >}}"
       filters:
         folders:
           - post
