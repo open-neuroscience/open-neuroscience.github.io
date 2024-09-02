@@ -608,7 +608,7 @@ input #message {
       form:
         provider: formspree
         formspree:
-          id: "https://formspree.io/f/openeuroscience@gmail.com"
+          id: "openeuroscience@gmail.com"
         netlify:
           captcha: false
     design:
