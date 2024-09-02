@@ -1,7 +1,8 @@
 ---
-# Display name
-name: Jesus J Ballesteros
-
+title: Jesus Ballesteros
+# Full name (for SEO)
+first_name: Jesus
+last_name: Ballesteros
 # Username (this should match the folder name)
 authors:
 - JJ-ballesteros
@@ -10,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Jesus J Ballesteros
+role: 
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +19,7 @@ role: Jesus J Ballesteros
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio
+bio:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

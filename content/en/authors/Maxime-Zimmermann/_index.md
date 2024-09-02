@@ -1,6 +1,9 @@
 ---
 # Display name
-name: Maxime Zimmermann
+title: Maxime Zimmermann
+# Full name (for SEO)
+first_name: Maxime
+last_name: Zimmerman
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Maxime Zimmermann
+role: 
 
 # Organizations/Affiliations
 #organizations:

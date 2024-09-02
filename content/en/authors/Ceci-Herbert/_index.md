@@ -1,6 +1,9 @@
 ---
-# Display name
-name: Ceci Herbert
+title: Ceci Herbert
+
+# Full name (for SEO)
+first_name: Ceci
+last_name: Herbert
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ceci Herbert
+role: 
 
 # Organizations/Affiliations
 organizations:

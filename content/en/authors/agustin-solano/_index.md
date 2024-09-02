@@ -1,6 +1,10 @@
 ---
 # Display name
-name: Agustín Solano
+title: Agustin Solano
+
+# Full name (for SEO)
+first_name: Agustino
+last_name: Solano
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Agustín Solano
+role: 
 
 # Organizations/Affiliations
 #organizations:

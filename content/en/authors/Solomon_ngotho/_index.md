@@ -1,7 +1,10 @@
 ---
 # Display name
-#name: "André Maia Chagas"
+title: Solomon Gitau Ngotho
 
+# Full name (for SEO)
+first_name: Solomon
+last_name: Gitau Ngotho
 # Username (this should match the folder name)
 authors: 
 - solomon-Ngotho 
@@ -10,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Solomon Gitau Ngotho"
+role: Research Technician
 
 #Organizations/Affiliations
 organizations:

@@ -15,7 +15,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "André Maia Chagas"
+role: Lecturer in Open Science
 
 #Organizations/Affiliations
 organizations:

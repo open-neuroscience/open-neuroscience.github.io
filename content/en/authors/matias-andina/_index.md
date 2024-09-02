@@ -1,7 +1,10 @@
 ---
 # Display name
-name: Matias Andina
+title: Matias Andina
 
+# Full name (for SEO)
+first_name: Matias
+last_name: Andina
 # Username (this should match the folder name)
 authors:
 - matias-andina
@@ -10,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Matias Andina
+role: 
 
 # Organizations/Affiliations
 organizations:

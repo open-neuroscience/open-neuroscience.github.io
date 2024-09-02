@@ -1,6 +1,10 @@
 ---
 # Display name
-name: Miguel Fernandes
+title: Miguel Fernandes
+
+# Full name (for SEO)
+first_name: Miguel
+last_name: Fernandes
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Miguel Fernandes
+role: 
 
 # Organizations/Affiliations
 #organizations:

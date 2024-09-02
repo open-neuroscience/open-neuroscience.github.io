@@ -1,6 +1,9 @@
 ---
-# Display name
-name: Gaspar Herrera
+title: Gaspar Herrera
+
+# Full name (for SEO)
+first_name: Gaspar
+last_name: Herrera
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +13,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Gaspar Herrera
+role: 
 
 # Organizations/Affiliations
 #organizations:

@@ -1,6 +1,8 @@
 ---
-# Display name
-#name: "André Maia Chagas"
+title: Luisa Sa
+# Full name (for SEO)
+first_name: Luisa
+last_name: Sa Barreto Pimentel
 
 # Username (this should match the folder name)
 authors: 
@@ -10,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Luisa Sa Barreto Pimentel"
+role: "Open Science Community Officer"
 
 #Organizations/Affiliations
 organizations:

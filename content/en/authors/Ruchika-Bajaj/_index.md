@@ -1,7 +1,9 @@
 ---
 # Display name
-name: Ruchika Bajaj
-
+title: Ruchika Bajaj
+# Full name (for SEO)
+first_name: Ruchika
+last_name: Bajaj
 # Username (this should match the folder name)
 authors:
 - Ruchika-Bajaj
@@ -10,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ruchika Bajaj
+role: 
 
 # Organizations/Affiliations
 #organizations:

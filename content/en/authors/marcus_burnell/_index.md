@@ -1,6 +1,10 @@
 ---
 # Display name
-#name: "André Maia Chagas"
+title: Marcus Burnell Spector
+
+# Full name (for SEO)
+first_name: Marcus
+last_name: Burnell Spector
 
 # Username (this should match the folder name)
 authors: 
@@ -10,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Marcus Burnell Spector"
+role: "PhD candidate"
 
 #Organizations/Affiliations
 organizations:
