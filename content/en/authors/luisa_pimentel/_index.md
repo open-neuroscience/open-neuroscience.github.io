@@ -1,12 +1,12 @@
 ---
-title: Luisa Sa
+title: Luisa Pimentel
 # Full name (for SEO)
 first_name: Luisa
 last_name: Sa Barreto Pimentel
 
 # Username (this should match the folder name)
 authors: 
-- luisa-sa
+- luisa-pimentel
 
 # Is this the primary user of the site?
 superuser: false
