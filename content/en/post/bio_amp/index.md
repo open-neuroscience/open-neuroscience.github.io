@@ -1,5 +1,5 @@
 ---
-title: Open BCI
+title: BioAmp
 authors: ['André Maia Chagas']
 
 layout: post
