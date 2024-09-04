@@ -1,16 +1,15 @@
 ---
-title: "Bpod"
-date: 2023-10-09
-authors: ["admin"]
+title: 'Bpod'
+date: 2024-09-04
+authors: ['admin']
 layout: post
-categories: ["Software","Behaviour","Hardware"]
-tags: ["Software","Behaviour","Hardware"]
+categories: ['Software', 'Behaviour', 'Hardware']
+tags: ['Software', 'Behaviour', 'Hardware']
 links:
-- name: Follow
-  url: https://twitter.com/@SanworksLLC
+- icon: twitter
   icon_pack: fab
-  icon: twitter
-
+  name: Follow
+  url: https://twitter.com/@SanworksLLC
 ---
 Bpod is an open-source platform for real-time behavioral measurement in multi-trial experiments. With control software in MATLAB and device firmware in Arduino, it is designed to be customized with the software talent in a typical academic Neuroscience lab. Bpod was developed in Kepecs Lab at Cold Spring Harbor Laboratory, and is actively maintained by Sanworks LLC, a company dedicated to developing open source tools for Neuroscience research.
 
@@ -20,7 +19,7 @@ Aside from the state machine controller, the Bpod project includes an array of A
 
 Bpod hardware can be assembled with DIY desktop manufacturing methods: soldering, 3-D printing, laser cutting and hand-tapping. The system architecture is low cost, and supremely hackable - precisely what is necessary to explore a space of behavioral metrics, or to train test subjects with high throughput. 
 
-Bpod’s scalability and access equity hinges on support for hardware control in Python, the dev team’s highest priority. Other active areas of development include advanced proximity sensing, infrastructure for distributed experiments and coverage of additional stimulus modalities.
+Bpodâ€™s scalability and access equity hinges on support for hardware control in Python, the dev teamâ€™s highest priority. Other active areas of development include advanced proximity sensing, infrastructure for distributed experiments and coverage of additional stimulus modalities.
 ## Project Author(s)
 Josh Sanders; Adam Kepecs
 ## Project Links

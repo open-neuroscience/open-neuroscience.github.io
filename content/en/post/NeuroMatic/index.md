@@ -1,18 +1,17 @@
 ---
-title: "NeuroMatic"
-date: 2023-10-09
-authors: ["admin"]
+title: 'NeuroMatic'
+date: 2024-09-04
+authors: ['admin']
 layout: post
-categories: ["Software","Data Analysis","Computers"]
-tags: ["Software","Data Analysis","Computers"]
+categories: ['Software', 'Data Analysis', 'Computers']
+tags: ['Software', 'Data Analysis', 'Computers']
 links:
-- name: Follow
-  url: https://twitter.com/openneurosci
+- icon: twitter
   icon_pack: fab
-  icon: twitter
-
+  name: Follow
+  url: https://twitter.com/openneurosci
 ---
-NeuroMatic is a collection of WaveMetrics Igor Pro software tools for acquiring, analyzing and simulating electrophysiological data. By merging a wide range of tools into a single package, NeuroMatic facilitates a more integrated style of research. Being open source and of modular design, NeuroMatic allows users to develop their own analysis functions that can be easily incorporated into NeuroMatic’s framework.
+NeuroMatic is a collection of WaveMetrics Igor Pro software tools for acquiring, analyzing and simulating electrophysiological data. By merging a wide range of tools into a single package, NeuroMatic facilitates a more integrated style of research. Being open source and of modular design, NeuroMatic allows users to develop their own analysis functions that can be easily incorporated into NeuroMaticâ€™s framework.
 ## Project Author(s)
 Jason Rothman; Angus Silver
 ## Project Links
