@@ -190,7 +190,7 @@ sections:
       title: Contact
       subtitle: ""
       text: ""
-      email: openeuroscience@gmail.com
+      email: info@open-neuroscience.com
       contact_links:
         - icon: twitter
           icon_pack: fab
