@@ -143,7 +143,7 @@ def get_youtube_id(link):
 # Main script
 
 def main():
-    url = "/home/andre/OneDrive/projects/open-neuroscience/posts/Open Neuroscience post.xlsx"
+    url = "/home/andre/OneDrive/projects/open-neuroscience/posts/Open Neuroscience post1.xlsx"
     try:
         df = pd.read_excel(url)
         print(f"Successfully read spreadsheet. Found {len(df)} rows.")
