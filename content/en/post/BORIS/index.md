@@ -3,15 +3,21 @@ title: 'BORIS'
 date: 2024-10-10
 authors: ['admin']
 layout: post
-categories: ['Behaviour;Data analysis;']
-tags: ['Behaviour;Data analysis;']
+categories: [Behaviour, Data analysis]
+tags: [Behaviour, Data analysis]
 #links:
 #- icon: twitter
 #  icon_pack: fab
 #  name: Follow
 #  url: 
 ---
+
+<br>
+
 BORIS is an easy-to-use event logging software for video/audio coding and live observations.
+
+<br>
+
 ## Project Author(s)
 Olivier Friard; Marco Gamba
 ## Project Links
