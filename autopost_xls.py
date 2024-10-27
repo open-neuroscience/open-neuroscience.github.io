@@ -19,7 +19,7 @@ def create_yaml(title, authors, categories, project_handle):
     
     # Handle categories/tags
     if categories:
-        cat_list = [cat.strip("'") for cat in categories.split(',') if cat.strip()]
+        cat_list = [cat.strip("'") for cat in categories.split(';') if cat.strip()]
         categories = ", ".join([f"'{cat}'" for cat in cat_list])
         catt = f"categories: [{categories}]"
         tagg = f"tags: [{categories}]"

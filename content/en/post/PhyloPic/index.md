@@ -3,8 +3,8 @@ title: 'PhyloPic'
 date: 2024-10-27
 authors: ['admin']
 layout: post
-categories: ['Other;Software;']
-tags: ['Other;Software;']
+categories: ['Other', 'Software']
+tags: ['Other', 'Software']
 links:
 - icon: twitter
   icon_pack: fab
