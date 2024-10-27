@@ -143,14 +143,21 @@ def get_youtube_id(link):
 # Main script
 
 def main():
-    url = "/home/andre/OneDrive/projects/open-neuroscience/posts/Open Neuroscience post1.xlsx"
+    url = "/home/andre/OneDrive/projects/open-neuroscience/posts/Open Neuroscience post.xlsx"
     try:
         df = pd.read_excel(url)
         print(f"Successfully read spreadsheet. Found {len(df)} rows.")
     except Exception as e:
         print(f"Error reading spreadsheet: {e}")
         return
-
+    
+    clean_keys = dict()
+    for item in df.columns:
+        clean_keys[item]=item.strip()
+    #print(clean_keys)
+    df = df.rename(columns=clean_keys)
+    print(df.columns)
+    
     original_columns = df.columns.tolist()
 
     df['tags'] = df['Project categories']
@@ -160,10 +167,10 @@ def main():
     post_df = df[df['posted'].isna() | (df['posted'] == False)].copy()
     print(f"Found {len(post_df)} posts to create.")
     
-    post_df['filename'] = post_df['Project Title'].apply(lambda x: clean_post_title(x, with_path=True))
+    post_df['filename'] = post_df["Project Title"].apply(lambda x: clean_post_title(x, with_path=True))
     
     for _, row in post_df.iterrows():
-        print(f"\nProcessing post: {row['Project Title']}")
+        print(f'\nProcessing post: {row["Project Title"]}')
         print(f"Tags: {row['tags']}")  # Print tags for each post
         yaml_content = create_yaml(row['Project Title'], ['admin'], row['tags'], row['Project and/or author twitter handle'])
         body_content = create_body(
