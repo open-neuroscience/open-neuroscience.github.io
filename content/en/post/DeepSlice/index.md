@@ -3,8 +3,8 @@ title: 'DeepSlice'
 date: 2024-10-15
 authors: ['admin']
 layout: post
-categories: ['Computational Neuroscience;Data analysis;Software;Computers;']
-tags: ['Computational Neuroscience;Data analysis;Software;Computers;']
+categories: ['Computational Neuroscience','Data analysis','Software','Computers']
+tags: ['Computational Neuroscience','Data analysis','Software','Computers']
 links:
 - icon: twitter
   icon_pack: fab
