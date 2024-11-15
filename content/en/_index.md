@@ -27,6 +27,8 @@ sections:
 
 
 
+
+
   - block: markdown
     content:
       title:
@@ -53,7 +55,6 @@ sections:
         </div>
  "
 
-
   - block: markdown
     content:
       title:
@@ -63,16 +64,27 @@ sections:
 
  <div class='section' id='how-you-can-contribute'>
    <h3>How you can contribute</h3>
+   
+   <div class='card' id='contribute-on-open-issues'>
+   <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-contribute-light.svg' alt=''>
+   {{< cta cta_text=Work&nbsp;on&nbsp;open&nbsp;issues
+        cta_link=https://github.com/open-neuroscience/open-neuroscience.github.io/issues cta_new_tab='true' >}}
+   </div>
+
    <div class='card add-a-project' id='add-a-project'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
      {{< cta cta_text=Upload&nbsp;a&nbsp;project
-        cta_link=https://bit.ly/uploadON cta_new_tab='true' >}}
- </div>    
- <div class='card' id='contribute-on-open-issues'>
-  <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-contribute-light.svg' alt=''>
-  {{< cta cta_text=Work&nbsp;on&nbsp;open&nbsp;issues
-        cta_link=https://github.com/open-neuroscience/open-neuroscience.github.io/issues cta_new_tab='true' >}}
- </div>
+        cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}
+   </div>
+   <!--
+   <div class='card add-a-seminar' id='add-a-project'>
+   <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
+     {{< cta cta_text=give&nbsp;a&nbsp;seminar
+        cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}
+  </div>
+-->
+
+
 </div>
 "
 
@@ -83,7 +95,7 @@ sections:
       title: Projects
       subtitle: Want to add your own? Click below!
       text: "{{< cta cta_text=Add&nbsp;my&nbsp;project
-        cta_link=https://forms.gle/T7FVzhWEq9CToWUN8 cta_new_tab='true' >}}"
+        cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}"
       filters:
         folders:
           - post
@@ -155,7 +167,7 @@ sections:
       subtitle: We run a seminar series where tool and methods can be showcased by
         their developers!
       text: "{{< cta cta_text=I&nbsp;would&nbsp;like&nbsp;to&nbsp;give&nbsp;a&nbsp;seminar
-        cta_link=https://forms.gle/vhUBTwygFnRA1B7y9 cta_new_tab=true >}}"
+        cta_link=https://forms.office.com/e/xmkaapqVDg cta_new_tab=true >}}"
       filters:
         folders:
           - post

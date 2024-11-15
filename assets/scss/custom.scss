@@ -174,7 +174,7 @@ p {
 }
 .section {
     display: grid;
-    grid-template-columns: repeat(12, 7.042253521%);
+    grid-template-columns:  repeat(12, 7.042253521%);
     grid-column-gap: 1.408450704%;
     margin: auto 65px ;
     margin-top: 34px; 
@@ -269,12 +269,18 @@ font-variant: small-caps;
     color: #3A9CED;
     border: 2px solid #3A9CED;
 }
-#add-a-project {
+
+#contribute-on-open-issues {
     grid-column: 1 / 5;
 }
-#contribute-on-open-issues {
-    grid-column: 5 / 9;
+#add-a-project {
+    grid-column: 5/ 9;
 }
+
+#add-a-seminar {
+    grid-column: 9 / 13;
+    }
+
 #get-in-touch form {
     grid-column: 1 / 9;
     margin-top: 19px;
@@ -348,10 +354,13 @@ input #message {
     }
     /* make sure contribute card buttons stay in one line  */
     #add-a-project {
-        grid-column: 1/6;
+        grid-column: 1/5;
+    }
+    #add-a-seminar {
+        grid-column: 5/9;
     }
     #contribute-on-open-issues {
-        grid-column: 6/11;
+        grid-column: 9/13;
     }
 }
 /* MOBILE LAYOUT */
@@ -382,6 +391,9 @@ input #message {
         grid-column: 1/13;
     }
     .add-a-project {
+        grid-column: 1/13;
+    }
+    .add-a-seminar {
         grid-column: 1/13;
     }
     .contribute-on-open-issues {
