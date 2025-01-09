@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 20 20"
+   version="1.1"
+   id="svg10636"
+   sodipodi:docname="labelbuddy-animated.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="1.6406248"
+     inkscape:cx="238.01908"
+     inkscape:cy="98.133345"
+     inkscape:window-width="1920"
+     inkscape:window-height="1035"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10636"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid835" />
+  </sodipodi:namedview>
+  <style
+     id="style3">
+    @keyframes wave-hand {
+      from {transform: rotate(-2deg); transform-origin: 43% 42%;}
+      to {transform: rotate(2deg); transform-origin: 43% 42%;}
+    }
+
+    #hat-hand {
+      animation-name: wave-hand;
+      animation-duration: 1.6s;
+      animation-iteration-count: infinite;
+      animation-direction: alternate;
+      animation-timing-function: ease-in-out;
+    }
+  </style>
+  <defs
+     id="defs10633" />
+  <g
+     id="g848"
+     transform="matrix(1.1211245,0,0,1.1211245,0,0.54687388)">
+    <path
+       id="rect14780-5"
+       style="fill:#3a95f5;fill-opacity:0;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.208085"
+       d="M 0,1e-6 H 16.933335 V 16.933335 H 0 Z" />
+    <path
+       style="fill:#6b86ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path14754-0"
+       width="14.552083"
+       height="14.55207"
+       x="42.948704"
+       y="66.030594"
+       d="m 2.910417,1.058335 h 9.260416 a 2.6458333,2.6458333 0 0 1 2.645834,2.645833 v 9.260403 a 2.6458333,2.6458333 0 0 1 -2.645834,2.645834 H 2.910417 A 2.6458333,2.6458333 0 0 1 0.264584,12.964571 V 3.704168 A 2.6458333,2.6458333 0 0 1 2.910417,1.058335 Z" />
+    <g
+       id="g1010">
+      <path
+         style="fill:#ffd101;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2.38125,8.466658 c 1.322917,2.645834 3.763668,6.13449 5.077605,7.739447 0.233532,0.285256 0.396034,0.309117 0.718949,0.209574 0.252842,-0.07794 3.219015,-1.589161 3.45559,-1.841741 0.236576,-0.25258 0.102036,-0.492293 0.04487,-0.683323 -0.565763,-1.71979 -2.153263,-5.68854 -3.476183,-8.334371 z"
+         id="path14760-3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 6.879167,8.466658 c 0,0 -0.115939,-0.58876 0.264584,-0.79375 0.380527,-0.20498 0.79375,0.264583 0.79375,0.264583"
+         id="path14770-2-7" />
+      <path
+         style="fill:#ffd101;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2.645834,2.910408 3.045777,3.883806 4.05743,3.288444 3.439584,2.116658 Z"
+         id="path14762-4" />
+      <path
+         style="fill:#2a3539;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 2.910417,8.202075 4.7625,-2.38125 -0.264583,-0.529167 c 0,0 -0.429206,0.124403 -0.831187,0.07669 C 6.167066,5.319678 5.530096,5.187871 5.213053,4.854496 4.937195,4.564426 4.233334,3.174996 4.233334,3.174996 l -1.322917,0.79375 c 0,0 0.639632,1.197326 0.664791,1.603098 C 3.604788,6.048984 3.46033,6.544625 3.297996,6.924775 3.153236,7.263755 2.645834,7.67291 2.645834,7.67291 Z"
+         id="path14766-6" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 5.291667,10.318742 C 6.085417,10.847909 6.917971,10.809971 7.5806,10.42993 8.134584,10.1122 8.466667,9.524992 8.466667,8.731242"
+         id="path14768-0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 4.762501,9.524992 c 0,0 -0.115939,-0.58876 0.264584,-0.79375 0.380527,-0.20498 0.79375,0.264583 0.79375,0.264583"
+         id="path14770-2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 3.704167,10.847908 c -0.217299,0.9653 -0.01154,1.34598 0.454801,1.703858 0.623893,0.478784 1.349616,0.4561 2.359295,-0.002"
+         id="path14772-5" />
+    </g>
+    <g
+       id="hat-hand">
+      <path
+         style="fill:#2a3539;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 15.081251,7.672908 c 0,0 0.339325,-0.903443 0.707244,-1.956433 0.278208,-0.79625 0.902411,-2.801449 0.700608,-3.515958 C 16.249019,1.350481 13.386705,0.10074 12.593813,0.490855 12.184166,0.692403 11.183859,2.323914 10.578425,3.303543 9.97299,4.283193 9.525001,5.291658 9.525001,5.291658 Z"
+         id="path14758-0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 9.260417,7.937492 c 1.77301,0.25407 1.863121,-1.245197 1.5875,-2.116667"
+         id="path14774-8" />
+    </g>
+  </g>
+</svg>

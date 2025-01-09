@@ -1,15 +1,15 @@
 ---
 title: 'A place to discuss experimental methods in animal behaviour'
-date: 2024-11-21
+date: 2025-01-09
 authors: ['admin']
 layout: post
 categories: ['Behaviour', 'Tutorials & learning portals']
 tags: ['Behaviour', 'Tutorials & learning portals']
 links:
-- icon: bsky
+- icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://bsky.app/profile/thebehaviourforum.bsky.social
+  url: https://twitter.com/@thebehaviourforum.bsky.social
 ---
 TheBehaviourForum.org (www.thebehaviourforum.com) is a global platform bringing together scientists, technicians, and animal welfare experts to advance the study of animal behaviour. This free, user-friendly space fosters collaboration, enabling members to share knowledge, troubleshoot experiments, and discuss best practices. Topics range from new research findings and experimental protocols to training, conferences, and job opportunities, all with a strong focus on animal welfare and ethical practices.
 

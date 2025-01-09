@@ -1,0 +1,1 @@
+problem with https://raw.githubusercontent.com/TheDeanLab/navigate/refs/heads/develop/src/navigate/view/icon/mic.ico
