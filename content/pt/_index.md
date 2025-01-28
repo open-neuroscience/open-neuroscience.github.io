@@ -15,7 +15,7 @@ sections:
       <div class='smiley'>
       <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/on-logo-lightBlue.svg' alt=''>
       </div>
-      <h2>We are a user-driven database of open neuroscience projects</h2>
+      <h2>Um banco de dados de projetos de ciência aberta relacionados a neurociência</h2>
 
       </div>
     "
@@ -36,21 +36,21 @@ sections:
       
       text: "
 <div class='section' id='what-we-do'>
-     <h3>What we do</h3>
+     <h3>O que fazemos</h3>
      <div class='card card-curators'>
        <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-library-light.svg' alt=''>
-       <h4>Project curators</h4>
-       <p>We curate projects from the web and allow creators to register their own</p>
+       <h4>Curadoria de Projetos</h4>
+       <p>Fazemos curadoria de projetos da Web e permitimos que criadores registrem seus próprios</p>
      </div>
 <div class='card card-database'>
     <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-search-light.svg' alt=''>
-    <h4>Extensive database</h4>
-    <p>We make it easy for researchers to find relevant projects to help their studies</p>
+    <h4>Banco de dados</h4>
+    <p>Facilitamos aos pesquisadores a localização de projetos relevantes para ajudar em seus estudos</p>
     </div>
     <div class='card card-promoters'>
     <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-promote-light.svg' alt=''>
-                <h4>Project promoters</h4>
-                <p>We help creators and promote their work through our network</p>
+                <h4>Divulgação de projetos</h4>
+                <p>Ajudamos desenvolvedores a promover seu trabalho por meio de nossa rede</p>
             </div>
         </div>
  "
@@ -63,17 +63,17 @@ sections:
       text: "
 
  <div class='section' id='how-you-can-contribute'>
-   <h3>How you can contribute</h3>
+   <h3>Como contribuir</h3>
    
    <div class='card' id='contribute-on-open-issues'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-contribute-light.svg' alt=''>
-   {{< cta cta_text=Work&nbsp;on&nbsp;open&nbsp;issues
+   {{< cta cta_text=Ajude&nbsp;com&nbsp;Github&nbsp;issues
         cta_link=https://github.com/open-neuroscience/open-neuroscience.github.io/issues cta_new_tab='true' >}}
    </div>
 
    <div class='card add-a-project' id='add-a-project'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
-     {{< cta cta_text=Upload&nbsp;a&nbsp;project
+     {{< cta cta_text=Faça&nbsp;upload&nbsp;de&nbsp;projetos
         cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}
    </div>
    <!--
@@ -92,9 +92,9 @@ sections:
     headless: true
     id: projects
     content:
-      title: Projects
-      subtitle: Want to add your own? Click below!
-      text: "{{< cta cta_text=Add&nbsp;my&nbsp;project
+      title: Projetos
+      subtitle: Quer adicionar o seu? Clique abaixo!
+      text: "{{< cta cta_text=Adicione&nbsp;meu&nbsp;projeto
         cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}"
       filters:
         folders:
@@ -109,51 +109,51 @@ sections:
           tag: "*"
         - name: Deep Learning
           tag: Deep Learning
-        - name: Animal electrophysiology
+        - name: Eletrofisiologia Animal
           tag: Animal ephys
         - name: Backlog
           tag: Topic
-        - name: Benchtop
+        - name: Bancada
           tag: Benchtop
-        - name: Behaviour
+        - name: Comportamento
           tag: Behaviour
         - name: Calcium Imaging
           tag: Calcium Imaging
-        - name: Computers
+        - name: Computadores
           tag: Computers
-        - name: Computer Clusters
+        - name: Cluster de computadores
           tag: Computer clusters
-        - name: Data Analysis
+        - name: Analise de dados
           tag: Data analysis
-        - name: Data Repositories
+        - name: Repositórios de dados
           tag: Database
-        - name: Electric Stimulation
+        - name: Estimulação elétrica
           tag: Electric
-        - name: Fluorescence
+        - name: Fluorescência
           tag: Fluorescence
         - name: Hardware
           tag: Hardware
-        - name: Human Neuroscience
+        - name: Neurociência humana
           tag: Human Neuroscience
-        - name: Human electrophysiology
+        - name: Eletrofisiologia Humana
           tag: Human ephys
-        - name: Microscopes
+        - name: Microscópios
           tag: Microscope
-        - name: Microscopes software
+        - name: Software para Microscópios
           tag: Microscopes software
         - name: Optogenetics
           tag: Optogenetics
-        - name: Prosthetics
+        - name: Próteses
           tag: Prosthetics
-        - name: Simulations
+        - name: Simulações
           tag: Simulation
         - name: Software
           tag: Software
-        - name: Tutorials and learning portals
+        - name: Tutorials e portais de aprendizagem
           tag: Learning
-        - name: World Wide Series Seminars
+        - name: Seminários World Wide Series
           tag: worldwideseries
-        - name: Other
+        - name: Outros
           tag: Other
     design:
       columns: "1"
@@ -163,10 +163,10 @@ sections:
     headless: true
     id: seminars
     content:
-      title: Seminars
-      subtitle: We run a seminar series where tool and methods can be showcased by
-        their developers!
-      text: "{{< cta cta_text=I&nbsp;would&nbsp;like&nbsp;to&nbsp;give&nbsp;a&nbsp;seminar
+      title: Seminários
+      subtitle:  Realizamos uma série de seminários em que ferramentas e métodos podem ser apresentados por
+        seus desenvolvedores!
+      text: "{{< cta cta_text=Eu&nbsp;gostaria&nbsp;de&nbsp;dar&nbsp;uma&nbsp;palestra&nbsp;sobre&nbsp;o&nbsp;meu&nbsp;projeto 
         cta_link=https://forms.office.com/e/xmkaapqVDg cta_new_tab=true >}}"
       filters:
         folders:
