@@ -28,6 +28,15 @@ main:
   - name: "Metrics"
     url: "metrics/"
     weight: 90
+    
+  - name: "Conferences"
+    identifier: conferences
+    weight: 100
   - name: "FENS 2022"
+    parent: conferences
     url: "https://open-neuroscience.com/FENS-2022/"
+    weight: 90
+  - name: "ERM2023"
+    parent: conferences
+    url: "https://open-neuroscience.com/ERM2023/"
     weight: 100
