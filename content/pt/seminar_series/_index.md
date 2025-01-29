@@ -1,5 +1,5 @@
 ---
-title: Seminar Series
+title: Seminários
 
 # View.
 #   1 = List

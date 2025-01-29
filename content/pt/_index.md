@@ -185,7 +185,7 @@ sections:
   - block: people
     id: team
     content:
-      title: Meet the Team
+      title: Equipe
       user_groups:
         - Current
         - Previous collaborators
@@ -199,15 +199,15 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contato
       subtitle: ""
       text: ""
       email: info@open-neuroscience.com
       contact_links:
-        - icon: twitter
+        - icon: bluesky
           icon_pack: fab
-          name: DM Me
-          link: https://x.com/openneurosci
+          name: BlueSky
+          link: https://bsky.app/profile/open-neuroscience.com
       autolink: true
       form:
         provider: formspree
