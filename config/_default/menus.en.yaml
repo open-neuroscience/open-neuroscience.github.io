@@ -19,9 +19,9 @@ main:
   - name: "Seminar series"
     url: "#seminars"
     weight: 30
-  - name: "Services"
-    url: "#contact"
-    weight: 50
+#  - name: "Services"
+#    url: "#contact"
+#    weight: 50
   - name: "Contact"
     url: "#contact"
     weight: 40
