@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Open Neuroscience 
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: "https://open-neuroscience.com/" 
 
 ############################
 ## LANGUAGE
@@ -21,8 +21,8 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
-build:
-  writeStats: true
+#build:
+#  writeStats: true
 enableGitInfo: false
 summaryLength: 30
 pagination:

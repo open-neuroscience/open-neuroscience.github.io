@@ -4,9 +4,17 @@
 
 # Default language
 en:
-  languageCode: en-us
+  languageCode: en-gb
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  contentDir: content/en
+pt:
+  languageCode: pt-br
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/pt
+  title: Neurociência aberta
+  params:
+    description: Um repositório online de projetos de ciência aberta relacionados a neurociência
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:

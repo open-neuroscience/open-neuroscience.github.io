@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Neurociência aberta</title>
+    <link>http://localhost:1313/pt/tags/</link>
+      <atom:link href="http://localhost:1313/pt/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>pt-br</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo.svg</url>
+      <title>Tags</title>
+      <link>http://localhost:1313/pt/tags/</link>
+    </image>
+    
+  </channel>
+</rss>
