@@ -79,7 +79,7 @@ sections:
    <!--
    <div class='card add-a-seminar' id='add-a-project'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
-     {{< cta cta_text=give&nbsp;a&nbsp;seminar
+     {{< cta cta_text=give&nbsp;a&nbsp;seminar	
         cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}
   </div>
 -->
