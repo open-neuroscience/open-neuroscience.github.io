@@ -8,22 +8,22 @@ main:
 #    url: "#intro"
 #    weight: 10
   - name: "Projetos"
-    url: "#projetos"
+    url: "#projects"
     weight: 20
   - name: "Time"
-    url: "/#time"
+    url: "/#team"
     weight: 60
 #  - name: "About"
 #    url: "about"
 #    weight: 50
   - name: "Seminários"
-    url: "#seminarios"
+    url: "#seminars"
     weight: 30
 #  - name: "Serviços"
 #    url: "#contato"
 #    weight: 50
   - name: "Contato"
-    url: "#contato"
+    url: "#contact"
     weight: 40
   - name: "Estatísticas"
     url: "metrics/"
