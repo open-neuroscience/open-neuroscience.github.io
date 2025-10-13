@@ -66,10 +66,8 @@ user_groups:
 
 ---
 
-I grew up in Sao Paulo, Brazil, where my curiosity for how the brain works led me to pursue a degree in Pharmacy and later a PhD in Pharmacology and Neuroscience. Since then, I’ve spent over 15 years working at the intersection of toxicology, pharmacology, neurobiology, and behavior—focusing especially on addiction and rare diseases. My academic path took me to research institutes across Brazil, the UK, and Canada, where I’ve been proud to contribute to translational and interdisciplinary research at McGill University and the Montreal Neurological Institute.
+Originally from the countryside of São Paulo, I am now a Montréal-based designer and researcher. Over my professional live, I’ve moved between industry and academia, working at advertising agencies, in marketing departments, as a research assistant, and as a freelancer. I eventually moved from Brazil to Canada to pursue a post-graduate diploma in Digital Design, a time that made me interested in research through projects at the intersection of Human-Computer Interaction and Data Analytics.
 
-Along the way, I became passionate about bridging science and society. I’ve led educational initiatives, contributed to international collaborations, and become a strong advocate for Open Science, diversity in research, and accessible scientific communication.
+I hold an MA from McGill University, where my thesis explored open science in the context of digital humanities. This work created a commitment in me to foster collaboration, transparency, and public understanding of science, and reinforced the importance of open-data and open-code for improving reproducibility.
 
-I’m now based in Montréal and continue collaborating across borders and disciplines, with an eye on innovation and patient-centred outcomes. I’m also passionate about languages (English, French, Portuguese, Spanish…and Italian is coming up!) —something that’s helped me build meaningful partnerships around the world.
-
-When I’m not at the bench or in a meeting, you can find me visiting a new coffee shop for the first time, walking my best friend around (woof woof) or cooking!
+Outside of work, you can find me roaming around the city or the woods holding a camera (except during the height of the Canadian summer, when I hibernante until fall), or cooking South Indian curries drenched in tamarind (a by-product of a freelance project that sent me to Chennai for half an year)
