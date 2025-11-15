@@ -74,13 +74,13 @@ sections:
    <div class='card add-a-project' id='add-a-project'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
      {{< cta cta_text=Upload&nbsp;a&nbsp;project
-        cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}
+        cta_link=https://forms.gle/tZtCmbPNch46AU2w5 cta_new_tab='true' >}}
    </div>
    <!--
    <div class='card add-a-seminar' id='add-a-project'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
      {{< cta cta_text=give&nbsp;a&nbsp;seminar	
-        cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}
+        cta_link=https://forms.gle/vXjSbZ7SyTNDMgAA6 cta_new_tab='true' >}}
   </div>
 -->
 
@@ -95,7 +95,7 @@ sections:
       title: Projects
       subtitle: Want to add your own? Click below!
       text: "{{< cta cta_text=Add&nbsp;my&nbsp;project
-        cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}"
+        cta_link=https://forms.gle/tZtCmbPNch46AU2w5 cta_new_tab='true' >}}"
       filters:
         folders:
           - post
@@ -166,8 +166,8 @@ sections:
       title: Seminars
       subtitle: We run a seminar series where tool and methods can be showcased by
         their developers!
-      text: "{{< cta cta_text=I&nbsp;would&nbsp;like&nbsp;to&nbsp;give&nbsp;a&nbsp;seminar
-        cta_link=https://forms.office.com/e/xmkaapqVDg cta_new_tab=true >}}"
+      text: "{{< cta cta_text=I&nbsp;want&nbsp;to&nbsp;give&nbsp;a&nbsp;seminar
+        cta_link=https://forms.gle/vXjSbZ7SyTNDMgAA6 cta_new_tab=true >}}"
       filters:
         folders:
           - post

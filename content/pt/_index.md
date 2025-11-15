@@ -73,14 +73,14 @@ sections:
 
    <div class='card add-a-project' id='add-a-project'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
-     {{< cta cta_text=Faça&nbsp;upload&nbsp;de&nbsp;projetos
-        cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}
+     {{< cta cta_text=Adicione&nbsp;um&nbsp;projeto
+        cta_link=https://forms.gle/tZtCmbPNch46AU2w5 cta_new_tab='true' >}}
    </div>
    <!--
    <div class='card add-a-seminar' id='add-a-project'>
    <img src='https://raw.githubusercontent.com/open-neuroscience/resources/master/images/img-addProject-light.svg' alt=''>
      {{< cta cta_text=give&nbsp;a&nbsp;seminar
-        cta_link=https://forms.office.com/e/5QtUtMc3hw cta_new_tab='true' >}}
+        cta_link=https://forms.gle/vXjSbZ7SyTNDMgAA6 cta_new_tab='true' >}}
   </div>
 -->
 
@@ -166,8 +166,8 @@ sections:
       title: Seminários
       subtitle:  Realizamos uma série de seminários em que ferramentas e métodos podem ser apresentados por
         seus desenvolvedores!
-      text: "{{< cta cta_text=Eu&nbsp;gostaria&nbsp;de&nbsp;dar&nbsp;uma&nbsp;palestra&nbsp;sobre&nbsp;o&nbsp;meu&nbsp;projeto 
-        cta_link=https://forms.office.com/e/xmkaapqVDg cta_new_tab=true >}}"
+      text: "{{< cta cta_text=Quero&nbsp;dar&nbsp;uma&nbsp;palestra&nbsp;sobre&nbsp;o&nbsp;meu&nbsp;projeto 
+        cta_link=https://forms.gle/vXjSbZ7SyTNDMgAA6 cta_new_tab=true >}}"
       filters:
         folders:
           - post
