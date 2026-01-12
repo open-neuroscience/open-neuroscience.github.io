@@ -19,8 +19,8 @@ role: Lecturer in Open Science
 
 #Organizations/Affiliations
 organizations:
-- name: University of Sussex
-  url: https://sussex-neuroscience.github.io
+- name: Pontificia Universidade Catolica de Campinas
+  url: https://amchagas.github.io
 
 # Short bio (displayed in user profile at end of posts)
 bio: "I’m passionate about open science and open source hardware, and how those two can be used to increase research and education reach around the world. I have a background in Neurosciences and have been developing affordable open science hardware and teaching others to do so via workshops, talks and outreach events.
@@ -65,10 +65,10 @@ user_groups:
 
 ---
 
-I’m passionate about open science and open source hardware, and how those two can be used to increase research and education reach around the world. I have a background in Neurosciences and have been developing affordable open science hardware and teaching others to do so via workshops, talks and outreach events.
+"I’m passionate about open science and open source hardware, and how those two can be used to increase research and education reach around the world. I have a background in Neurosciences and have been developing affordable open science hardware and teaching others to do so via workshops, talks and outreach events.
 
 I started Open Neuroscience, and volunteer at [Trend in Africa](https://trendinafrica.org) as an open source adviser and by organizing and running Open Labware workshops.
 
 Currently I work at the [Department of Neurosciences](http://www.sussex.ac.uk/sussexneuroscience/) in the University of Sussex, where I develop equipment to support research labs. For more details on those projects check the [Open Sussex Neuroscience page](https://sussex-neuroscience.github.io/))
 
-On my spare time I offer consultancy services around open science hardware through [Prometheus Science](https://prometheus-science.com). If you need to replicate a methods paper, or if you’d like something custom built for your lab, get in touch!
+On my spare time I offer consultancy services around open science hardware through [Prometheus Science](https://prometheus-science.com). If you need to replicate a methods paper, or if you’d like something custom built for your lab, get in touch!"

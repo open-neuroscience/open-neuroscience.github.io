@@ -14,10 +14,10 @@ superuser: false
 # Role/position
 role: "Lab coordinator"
 
-
 #Organizations/Affiliations
 organizations:
-- name: Tannou Lab - Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM)
+- name: "Tannou Lab - Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM)"
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: " I grew up in Rio de Janeiro, Brazil, where I became fascinated by the world of neuroscience. While doing research, I quickly became interested in education, science communication, and outreach. Working with Open Science then gave me the opportunity to truly contribute to the democratization of scientific knowledge and discoveries.
