@@ -61,8 +61,6 @@ user_groups:
 
 ---
 
-I grew up in Rio de Janeiro, Brazil, where I became fascinated by the world of neuroscience. While doing research, I quickly became interested in education, science communication and outreach. Working with Open Science then gave me the opportunity to truly contribute to the democratization of scientific knowledge and discoveries.
- 
-I am currently the Open Science Community Officer for the Tanenbaum Open Science Institute (TOSI) at The Neuro, in Montréal, Canada. I act also an advisor for the Open Science Office Hours initiative.
- 
-I'm a big music fan (mostly rock), I'm always on the move - on foot, on a longboard, or anything with wheels, and I am always willing to spend time in nature and with the people I love.
+I grew up in Rio de Janeiro, Brazil, where I became fascinated by the world of neuroscience. While doing research, I quickly became interested in education, science communication, and outreach. Working with Open Science then gave me the opportunity to truly contribute to the democratization of scientific knowledge and discoveries.
+I am pleased to collaborate with the Open Neuroscience initiative and work at the CRIUGM (a geriatrics institute affiliated with the University of Montreal, which adopted Open Science in 2025), where I coordinate Dr. Thomas Tannou's research lab. 
+I’m a big music fan (mostly rock), I’m always on the move - on foot, on a longboard, or anything with wheels, and I am always willing to spend time in nature and with the people I love.
