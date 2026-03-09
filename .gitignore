@@ -16,3 +16,4 @@ public/
 *DS_Store
 .Rproj.user
 .secrets
+*api*
